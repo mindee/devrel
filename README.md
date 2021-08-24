@@ -1,3 +1,5 @@
+![mindee-transparent](https://user-images.githubusercontent.com/1170989/130641500-0f72dab7-3b19-4e0c-a267-6bcec9a3ff6e.png)
+
 # Developer Relations at Mindee
 This repository serves as a second brain for the Developer Relations (devrel) team at Mindee.
 

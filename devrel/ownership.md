@@ -57,6 +57,10 @@ We are the first one on the line when it comes to speaking at developers' events
 
 To be able to maximize our visibility, we are more than happy to closely mentor any Mindee employees or anyone from our community when it comes to public speaking. The type of mentorship will depend on the level of help needed: it goes from hands-on help at all stages of creating a talk (brainstorming ideas, choosing the topic, creating the abstract, defining the outline, creating the slides, self-promotions and practicing) to giving feedback only once everything is ready.
 
+## SDKs
+
+Starting from now, the devrel team owns all the Mindee SDKs, which include the JavaScript, Node.js, React and Python ones. In a near future, we will add programming languages or frameworks to the list of SDKs.
+
 ## Slack Community
 
 We own [Mindee's Slack community](https://join.slack.com/t/mindee-community/shared_invite/zt-uzgmljfl-MotFVfH~IdEZxjp~0zldww) which means we are responsible for providing a healthy and welcoming  environment for our community. We are also responsible for creating interesting content to grow the positive and helpful interactions with our members.

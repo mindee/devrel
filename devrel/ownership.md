@@ -59,7 +59,7 @@ To be able to maximize our visibility, we are more than happy to closely mentor 
 
 ## SDKs
 
-Starting from now, the devrel team owns all the Mindee SDKs, which include the JavaScript, Node.js, React and Python ones. In a near future, we will add programming languages or frameworks to the list of SDKs.
+Starting from now, the devrel team owns all the Mindee SDKs, which include the [JavaScript](https://github.com/mindee/mindee-js), [Node.js](https://github.com/mindee/mindee-api-nodejs), [React](https://github.com/mindee/react-mindee-js) and [Python](https://github.com/mindee/mindee-api-python) ones. In a near future, we will add programming languages or frameworks to the list of SDKs.
 
 ## Slack Community
 

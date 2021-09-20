@@ -71,6 +71,7 @@ We are representing Mindee in the technology-focused media as spokespersons, whe
 
 ## Technical Support
 
+<!-- markdown-link-check-disable-next-line -->
 We are responsible for offering technical support on [Twitter](https://twitter.com/mindeeAPI), [LinkedIn](https://www.linkedin.com/company/mindee/) and our [Slack community](https://join.slack.com/t/mindee-community/shared_invite/zt-uzgmljfl-MotFVfH~IdEZxjp~0zldww).
 
 ## Tutorials

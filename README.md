@@ -7,5 +7,9 @@ We will slowly add our processes, ideas, [tasks](https://github.com/mindee/devre
 
 As always, we value constructive feedback. Welcome home!
 
+## Our Mission
+We help developers be successful by nurturing a healthy and welcoming community around the Mindee ecosystem. This means listening to, inspiring, educating, and supporting our community however we can.
+
+
 ## Table of content
 - [Ownership](devrel/ownership.md)

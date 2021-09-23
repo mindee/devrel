@@ -13,3 +13,4 @@ We help developers be successful by nurturing a healthy and welcoming community 
 
 ## Table of content
 - [Ownership](devrel/ownership.md)
+- [SDKs](SDKs/SDKs.md)

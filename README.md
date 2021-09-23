@@ -12,4 +12,5 @@ We help developers be successful by nurturing a healthy and welcoming community 
 
 
 ## Table of content
+- [Onboarding](onboarding/onboarding.md)
 - [Ownership](devrel/ownership.md)

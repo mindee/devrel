@@ -12,4 +12,5 @@ We help developers be successful by nurturing a healthy and welcoming community 
 
 
 ## Table of content
+- [ Jobs ](jobs/jobs.md)
 - [Ownership](devrel/ownership.md)

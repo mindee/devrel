@@ -1,0 +1,16 @@
+name: Move assigned issues into the backlog
+
+on:
+  pull_request:
+    types: [assigned]
+
+jobs:
+  move_in_todo:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.assignee.login == 'fharper' }}
+    steps:
+      - uses: alex-page/github-project-automation-plus@v0.3.0
+        with:
+          project: Fred
+          column: backlog
+          repo-token: ${{ secrets.GITHUB_TOKEN }}

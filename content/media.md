@@ -5,6 +5,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 ## English
 
 ### 2021-10-28
+**BestStartup.eu**
+[47 Top Open Source Startups and Companies in France (2021)](https://beststartup.eu/47-top-open-source-startups-and-companies-in-france-2021/)
+
+### 2021-10-28
 **insideBIGDATA**  
 [Heard on the Street](https://insidebigdata.com/2021/10/28/heard-on-the-street-10-28-2021/)
 

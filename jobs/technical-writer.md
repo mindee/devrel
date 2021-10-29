@@ -45,7 +45,7 @@ If you want, you will also have the opportunity to speak at conferences and meet
 
 ### Soft Skills
 
-Your fit with our team is as important to us as your writing expertise and technical background, if not more so. We are looking for someone with these important soft skills:
+Your fit with our team is as important to us as your developer focused writing expertise and technical background, if not more so. We are looking for someone with these important soft skills:
 
 * Excellent written and oral communication: in prior experiences, you’ve demonstrated ability to teach software developers through clear and accurate written content
 * Constructive mindset (gives and takes feedback well)
@@ -57,6 +57,7 @@ Your fit with our team is as important to us as your writing expertise and techn
 
 #### Must-have
 
+* **Experience writing for a software developer audience**
 * Notable experience with open-source, personal and/or professional
 * Ability to comprehend difficult technical subjects and condense them for a non-technical audience
 * Superb attention to detail
@@ -70,7 +71,7 @@ Your fit with our team is as important to us as your writing expertise and techn
 
 ## Recruitment Process
 
-Please send us your resume and a quick note of why you might be a good fit for this job, along with examples of content you wrote and have the right to share with us.
+Please send us your resume as a PDF and a quick note of why you might be a good fit for this job, along with examples of content you wrote and have the right to share with us.
 
 1. If your profile fits, you will have a 30 minutes call with an HR representative.
 2. If we feel we need to better assess your technical writing skills, we will give you a paid home assignment.

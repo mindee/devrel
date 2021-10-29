@@ -58,6 +58,8 @@ password = <TOKEN>
 
 \* *note that `__token__` in `username` need to stay exactly the same, and not modified with token ID.*
 
+### Steps
+
 1. Remove previous build you may have with `rm dist/*`
 2. Build the source distribution `python -m build --sdist`
 3. Build the wheel `python -m build --wheel`

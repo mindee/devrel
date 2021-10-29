@@ -1,4 +1,4 @@
-name: Move assigned issues into the backlog
+name: Move assigned issues into the back
 
 on:
   pull_request:
@@ -13,4 +13,4 @@ jobs:
         with:
           project: Fred
           column: backlog
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.GH_PROJECT_AUTOMATION_SECRET }}

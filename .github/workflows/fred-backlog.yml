@@ -1,7 +1,7 @@
 name: Move assigned issues into the back
 
 on:
-  pull_request:
+  issues:
     types: [assigned]
 
 jobs:

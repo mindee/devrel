@@ -43,6 +43,8 @@ The next step is to try the product a lot more than what you did before or durin
 
 Once you search the documentation and you still don't know how to do something, ask away, but remember, take note of the problems you had. If you weren't able to do something, it probably means our users may have the same issue.
 
+At a minimum, you should try the [Expense Receipts](https://platform.mindee.com/apishub/products/mindee/expense_receipts) to understand the foundation of our service. After that, you should create your own API using the [API Builder](https://platform.mindee.com/apishub/custom_endpoint) to grasp the full potential of Mindee.
+
 ## Try docTR
 
 [DocTR](https://github.com/mindee/doctr/) (Document Text Recognition) is our open source OCR. It is the engine running under Mindee (soon). We don't make money directly from open sourcing it, but it's a way to give back to our community, and let's be honest, a trojan horse. Since we are the principal maintainer of this project, it's nice that you know a little about it, even if it may not be a focus of yours.

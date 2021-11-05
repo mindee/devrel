@@ -20,3 +20,4 @@ We help developers be successful by nurturing a healthy and welcoming community 
 - [Ownership](devrel/ownership.md)
 - [Scripts](scripts/scripts.md)
 - [SDKs](SDKs/SDKs.md)
+- [Talks](content/talks.md)

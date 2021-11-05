@@ -22,7 +22,7 @@ TIME
 **Thibault Morla**
 **Frédéric Harper**
 
-![](../images/Shakespeare.jpg)
+![](images/Shakespeare.jpg)
 
 [.footer: https://www.pexels.com/photo/photo-of-black-ceramic-male-profile-statue-under-grey-sky-during-daytime-189532/]
 
@@ -31,7 +31,7 @@ TIME
 
 <!--- Problem -->
 
-![](../images/devrel_underwear_gnome_profit.jpeg)
+![](images/devrel_underwear_gnome_profit.jpeg)
 
 ---
 
@@ -47,7 +47,7 @@ We need **everyone** with a technical or scientific expertise to **create conten
 
 <!--- Everyone -->
 
-![](../images/mindee-tech.png)
+![](images/mindee-tech.png)
 
 ---
 
@@ -147,4 +147,4 @@ We need **everyone** with a technical or scientific expertise to **create conten
 
 # QUESTIONS
 
-![inline](../images/underpants-gnomes.png)
+![inline](images/underpants-gnomes.png)

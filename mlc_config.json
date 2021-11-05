@@ -3,9 +3,11 @@
 	  {
 		"pattern": "^https://www.linkedin.com.*"
 	  },
-	  
 	  {
 		"pattern": ".*\\]$"
+	  },
+	  {
+		"pattern": "https://www.enterprisetimes.co.uk*"
 	  }
 	]
 }

@@ -1,17 +1,17 @@
 # Devrel Onboarding
 
-The Developer Relations team (aka devrel) is a fine mix of different role that each have a clear impact on our team's goal. With that in mind, most onboarding process will differ from one type of role to the other, but here are some common things that all members of this team needs to accomplish when they start at Mindee.
+The Developer Relations team (aka devrel) is a fine mix of different roles that each has a clear impact on our team's goal. With that in mind, most onboarding processes will differ from one type of role to the other, but here are some common things that all members of this team needs to accomplish when they start at Mindee.
 
-## Accounts & Accesses
+## Accounts and Access
 
-Before you start your first day, @fharper should have created all the accounts and give you all the access you need to do your job. You may have a lot of emails from day 1, but don't panic if you don't know all the tools we are using, we'll take time together to go through those. Here a list of devrel specific access or accounts you should have:
+Before you start your first day, @fharper should have created all the accounts and give you all the access you need to do your job. You may have a lot of emails from day 1, but don't panic if you don't know all the tools we are using, we'll take time together to go through those. Here is a list of devrel specific access or accounts you should have:
 
 - [GitHub](https://github.com/mindee) within the [devrel team](https://github.com/orgs/mindee/teams/devrel);
 - [Orbit](https://app.orbit.love/) account;
 - [Readme](https://readme.com/) account;
 - [WordPress](https://mindee.com/blog) account.
 
-P.S.: if you are missing access to some of these services or from the common ones, please let @fharper knows
+P.S.: if you are missing access to some of these services or from the common ones, please let @fharper know
 
 ## Get to know your manager
 
@@ -29,13 +29,13 @@ For now the repository is quite empty, but we will slowly define our processes, 
 
 ## Introduce yourself to our community
 
-Everyone in our team should introduce themselves to our community, even if your role is less front-facing. It's a way to let our community know that we care about them, and that we are there to serve them. Let's be honest, it's also a way to get more content on our blog. Here is [Fred's one](https://mindee.com/blog/fred) as an example.
+Everyone in our team should introduce themselves to our community, even if your role is less front facing. It's a way to let our community know that we care about them, and that we are there to serve them. Let's be honest, it's also a way to get more content on our blog. Here is [Fred's](https://mindee.com/blog/fred) as an example.
 
-Once it's published, share it in our [Slack community](https://join.slack.com/t/mindee-community/shared_invite/zt-uzgmljfl-MotFVfH~IdEZxjp~0zldww) with a 1 or 2 sentences about what you'll be doing here.
+Once it's published, share it in our [Slack community](https://join.slack.com/t/mindee-community/shared_invite/zt-uzgmljfl-MotFVfH~IdEZxjp~0zldww) with a one or two sentences about what you'll be doing here.
 
 ## Try Mindee
 
-Next step is to try the product a lot more than what you did before or during your interview process: use one or two API from the APIs Store, and create your own API using the API Builder. Start by trying [the product](https://platform.mindee.com/) by yourself, with the help of the **[documentation](https://developers.mindee.com/docs) only**. The idea is to give you the same experience as any of our customers. During that time, take notes of everything that:
+The next step is to try the product a lot more than what you did before or during your interview process: use one or two APIs from the APIs Store, and create your own API using the API Builder. Start by trying [the product](https://platform.mindee.com/) by yourself, with the help of the **[documentation](https://developers.mindee.com/docs) only**. The idea is to give you the same experience as any of our customers. During that time, take notes of everything that:
 
 1. is not clear in the documentation;
 2. bugs or UI/UX issues you had;
@@ -49,10 +49,10 @@ Once you search the documentation and you still don't know how to do something, 
 
 ## Choose your own path
 
-Now that you've accomplished all steps common for all new hires, and everyone new in our team, it's time to focus on items that are specific to your job at Mindee:
+Now that you've accomplished all steps common for all new hires, and everyone knew in our team, it's time to focus on items that are specific to your job at Mindee:
 
-[Developer Advocate](developer-advocate.md)
+[Developer Advocates](developer-advocate.md)
 
-[Developer Relations Engineer](developer-relations-engineer.md)
+[Developer Relations Engineers](developer-relations-engineer.md)
 
-[Technical Writer](technical-writer.md)
+[Technical Writers](technical-writer.md)

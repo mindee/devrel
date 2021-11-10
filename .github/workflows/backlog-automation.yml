@@ -5,12 +5,22 @@ on:
     types: [assigned]
 
 jobs:
-  move_in_todo:
+  move_in_todo_fred:
     runs-on: ubuntu-latest
     if: ${{ github.event.assignee.login == 'fharper' }}
     steps:
       - uses: alex-page/github-project-automation-plus@v0.3.0
         with:
           project: Fred
+          column: backlog
+          repo-token: ${{ secrets.GH_PROJECT_AUTOMATION_SECRET }}
+
+  move_in_todo_favour:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.assignee.login == 'fakela' }}
+    steps:
+      - uses: alex-page/github-project-automation-plus@v0.3.0
+        with:
+          project: Favour
           column: backlog
           repo-token: ${{ secrets.GH_PROJECT_AUTOMATION_SECRET }}

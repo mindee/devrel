@@ -2,7 +2,7 @@
 
 ## **How to start writing blog post**
 
-1. **Identify a topic**: To get started with writing on the blog post, first, you need to identify a suitable topic, the topic can be pretty general for a start and could range from general topics relating to technologies in Mindee,  Mindee specific topics, problem-solving topics etc.  For Example,
+1. **Identify a topic**: To get started with writing on the blog post, first, you need to identify a suitable topic, the topic can be pretty general for a start and could range from general topics relating to technologies in Mindee,  Mindee specific topics, problem-solving topics etc.  For example,
 
      * How to automatically add Payslips to Google Sheets using Mindee.
 

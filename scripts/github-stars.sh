@@ -15,7 +15,7 @@ repos=(
     "microsoft-flow-invoice-integration"
     "mindee-api-python"
     "mindee-js"
-    "notebooks",
+    "notebooks"
     "react-mindee-js"
     "mindee-api-nodejs"
     "tf-builds"

@@ -6,8 +6,8 @@
 # You can get your token at https://github.com/settings/tokens
 #
 
-username="fharper"
-token="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"
+username=""
+token=""
 org="mindee"
 repos=(
     "devrel"
@@ -15,6 +15,7 @@ repos=(
     "microsoft-flow-invoice-integration"
     "mindee-api-python"
     "mindee-js"
+    "notebooks",
     "react-mindee-js"
     "mindee-api-nodejs"
     "tf-builds"

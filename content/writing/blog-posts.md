@@ -22,3 +22,11 @@ Organize your content in an outline by creating a table of content and breaking 
 When writing a blog, use your outline as a guide and expand on all points as needed. Write about what you already know, and if necessary, conduct additional research to gather more information, examples, and data to back up your points. Link to some relevant sources and use high-quality screenshots. The word count of your article should be between **800- 1500+**
 
 We are looking forward to this and are excited to read what you write!!!
+
+## Code
+
+When displaying code examples, if you don't show the full code or the full output, add ellipses accordingly
+
+![](../../img/code-top.png)
+![](../../img/code-bottom.png)
+![](../../img/code-top-bottom.png)

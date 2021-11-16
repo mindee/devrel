@@ -10,9 +10,12 @@
 
 org="mindee"
 repos=(
+    "demo-Nodejs-SDK"
+    "demo-plates-DVLA"
     "devrel"
     "doctr"
-    "microsoft-flow-invoice-integration"
+    "integration-zapier"
+    "integration-microsoft-flow"
     "mindee-api-python"
     "mindee-js"
     "notebooks"

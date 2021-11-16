@@ -4,10 +4,10 @@
 # Script to get stars from our repositories for our KPI Dashboard
 #
 # You can get your token at https://github.com/settings/tokens
+# Configure a global variable named GITHUB_USERNAME with your GitHub username
+# Configure a global variable named GITHUB_STARS_TOKEN with the token you just created
 #
 
-username=""
-token=""
 org="mindee"
 repos=(
     "devrel"
@@ -37,7 +37,7 @@ printf "%s\n" "----------------------"
 # looping the repos
 for repo in "${repos[@]}"
 do
-    stars=$(curl --silent -u $username:$token  "$api_url$org/$repo"  | jq '.stargazers_count')
+    stars=$(curl --silent -u $GITHUB_USERNAME:$GITHUB_STARS_TOKEN  "$api_url$org/$repo"  | jq '.stargazers_count')
     printf "%s\n" "${bold}$repo:${normal} $stars"
 
     excel="$excel$stars,"

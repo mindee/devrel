@@ -8,6 +8,9 @@
 	  },
 	  {
 		"pattern": "https://www.enterprisetimes.co.uk*"
+	  },
+	  {
+		"pattern": "https://www.pexels.com*"
 	  }
 	]
 }

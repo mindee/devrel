@@ -19,6 +19,7 @@ We help developers be successful by nurturing a healthy and welcoming community 
 - [Mindee in the media](content/media.md)
 - [Onboarding](onboarding/onboarding.md)
 - [Ownership](devrel/ownership.md)
+- [Resources](resources/README.md)
 - [Scripts](scripts/scripts.md)
 - [SDKs](SDKs/SDKs.md)
 - [Talks](content/talks.md)

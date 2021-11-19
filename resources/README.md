@@ -2,6 +2,10 @@
 
 Here are a list of resources that are useful to our team.
 
+## Career Ladders Examples
+- [Developers / Engineers](https://career-ladders.dev/engineering/)
+- [Technical Writers](https://career-ladders.dev/docs/)
+
 ## Developer Relations Salaries
 - The [Developer Relations Collective](https://devrelcollective.fun/) 2021 survey [results](https://dev.to/bffjossy/2021-devrel-salary-survey-results-table-of-contents-43fe)
 

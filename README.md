@@ -14,7 +14,6 @@ We help developers be successful by nurturing a healthy and welcoming community 
 
 ## Table of content
 - [3rd party educational content](content/educational.md)
-- [Communities](communities/README.md)
 - [Goals](goals/README.md)
 - [Jobs](jobs/jobs.md)
 - [Mindee in the media](content/media.md)

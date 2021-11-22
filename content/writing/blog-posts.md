@@ -29,7 +29,7 @@ Please write your blog post using Google Docs in this [folder](https://drive.goo
 
 \* *I tried Google Docs add-ons and it's not worth it, especially cause we'll publish the article with WordPress.*
 
-## Code
+### Code
 
 When displaying code examples, if you don't show the full code or the full output, add ellipses accordingly
 

@@ -31,7 +31,7 @@ Please write your blog post using Google Docs in this [folder](https://drive.goo
 
 ### Code
 
-When displaying code examples, if you don't show the full code or the full output, add ellipses accordingly
+When displaying code examples, if you don't want to show the full code or the full output, you can add ellipses as shown below.
 
 ![](../../img/code-top.png)
 ![](../../img/code-bottom.png)

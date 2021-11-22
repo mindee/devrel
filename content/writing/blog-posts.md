@@ -23,9 +23,15 @@ When writing a blog, use your outline as a guide and expand on all points as nee
 
 We are looking forward to this and are excited to read what you write!!!
 
-## Code
+### Writing tool
 
-When displaying code examples, if you don't show the full code or the full output, add ellipses accordingly
+Please write your blog post using Google Docs in this [folder](https://drive.google.com/drive/u/1/folders/1syUDM_hb-mmX39nYLopTgQlvRLYpGpRh). Using Google Docs is not a perfect solution, but it’s the easiest tool for @fharper to add comments, and for @fakela to proofread. For code\* snippets or inline code, simply change the font for **Roboto Mono**.
+
+\* *I tried Google Docs add-ons and it's not worth it, especially cause we'll publish the article with WordPress.*
+
+### Code
+
+When displaying code examples, if you don't want to show the full code or the full output, you can add ellipses as shown below.
 
 ![](../../img/code-top.png)
 ![](../../img/code-bottom.png)

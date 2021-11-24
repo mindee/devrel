@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="3000"
+   height="3000"
+   viewBox="0 0 3000 3000"
+   version="1.1"
+   id="svg115"
+   sodipodi:docname="Icon - Red.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs119" />
+  <sodipodi:namedview
+     id="namedview117"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="7.0583333"
+     inkscape:cx="59.929162"
+     inkscape:cy="-26.139315"
+     inkscape:window-width="1867"
+     inkscape:window-height="1027"
+     inkscape:window-x="1920"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg115" />
+  <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+  <title
+     id="title107">Icon - Red</title>
+  <desc
+     id="desc109">Created with Sketch.</desc>
+  <g
+     id="Logo"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     transform="matrix(24.719008,0,0,24.719008,16.85952,16.85952)"
+     inkscape:export-filename="/Users/fharper/Downloads/Logo.png"
+     inkscape:export-xdpi="64.730003"
+     inkscape:export-ydpi="64.730003">
+    <g
+       id="Icon---Red"
+       transform="translate(-120,-120)"
+       fill="#fd3246">
+      <path
+         d="M 240,120.0003 V 240 h -51.42813 v -17.14296 h 34.28509 V 137.14326 H 188.57187 V 120.0003 Z M 171.42913,120 v 17.14296 h -34.28609 v 85.71478 h 34.28609 V 239.9997 H 120 V 120 Z m -2e-4,68.57053 v 17.14396 h -17.14304 v -17.14396 z m 34.28508,-34.28392 v 17.14296 h -51.42912 v -17.14296 z"
+         id="path111" />
+    </g>
+  </g>
+  <metadata
+     id="metadata121">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Icon - Red</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

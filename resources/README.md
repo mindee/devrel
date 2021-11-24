@@ -1,7 +1,5 @@
 # Resources
 
-Here are a list of resources that are useful to our team.
-
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
 - [Technical Writers](https://career-ladders.dev/docs/)
@@ -11,6 +9,12 @@ Here are a list of resources that are useful to our team.
 
 ## Developer Relations Surveys
 - [State of Developer Relations](https://www.stateofdeveloperrelations.com/) by Hoopy (DevRelCon)
+
+## Mindee assets
+- Ads image: 1920x1080 ([PNG](mindee/ad-1920x1080.png))
+- Ads video: 1920x1080 ([MP4](mindee/ad-1920x1080.mp4))
+- Logo ([SVG](mindee/logo.svg))
+- Logo Icon only ([SVG](mindee/logo-icon.svg))
 
 ## Pictures
 

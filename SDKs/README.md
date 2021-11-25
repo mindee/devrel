@@ -15,5 +15,5 @@ We also have Computer Vision SDKs, but they aren't maintained by the devrel team
 
 We have additional informations for the SDKs like a new version deployment process
 
-- [Python](python.md)
-- [Node.js](node.js.md)
+- [Python](Python.md)
+- [Node.js](Node.js.md)

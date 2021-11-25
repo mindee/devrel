@@ -22,6 +22,6 @@ We help developers be successful by nurturing a healthy and welcoming community 
 - [Ownership](devrel/ownership.md)
 - [Resources](resources/README.md)
 - [Scripts](scripts/scripts.md)
-- [SDKs](SDKs/SDKs.md)
+- [SDKs](SDKs/README.md)
 - [Talks](content/talks.md)
 - [Writing Blog Posts](content/writing/blog-posts.md)

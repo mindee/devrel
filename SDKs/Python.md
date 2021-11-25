@@ -1,5 +1,3 @@
-# SDKs
-
 ## Python SDK New Release Process
 
 ### GitHub

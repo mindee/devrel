@@ -9,6 +9,16 @@ Capitalize the first word except for conjunctions and try to keep the headers sh
 
 ## Body
 Gmail clips emails that have a message size larger than 102KB (source: [Mailchimp](https://mailchimp.com/help/gmail-is-clipping-my-email/)), so we need to limit the content to what is the most important. We should also adapt our content in a excerpt pointing on our [blog](https://blog.mindee.com), video on [YouTube](https://www.youtube.com/channel/UCXcb0H4P81RqvvvFfWdszoA) or to our [documentation](https://developers.mindee.com/docs) for more information.
+Here is a guided format for the newsletter content
+- Subject heading
+- Introduction
+- Highlight information(if any)
+- Product updates(arranged based on products)
+- Other fun stuff(if any)
+- Videos/Presentations(if any)
+- Latest Mindee articles
+- Article in developers world
+
 
 ## Images
 All images need to be optimize using [Shortpixel](https://shortpixel.com/online-image-compression) glossy compression level to reduce the size of the newsletter.

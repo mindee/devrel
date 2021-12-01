@@ -12,3 +12,16 @@ Gmail clips emails that have a message size larger than 102KB (source: [Mailchim
 
 ## Images
 All images need to be optimize using [Shortpixel](https://shortpixel.com/online-image-compression) glossy compression level to reduce the size of the newsletter.
+
+## Spacing
+The newsletter content should be properly spaced. Add a spacer at the end of a paragraph.
+
+## Color
+Mindee has a set of defined colors that can be used in the newsletter. For example:
+- RED
+ 
+	RGB: `253 50 70`
+  
+	Hexa: `#FD3426`
+
+A complete list colors can be found here: [Mindee Colors](https://docs.google.com/document/d/1Myb2dETLb4QcsVZU7hlKi4ZwSFNuKLN8nexG7Qs__Go/)

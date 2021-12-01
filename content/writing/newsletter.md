@@ -24,4 +24,4 @@ Mindee has a set of defined colors that can be used in the newsletter. For examp
   
 	Hexa: `#FD3426`
 
-A complete list colors can be found here: [Mindee Colors](https://docs.google.com/document/d/1Myb2dETLb4QcsVZU7hlKi4ZwSFNuKLN8nexG7Qs__Go/)
+A complete list of the colors can be found here: [Mindee Colors](https://docs.google.com/document/d/1Myb2dETLb4QcsVZU7hlKi4ZwSFNuKLN8nexG7Qs__Go/)

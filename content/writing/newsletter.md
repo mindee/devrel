@@ -27,7 +27,7 @@ All images need to be optimize using [Shortpixel](https://shortpixel.com/online-
 The newsletter content should be properly spaced. Add a spacer at the end of a paragraph.
 
 ## Color
-Mindee has a set of defined colors that can be used in the newsletter. For example:
+Mindee has a set of defined colors that can be used in the newsletter.  The "read more" links and every other links or highlight should be red. Below is the color code:
 - RED
  
 	RGB: `253 50 70`
@@ -37,4 +37,4 @@ Mindee has a set of defined colors that can be used in the newsletter. For examp
 A complete list of the colors can be found here: [Mindee Colors](https://docs.google.com/document/d/1Myb2dETLb4QcsVZU7hlKi4ZwSFNuKLN8nexG7Qs__Go/)
 
 ## Buttons
-Buttons may be included in the newsletter, but they must adhere to the standard button design, which has a border radius of `4px` and the color `#FD3426`.
+Buttons may be included in the newsletter, however it should be limited to the main CTA. When using button you need to adhere to the standard button design, which has a border radius of `4px` and the color `#FD3426`.

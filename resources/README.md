@@ -1,6 +1,7 @@
 # Resources
 
 - [Mindee Informations](#mindee-informations)
+- [Mindee URLs](#mindee-urls)
 
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
@@ -34,5 +35,22 @@ Mindee is an API first platform that helps developers automate applications' wor
 ### Long description (475 characters - 65 words)
 Mindee is an API first platform that helps developers automate applications' workflows by standardizing the documents processing layer using computer vision and machine learning. In addition to easily detects and extracts information using pre-trained data models for common documents (e.g., invoices, receipts, passports...), developers can easily build their own documents parsing API, thereby enabling any types of businesses to solve all document-based use cases quickly.
 
+## Mindee URLs
+
+- [Blog](https://blog.mindee.com)
+- [docTR](https://github.com/mindee/doctr)
+- [Documentation](https://developers.mindee.com/docs)
+- [GitHub](https://github.com/mindee)
+- [LinkedIn](https://www.linkedin.com/company/mindee/)
+- [Live Tests](https://mindee.com/live-test)
+- [Newsletter](https://cdn.forms-content.sg-form.com/13b540c7-2c28-11ec-a526-325185d2b4f9)
+- [SDK Node.js](https://github.com/mindee/mindee-api-nodejs)
+- [SDK Python](https://github.com/mindee/mindee-api-python)
+- [Slack Community](https://join.slack.com/t/mindee-community/shared_invite/zt-uzgmljfl-MotFVfH~IdEZxjp~0zldww)
+- [Twitter](https://twitter.com/mindeeAPI)
+- [Website](https://mindee.com)
+- [YouTube](https://www.youtube.com/channel/UCXcb0H4P81RqvvvFfWdszoA) (video tutorials)
+
+## Pictures
 - [Pexels](https://www.pexels.com/): royalty free images & videos
 - [Unsplash](https://unsplash.com): free high-resolution photos

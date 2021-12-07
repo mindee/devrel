@@ -1,5 +1,6 @@
 # Resources
 
+- [Mindee Features Descriptions](#mindee-features-descriptions)
 - [Mindee Informations](#mindee-informations)
 - [Mindee URLs](#mindee-urls)
 
@@ -26,6 +27,23 @@
 - [Logo black](mindee/logo.svg)
 - [Icon only](mindee/logo-icon.svg)
 
+
+## Mindee Features Descriptions
+
+**Extract Key Information from any Type of Documents with ease**
+Documment processing and information extraction leveraging computer vision and machine learning throught REST API
+
+**Developer-First Platform**
+We offer a REST API that can easily be called from any type of applications or programming languages, in addition to providing SDKs for Node.js and Python (more languages & frameworks are coming)
+
+**Off-the-Shelf APIs**
+We have pre-defined model and trained APIs for common cases like receipts, invoices and passports documents
+
+**API Builder**
+Developers can easily build their own documents parsing API by defining and training their data model resulting in their own custom REST API
+
+**No Hassle: Up and Running in Minutes**
+Free plan, no credit card required and off-the-shelf already trained APIs
 
 ## Mindee Informations
 

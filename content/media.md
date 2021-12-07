@@ -4,6 +4,9 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2021-12-07
+[Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://www.businesswire.com/news/home/20211207005248/en/Mindee-Introduces-Advanced-Open-Source-Optical-Character-Recognition-with-docTR)
+
 ### 2021-10-28
 **BestStartup.eu**
 [47 Top Open Source Startups and Companies in France (2021)](https://beststartup.eu/47-top-open-source-startups-and-companies-in-france-2021/)

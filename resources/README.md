@@ -1,5 +1,7 @@
 # Resources
 
+- [Mindee Informations](#mindee-informations)
+
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
 - [Technical Writers](https://career-ladders.dev/docs/)
@@ -23,6 +25,14 @@
 - [Logo black](mindee/logo.svg)
 - [Icon only](mindee/logo-icon.svg)
 
+
+## Mindee Informations
+
+### Short description (178 characters - 24 words)
+Mindee is an API first platform that helps developers automate applications' workflows by standardizing the documents processing layer using computer vision and machine learning.
+
+### Long description (475 characters - 65 words)
+Mindee is an API first platform that helps developers automate applications' workflows by standardizing the documents processing layer using computer vision and machine learning. In addition to easily detects and extracts information using pre-trained data models for common documents (e.g., invoices, receipts, passports...), developers can easily build their own documents parsing API, thereby enabling any types of businesses to solve all document-based use cases quickly.
 
 - [Pexels](https://www.pexels.com/): royalty free images & videos
 - [Unsplash](https://unsplash.com): free high-resolution photos

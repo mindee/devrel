@@ -4,6 +4,13 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2021-12-06
+**DEVOPSdigest**
+[2022 DevOps Predictions - Part 1](https://www.devopsdigest.com/2022-devops-predictions-1)
+
+**Database Trends and Applications**
+[Technology Leaders Share 10 AI Predictions for 2022](https://www.dbta.com/Editorial/News-Flashes/Technology-Leaders-Share-10-AI-Predictions-for-2022-150325.aspx)
+
 ### 2021-10-28
 **BestStartup.eu**
 [47 Top Open Source Startups and Companies in France (2021)](https://beststartup.eu/47-top-open-source-startups-and-companies-in-france-2021/)

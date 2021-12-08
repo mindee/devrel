@@ -31,18 +31,18 @@
 ## Mindee Features Descriptions
 
 **Extract Key Information from any Type of Documents with ease**
-Documment processing and information extraction leveraging computer vision and machine learning throught REST API
+Document processing and information extraction leveraging computer vision and machine learning through REST API.
 
 **Developer-First Platform**
-We offer a REST API that can easily be called from any type of applications or programming languages, in addition to providing SDKs for Node.js and Python (more languages & frameworks are coming)
+We offer a REST API that can easily be called from any type of application or programming language, in addition to providing SDKs for Node.js and Python (more languages & frameworks are coming)
 
 **Off-the-Shelf APIs**
-We have pre-defined model and trained APIs for common cases like receipts, invoices and passports documents
+We have a pre-defined model and trained APIs for common cases like receipts, invoices and passports documents
 
 **API Builder**
-Developers can easily build their own documents parsing API by defining and training their data model resulting in their own custom REST API
+Developers can easily build their own documents parsing API by defining and training their data model resulting in their own custom REST API leveraging the computer vision and machine learning power of Mindee
 
-**No Hassle: Up and Running in Minutes**
+**No Hassle, Up and Running in Minutes**
 Free plan, no credit card required and off-the-shelf already trained APIs
 
 ## Mindee Informations
@@ -51,7 +51,7 @@ Free plan, no credit card required and off-the-shelf already trained APIs
 Mindee is an API first platform that helps developers automate applications' workflows by standardizing the documents processing layer using computer vision and machine learning.
 
 ### Long description (475 characters - 65 words)
-Mindee is an API first platform that helps developers automate applications' workflows by standardizing the documents processing layer using computer vision and machine learning. In addition to easily detects and extracts information using pre-trained data models for common documents (e.g., invoices, receipts, passports...), developers can easily build their own documents parsing API, thereby enabling any types of businesses to solve all document-based use cases quickly.
+Mindee is an API first platform that helps developers automate applications' workflows by standardizing the documents processing layer using computer vision and machine learning. In addition to easily detecting and extracting information using pre-trained data models for common documents (e.g., invoices, receipts, passports...), developers can easily build their own documents parsing API, thereby enabling any type of business to solve all document-based use cases quickly.
 
 ## Mindee URLs
 

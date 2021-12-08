@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2021-12-07
+**Business Wire**
+[Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://www.businesswire.com/news/home/20211207005248/en/Mindee-Introduces-Advanced-Open-Source-Optical-Character-Recognition-with-docTR)
+
 ### 2021-12-06
 **DEVOPSdigest**
 [2022 DevOps Predictions - Part 1](https://www.devopsdigest.com/2022-devops-predictions-1)

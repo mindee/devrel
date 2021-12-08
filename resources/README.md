@@ -1,8 +1,14 @@
 # Resources
 
+Some resources to help our team do its job.
+
+- [Career Ladders Examples](#career-ladders-examples)
+- [Developer Relations Salaries](#developer-relations-salaries)
+- [Mindee Assets](#mindee-assets)
 - [Mindee Features Descriptions](#mindee-features-descriptions)
 - [Mindee Informations](#mindee-informations)
 - [Mindee URLs](#mindee-urls)
+- [Pictures](#pictures)
 
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)

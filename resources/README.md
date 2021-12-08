@@ -34,7 +34,7 @@
 Document processing and information extraction leveraging computer vision and machine learning through REST API.
 
 **Developer-First Platform**
-We offer a REST API that can easily be called from any type of application or programming language, in addition to providing SDKs for Node.js and Python (more languages & frameworks are coming)
+We offer a REST API that can easily be called from any type of application or programming languages, in addition to providing SDKs for Node.js and Python (more languages & frameworks are coming)
 
 **Off-the-Shelf APIs**
 We have a pre-defined model and trained APIs for common cases like receipts, invoices and passports documents

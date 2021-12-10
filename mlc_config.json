@@ -11,6 +11,9 @@
 	  },
 	  {
 		"pattern": "https://www.pexels.com*"
+	  },
+	  {
+		"pattern": "https://github.com/mindee/content"
 	  }
 	]
 }

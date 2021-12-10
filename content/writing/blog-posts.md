@@ -24,9 +24,7 @@ When writing a blog, use your outline as a guide and expand on all points as nee
 We are looking forward to this and are excited to read what you write!!!
 
 ### Writing tool
-Please write your blog post using Google Docs in this [folder](https://drive.google.com/drive/u/1/folders/1syUDM_hb-mmX39nYLopTgQlvRLYpGpRh). Using Google Docs is not a perfect solution, but it’s the easiest tool for @fharper to add comments, and for @fakela to proofread. For code\* snippets or inline code, simply change the font for **Roboto Mono**.
-
-\* *I tried Google Docs add-ons and it's not worth it, especially cause we'll publish the article with WordPress.*
+Please write your blog post using Markdown as a PR in this [repo](https://github.com/mindee/content). This makes the content clearer (especially with code), easier to track changes and move to WordPress. The content would be reviewed by [@fharper](https://github.com/fharper) and [@fakela](https://github.com/fakela). 
 
 ### Images
 You’ll need a feature image: the image will be used on the front page, and as the hero image on your blog post. The size needs to be around 2:1 (twice larger than the height) to fit our WordPress template. The size of the images in the article doesn’t matter, but always use the highest possible quality: they will be automatically optimized using a lossless encoding. Lastly, always add a text for the ALT description of all of your images. Be as descriptive as you can: ask yourself how you would like someone to describe them to you if you were blind.

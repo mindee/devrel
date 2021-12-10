@@ -29,7 +29,13 @@ Please write your blog post using Google Docs in this [folder](https://drive.goo
 \* *I tried Google Docs add-ons and it's not worth it, especially cause we'll publish the article with WordPress.*
 
 ### Images
-You’ll need a feature image: the image will be used on the front page, and as the hero image on your blog post. The size needs to be around 2:1 (twice larger than the height) to fit our WordPress template. The size of the images in the article doesn’t matter, but always use the highest possible quality: they will be automatically optimized using a lossless encoding. Lastly, always add a text for the ALT description of all of your images. Be as descriptive as you can: ask yourself how you would like someone to describe them to you if you were blind.
+You’ll need a feature image: the image will be used on the front page, and as the hero image on your blog post. The size needs to be around 2:1 (twice larger than the height) to fit our WordPress template. The size of the images in the article doesn’t matter, but always use the highest possible quality: they will be automatically optimized using a lossless encoding. 
+
+Lastly, always add a text for the ALT description of all of your images. Be as descriptive as you can: ask yourself how you would like someone to describe them to you if you were blind. Try to find a good balance between adding enough information vs having something way too long. Avoid adding words like pictures or photos. For example:
+
+![](../../img/pexels-alexandr-podvalny-321552.jpg)
+- **Bad**: picture of a monkey
+- **Good**: a monkey eating a banana
 
 ### Code
 When displaying code examples, if you don't want to show the full code or the full output, you can add ellipses as shown below.

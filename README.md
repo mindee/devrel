@@ -18,7 +18,7 @@ We help developers be successful by nurturing a healthy and welcoming community 
 - [Documentation](content/writing/documentation.md)
 - [Events](events/README.md)
 - [Goals](goals/README.md)
-- [Jobs](jobs/jobs.md)
+- [Jobs/Roles Information](jobs/README.md)
 - [Mindee in the media](content/media.md)
 - [Newsletter](content/writing/newsletter.md)
 - [Onboarding](onboarding/onboarding.md)

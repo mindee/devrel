@@ -4,9 +4,33 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2021-12-15
+**insideBIGDATA**  
+[Big Data Industry Predictions for 2022](https://insidebigdata.com/2021/12/15/big-data-industry-predictions-for-2022/)
+
+### 2021-12-14
+**VMblog**  
+[Mindee 2022 Predictions: How Developers Will Keep Up with the Industry in 2022](https://vmblog.com/archive/2021/12/14/mindee-2022-predictions-how-developers-will-keep-up-with-the-industry-in-2022.aspx#.YbjT-X3MKre)
+
+### 2021-12-08
+**Open Source For You**  
+[Mindee Introduces Open Source Optical Character Recognition with docTR](https://www.opensourceforu.com/2021/12/mindee-introduces-open-source-optical-character-recognition-with-doctr/)
+
 ### 2021-12-07
 **Business Wire**  
 [Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://www.businesswire.com/news/home/20211207005248/en/Mindee-Introduces-Advanced-Open-Source-Optical-Character-Recognition-with-docTR)
+
+**Yahoo!**  
+[Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://www.yahoo.com/now/mindee-introduces-advanced-open-source-133000357.html)
+
+**Financial Buzz**  
+[Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://www.financialbuzz.com/mindee-introduces-advanced-open-source-optical-character-recognition-with-doctr/)
+
+**MarketScreener**  
+[Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://www.marketscreener.com/news/latest/Mindee-Introduces-Advanced-Open-Source-Optical-Character-Recognition-with-docTR--37236060/)
+
+**TMCnet News**  
+[Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://www.tmcnet.com/usubmit/2021/12/07/9506135.htm)
 
 ### 2021-12-06
 **DEVOPSdigest**  

@@ -39,5 +39,5 @@ A complete list of the colors can be found here: [Mindee Colors](https://docs.go
 ## Buttons
 Buttons may be included in the newsletter, however it should be limited to the main CTA. When using button you need to adhere to the standard button design, which has a border radius of `4px` and the color `#FD3426`.
 
-## Newsletter Group
-The newsletter should be sent to the `[devrel] Newsletter group` and not any other group, to avoid sending the it to investors and people who should not receive it.
+## Newsletter Contact List
+The newsletter should be sent to the `[devrel] Newsletter` contact list only.

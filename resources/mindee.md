@@ -1,26 +1,13 @@
-# Resources
+# Mindee Resources
 
-Some resources to help our team do its job.
+Here a list of resources about Mindee
 
-- [Career Ladders Examples](#career-ladders-examples)
-- [Developer Relations Salaries](#developer-relations-salaries)
-- [Mindee Assets](#mindee-assets)
-- [Mindee Features Descriptions](#mindee-features-descriptions)
-- [Mindee Informations](#mindee-informations)
-- [Mindee URLs](#mindee-urls)
-- [Pictures](#pictures)
+- [Assets](#assets)
+- [Features Descriptions](#features-descriptions)
+- [Mindee Descriptions](#mindee-descriptions)
+- [URLs](#urls)
 
-## Career Ladders Examples
-- [Developers / Engineers](https://career-ladders.dev/engineering/)
-- [Technical Writers](https://career-ladders.dev/docs/)
-
-## Developer Relations Salaries
-- The [Developer Relations Collective](https://devrelcollective.fun/) 2021 survey [results](https://dev.to/bffjossy/2021-devrel-salary-survey-results-table-of-contents-43fe)
-
-## Developer Relations Surveys
-- [State of Developer Relations](https://www.stateofdeveloperrelations.com/) by Hoopy (DevRelCon)
-
-## Mindee Assets
+## Assets
 
 ### Ads
 - Image: 1920x1080 ([PNG](mindee/ad-1920x1080.png))
@@ -33,8 +20,7 @@ Some resources to help our team do its job.
 - [Logo black](mindee/logo.svg)
 - [Icon only](mindee/logo-icon.svg)
 
-
-## Mindee Features Descriptions
+## Features Descriptions
 
 **Extract Key Information from any Type of Documents with ease**  
 Document processing and information extraction leveraging computer vision and machine learning through REST API.
@@ -51,7 +37,7 @@ Developers can easily build their own documents parsing API by defining and trai
 **No Hassle, Up and Running in Minutes**  
 Free plan, no credit card required and off-the-shelf already trained APIs
 
-## Mindee Informations
+## Mindee Descriptions
 
 ### Short description (178 characters - 24 words)
 Mindee is an API first platform that helps developers automate applications' workflows by standardizing the documents processing layer using computer vision and machine learning.
@@ -59,7 +45,7 @@ Mindee is an API first platform that helps developers automate applications' wor
 ### Long description (475 characters - 65 words)
 Mindee is an API first platform that helps developers automate applications' workflows by standardizing the documents processing layer using computer vision and machine learning. In addition to easily detecting and extracting information using pre-trained data models for common documents (e.g., invoices, receipts, passports...), developers can easily build their own documents parsing API, thereby enabling any type of business to solve all document-based use cases quickly.
 
-## Mindee URLs
+## URLs
 
 - [Blog](https://blog.mindee.com)
 - [docTR](https://github.com/mindee/doctr)
@@ -74,8 +60,3 @@ Mindee is an API first platform that helps developers automate applications' wor
 - [Twitter](https://twitter.com/mindeeAPI)
 - [Website](https://mindee.com)
 - [YouTube](https://www.youtube.com/channel/UCXcb0H4P81RqvvvFfWdszoA) (video tutorials)
-Add COmputer VVision
-
-## Pictures
-- [Pexels](https://www.pexels.com/): royalty free images & videos
-- [Unsplash](https://unsplash.com): free high-resolution photos

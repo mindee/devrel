@@ -20,7 +20,7 @@ We help developers be successful by nurturing a healthy and welcoming community 
 - [Goals](goals/README.md)
 - [Jobs/Roles Information](jobs/README.md)
 - [Mindee in the media](content/media.md)
-- [Newsletter](content/writing/newsletter.md)
+- [Newsletter Archive](content/newsletter/README.md)
 - [Onboarding](onboarding/onboarding.md)
 - [Ownership](devrel/ownership.md)
 - [Resources](resources/README.md)
@@ -28,3 +28,4 @@ We help developers be successful by nurturing a healthy and welcoming community 
 - [SDKs](SDKs/README.md)
 - [Talks](content/talks.md)
 - [Writing Blog Posts](content/writing/blog-posts.md)
+- [Writing the Newsletter](content/writing/newsletter.md)

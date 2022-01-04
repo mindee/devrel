@@ -48,14 +48,16 @@ Mindee is an API first platform that helps developers automate applications' wor
 ## URLs
 
 - [Blog](https://blog.mindee.com)
+- [Computer Vision SDK Vue.js](https://github.com/mindee/vue-mindee-js)
+- [Computer Vision SDK React](https://github.com/mindee/react-mindee-js)
 - [docTR](https://github.com/mindee/doctr)
 - [Documentation](https://developers.mindee.com/docs)
 - [GitHub](https://github.com/mindee)
 - [LinkedIn](https://www.linkedin.com/company/mindee/)
 - [Live Tests](https://mindee.com/live-test)
+- [Mindee SDK Node.js](https://github.com/mindee/mindee-api-nodejs)
+- [Mindee SDK Python](https://github.com/mindee/mindee-api-python)
 - [Newsletter](https://newsletter.mindee.com)
-- [SDK Node.js](https://github.com/mindee/mindee-api-nodejs)
-- [SDK Python](https://github.com/mindee/mindee-api-python)
 - [Slack Community](https://slack.mindee.com)
 - [Twitter](https://twitter.com/mindeeAPI)
 - [Website](https://mindee.com)

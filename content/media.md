@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-01-03  
+**StarCIO**
+[14 Expert Predictions on Winning in 2022: CX, Hybrid Work, Hyperautomation, Ecosystems, and AI](https://blogs.starcio.com/2022/01/2022-predictions-cx-hyperautomation-ai.html)
+
 ### 2021-12-15
 **insideBIGDATA**  
 [Big Data Industry Predictions for 2022](https://insidebigdata.com/2021/12/15/big-data-industry-predictions-for-2022/)

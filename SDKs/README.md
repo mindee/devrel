@@ -7,7 +7,6 @@ We have SDKs for Mindee API for
 - [Node.js](https://github.com/mindee/mindee-api-nodejs)
 
 We also have Computer Vision SDKs, but they aren't maintained by the devrel team:
-- [JavaScript](https://github.com/mindee/mindee-js)
 - [React](https://github.com/mindee/react-mindee-js)
 - [Vue.js](https://github.com/mindee/vue-mindee-js)
 

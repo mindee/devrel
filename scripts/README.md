@@ -10,5 +10,8 @@ Add 10 blank pages to all PDF in the specific folder
 ## [deleteSendGridBounce.sh](deleteSendGridBounce.sh)
 Delete the boucing emails from our Newsletter contact list on SendGrid
 
+## [detectProtectedPDF.sh](detectProtectedPDF.sh)
+Detect password protected PDFs from the desired folder.
+
 ## [github-stars](github-stars.sh)
 Get the latest number of stars on our public repositories.

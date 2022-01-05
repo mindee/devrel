@@ -1,6 +1,13 @@
 # Newsletter
 Here are some guidelines for writing the Developer Relations Newsletter. It's a work in progress.
 
+## Process
+- **First week**: content propositions
+- **Second week**: write blog post (if needed)
+- **Third week**: draft the newsletter and send test
+- **Fourth week**: send the newsletter
+
+
 ## Subject
 It is [recommended by Mailchimp](https://mailchimp.com/help/best-practices-for-email-subject-lines/) to use no more than 9 words and 60 characters since multiple people will read your email on a mobile device.
 

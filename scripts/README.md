@@ -7,5 +7,8 @@ Here a list of scripts we are using to make our life easier.
 ## [deleteSendGridBounce.sh](deleteSendGridBounce.sh)
 Delete the boucing emails from our Newsletter contact list on SendGrid
 
+## [detectProtectedPDF.sh](detectProtectedPDF.sh)
+Detect password protected PDFs from the desired folder.
+
 ## [github-stars](github-stars.sh)
 Get the latest number of stars on our public repositories.

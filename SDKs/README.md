@@ -12,7 +12,7 @@ We also have Computer Vision SDKs, but they aren't maintained by the devrel team
 
 # Testing the SDKs
 
-To effectively test the SDKs, we created small applications for the Mindee SDKs. Please note that those are intended to be use by Mindee employees, and are not bulletproof.
+To effectively test the SDKs, we created small applications for the Mindee SDKs. Please note that these are intended to be use by Mindee employees, and are not bulletproof.
 
 - [Python](testing/python/app.py) - not as complete yet than the Node.js one
 - [Node.js](testing/node.js/app.js)

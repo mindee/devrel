@@ -1,3 +1,5 @@
 **/.DS_Store
 .shortpixel
 .sp-progress
+node_modules/
+

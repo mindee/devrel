@@ -1,7 +1,7 @@
 # Newsletter
 Here are some guidelines for writing the Developer Relations Newsletter. It's a work in progress.
 
-## Process
+## Timeline
 - **First week**: content propositions
 - **Second week**: write blog post (if needed)
 - **Third week**: draft the newsletter and send test

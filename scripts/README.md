@@ -7,8 +7,11 @@ Here a list of scripts we are using to make our life easier.
 ## [addBlankPages.sh](addBlankPages.sh)
 Add 10 blank pages to all PDF in the specific folder
 
+## [deleteBadPDF.sh](deleteBadPDF.sh)
+Delete PDFs with wrong MIME type in the specified folder.
+
 ## [deleteSendGridBounce.sh](deleteSendGridBounce.sh)
-Delete the boucing emails from our Newsletter contact list on SendGrid
+Delete the boucing emails from our Newsletter contact list on SendGrid.
 
 ## [detectProtectedPDF.sh](detectProtectedPDF.sh)
 Detect password protected PDFs from the desired folder.

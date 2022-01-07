@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2020-01-05  
+**DATAVERSITY**
+[Leading Disruption in 2022: AI, Data Privacy Concerns, and Developer Relations](https://www.dataversity.net/leading-disruption-in-2022-ai-data-privacy-concerns-and-developer-relations/)
+
 ### 2022-01-03  
 **StarCIO**
 [14 Expert Predictions on Winning in 2022: CX, Hybrid Work, Hyperautomation, Ecosystems, and AI](https://blogs.starcio.com/2022/01/2022-predictions-cx-hyperautomation-ai.html)

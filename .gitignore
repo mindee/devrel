@@ -2,4 +2,5 @@
 .shortpixel
 .sp-progress
 node_modules/
+sdks/testing/node.js/PDFs/
 

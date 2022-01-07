@@ -1,5 +1,5 @@
 # Newsletter
-Here are some guidelines for writing the Developer Relations Newsletter. It's a work in progress.
+Here are some guidelines for writing the [Developer Relations Newsletter](../newsletter/README.md), but first be sure to read and respect our [Markdown guideline](markdown.md) when writing the newsletter.
 
 ## Timeline
 - **First week**: content propositions
@@ -25,10 +25,6 @@ Here is a guided format for the newsletter content
 - Videos/Presentations(if any)
 - Latest Mindee articles
 - Article in developers world
-
-
-## Images
-All images need to be optimize using [Shortpixel](https://shortpixel.com/online-image-compression) glossy compression level to reduce the size of the newsletter.
 
 ## Spacing
 The newsletter content should be properly spaced. Add a spacer at the end of a paragraph.

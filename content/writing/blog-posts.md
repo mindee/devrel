@@ -19,25 +19,24 @@ Organize your content in an outline by creating a table of content and breaking 
 - Conclusion
 
 ## Write your blog post
-When writing a blog, use your outline as a guide and expand on all points as needed. Write about what you already know, and if necessary, conduct additional research to gather more information, examples, and data to back up your points. Link to some relevant sources and use high-quality screenshots. The word count of your article should be between **800- 1500+**
+When writing a blog, use your outline as a guide and expand on all points as needed. Write about what you already know, and if necessary, conduct additional research to gather more information, examples, and data to back up your points. Link to some relevant sources and use high-quality screenshots. The word count of your article should be between **800- 1500+**. Be sure to read and respect our [Markdown guideline](markdown.md).
 
 We are looking forward to this and are excited to read what you write!!!
 
-### Writing tool
-Please write your blog post using Markdown as a PR in this [repo](https://github.com/mindee/content). This makes the content clearer (especially with code), easier to track changes and move to WordPress. The content would be reviewed by [@fharper](https://github.com/fharper) and [@fakela](https://github.com/fakela). 
-
 ### Images
-You’ll need a feature image: the image will be used on the front page, and as the hero image on your blog post. The size needs to be around 2:1 (twice larger than the height) to fit our WordPress template. The size of the images in the article doesn’t matter, but always use the highest possible quality: they will be automatically optimized using a lossless encoding. 
+You’ll need a feature image: the image will be used on the front page, and as the hero image on your blog post. The size needs to be around 2:1 (twice larger than the height) to fit our WordPress template.
 
-Lastly, always add a text for the ALT description of all of your images. Be as descriptive as you can: ask yourself how you would like someone to describe them to you if you were blind. Try to find a good balance between adding enough information vs having something way too long. Avoid adding words like pictures or photos. For example:
+### Writing tool
+Please write your blog post using [Markdown](markdown.md) as a PR in this [repo](https://github.com/mindee/content). This makes the content clearer (especially with code), easier to track changes and move to WordPress.
 
-![](../../img/pexels-alexandr-podvalny-321552.jpg)
-- **Bad**: picture of a monkey
-- **Good**: a monkey eating a banana
+## Review Process
+Once ready, please add [@fharper](https://github.com/fharper) and [@fakela](https://github.com/fakela) as reviewers for your PR.
 
-### Code
-When displaying code examples, if you don't want to show the full code or the full output, you can add ellipses as shown below.
+If you have any questions, or need help, feel free to create a PR as a draft, and add questions or comments in the PR discussion while taguing the relevant person. Another solution is to add comments in your markdown file at the relevant places. Use the following format
 
-![](../../img/code-top.png)
-![](../../img/code-bottom.png)
-![](../../img/code-top-bottom.png)
+```
+[REVIEW QUESTION]: <> (Maybe this introduction is too long?)
+[HELP WANTED]: <> (How could we make it shorter without losing in understanding?)
+```
+
+_Even if not in the [Markdown standard](https://daringfireball.net/projects/markdown/), most interpreters, including GitHub, understand comments in the form of `[TEXT_HERE]: <> (AND_OR_TEXT_HERE)`._

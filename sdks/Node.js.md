@@ -25,6 +25,4 @@ Next step is to deploy the package on npm.
 
 ### npm
 
-From the command line inside the Node.js repository folder, run `npm publish`
-
-Note: you need to be a maintainer and connect your user with the npm CLI
+From the command line inside of the Node.js repository folder, run `npm publish`. Note that you need to be a maintainer and connect your user with the npm CLI.

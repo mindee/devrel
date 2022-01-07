@@ -32,7 +32,7 @@ Please write your blog post using [Markdown](markdown.md) as a PR in this [repo]
 ## Review Process
 Once ready, please add [@fharper](https://github.com/fharper) and [@fakela](https://github.com/fakela) as reviewers for your PR.
 
-If you have any questions, or need help, feel free to create a PR as a draft, and add questions or comments in the PR discussion while taguing the relevant person. Another solution is to add comments in your markdown file at the relevant places. Use the following format
+If you have any questions, or need help, feel free to create a PR as a draft, and add questions or comments in the PR discussion while tagging the relevant person. Another solution is to add comments in your markdown file at the relevant places. Use the following format
 
 ```
 [REVIEW QUESTION]: <> (Maybe this introduction is too long?)

@@ -26,7 +26,7 @@ We help developers be successful by nurturing a healthy and welcoming community 
 - [Onboarding](onboarding/onboarding.md)
 - [Ownership](devrel/ownership.md)
 - [Scripts](scripts/README.md)
-- [SDKs](SDKs/README.md)
+- [SDKs](sdks/README.md)
 - [Talks](content/talks.md)
 - [Writing Blog Posts](content/writing/blog-posts.md)
 - [Writing the Newsletter](content/writing/newsletter.md)

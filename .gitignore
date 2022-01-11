@@ -3,4 +3,7 @@
 .sp-progress
 node_modules/
 sdks/testing/node.js/PDFs/
+sdks/testing/node.js/*.pdf
+sdks/testing/python/PDFs/
+sdks/testing/python/*.pdf
 

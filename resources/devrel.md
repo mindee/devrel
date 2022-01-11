@@ -5,6 +5,7 @@ Some resources to help Developer Relations do their job
 - [Career Ladders Examples](#career-ladders-examples)
 - [Developer Relations Salaries](#developer-relations-salaries)
 - [Pictures](#pictures)
+- [Technical Information](#technical-information)
 
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
@@ -19,3 +20,6 @@ Some resources to help Developer Relations do their job
 ## Pictures
 - [Pexels](https://www.pexels.com/): royalty free images & videos
 - [Unsplash](https://unsplash.com): free high-resolution photos
+
+## Technical Information
+- [endoflife.date](https://endoflife.date):a community-maintained project to document end-of-life dates, and support lifecycles of various products

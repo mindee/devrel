@@ -6,7 +6,7 @@
 # ./detectProtectedPDF.sh PATH_TO_FOLDER
 #
 
-for file in "$1"/*
+for file in "$1"/*.pdf
 do
 	output=$(gs -dBATCH -sNODISPLAY "$file" 2>&1)
 	gsexit=$?

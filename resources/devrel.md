@@ -4,7 +4,7 @@ Some resources to help Developer Relations do their job
 
 - [Career Ladders Examples](#career-ladders-examples)
 - [Developer Relations Salaries](#developer-relations-salaries)
-- [Pictures](#pictures)
+- [Pictures & Images](#pictures--images)
 
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
@@ -16,6 +16,7 @@ Some resources to help Developer Relations do their job
 ## Developer Relations Surveys
 - [State of Developer Relations](https://www.stateofdeveloperrelations.com/) by Hoopy (DevRelCon)
 
-## Pictures
+## Pictures & Images
+- [Better Images of AI](https://betterimagesofai.org/images): better images than the unrealistic expectations and misstate capabilities of AI
 - [Pexels](https://www.pexels.com/): royalty free images & videos
 - [Unsplash](https://unsplash.com): free high-resolution photos

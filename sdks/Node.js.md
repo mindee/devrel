@@ -10,15 +10,9 @@ We follow the [semantic versioning standard](https://semver.org).
 
 #### Draft a new release
 
-You can do this with the [GitHub CLI](https://github.com/cli/cli):
-
-`gh release create v1.X.X -F CHANGELOG.md`
-
-or manually within the GitHub interface:
-
 1. Create a new tag with the new version number `vX.X.X`
 2. Set the release title to the same name
-3. Copy your release notes `CHANGELOG.md`
+3. Copy the relevant release notes from `CHANGELOG.md`
 4. Publish the release
 
 Next step is to deploy the package on npm.

@@ -4,7 +4,7 @@
 
 We follow the [semantic versioning standard](https://semver.org).
 
-1. Update the version number in ` setup.py`
+1. Update the version number in `./mindee/version`
 2. Update `CHANGELOG.md` by adding details about the new version
 3. Commit those changes with the message `chg: 🔖 prepare vX.X.X`
 

@@ -13,7 +13,13 @@
 # for my tests
 #
 
-for file in "$1"/*
+if ! command -v pdftk &> /dev/null
+then
+    echo "You need to install pdftk: https://www.pdflabs.com/tools/pdftk-server/"
+    exit
+fi
+
+for file in "$1"/*.pdf
 do
 	pdftk blank.pdf "$file" cat output "$file.pdf"
 done

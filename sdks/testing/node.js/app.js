@@ -134,8 +134,10 @@ async function main() {
           let file;
 
           while ((file = directoryPDFs.readSync()) !== null) {
-            readFileAsStream(documentType, `${path}/PDFs/${file.name}`, cutPDF);
-            await sleep(1000);
+            if (file.name.toLowerCase().endsWith(".pdf")) {
+              readFileAsStream(documentType, `${path}/PDFs/${file.name}`, cutPDF);
+              await sleep(1000);
+            }
           }
           directoryPDFs.closeSync()
         }
@@ -149,8 +151,10 @@ async function main() {
           let file;
 
           while ((file = directoryPDFs.readSync()) !== null) {
-            readFileAsBase64(documentType, `${path}/PDFs/${file.name}`, cutPDF);
-            await sleep(1000);
+            if (file.name.toLowerCase().endsWith(".pdf")) {
+              readFileAsBase64(documentType, `${path}/PDFs/${file.name}`, cutPDF);
+              await sleep(1000);
+            }
           }
           directoryPDFs.closeSync()
         }
@@ -165,8 +169,10 @@ async function main() {
           let file;
 
           while ((file = directoryPDFs.readSync()) !== null) {
-            readFileAsFile(documentType, `${path}/PDFs/${file.name}`, cutPDF);
-            await sleep(1000);
+            if (file.name.toLowerCase().endsWith(".pdf")) {
+              readFileAsFile(documentType, `${path}/PDFs/${file.name}`, cutPDF);
+              await sleep(1000);
+            }
           }
           directoryPDFs.closeSync()
         }

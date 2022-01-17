@@ -3,10 +3,7 @@ const fs = require("fs");
 var appRoot = require('app-root-path');
 
 const path = appRoot.path;
-const mindeeClient = new Client({
-    receipt_token: "INSERT_YOUR_API_KEY_HERE",
-    invoice_token: "INSERT_YOUR_API_KEY_HERE"
-});
+const mindeeClient = new Client();
 const documentTypes = ["invoice", "receipt", "finance"];
 const inputTypes = ["file", "stream", "base64"];
 const boolTypes = ["true", "false"];

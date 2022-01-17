@@ -9,19 +9,20 @@ def helpmsg(message):
     print(message + "\n");
     print("Correct parameters lists are: [document type] [relative or full path for the PDF file to read]");
     #print("Correct parameters lists are: [document type] [input type: how to read the file] [using cutPDF] [looping through the PDFs in the PDFs folder] [relative or full path for the PDF file to read]");
-    print("with those values [invoice, receipt, finance, passport]\n");
-    #print("with those values [invoice, receipt, finance] [file, stream, base64] [true, false] [true, false] [filePath]\n");
+    print("with those values [invoice, receipt, finance, passport, license_plate]\n");
+    #print("with those values [invoice, receipt, finance, license_plate] [file, stream, base64] [true, false] [true, false] [filePath]\n");
     print("example: python app.py invoice myPDF.pdf\n")
     #print("example: python app.py invoice file true false myPDF.pdf\n");
     #print("Please note that if 'loop' is true, do not provide a filePath");
 
 mindee_client = Client(
-    expense_receipt_token="1eeb5dc2d692cdccdd538ae155d0e984",
-    invoice_token="cef62669b8e24477f011757e5bf9c074",
-    passport_token="8fb6aab060a0715792e47ea04d26ae38",
+    expense_receipt_token="",
+    invoice_token="",
+    passport_token="",
+    license_plate_token="",
     raise_on_error=True
 )
-documentTypes = ["invoice", "receipt", "finance", "passport"]
+documentTypes = ["invoice", "receipt", "finance", "passport", "license_plate"]
 #inputTypes = ["file", "stream", "base64"]
 #boolTypes = ["true", "false"]
 
@@ -40,11 +41,14 @@ elif (arguments[1] == "receipt"):
     receipt_data = mindee_client.parse_receipt(arguments[2], "path", "3", True)
     print(receipt_data.receipt)
 elif (arguments[1] == "invoice"):
-    invoice_data = mindee_client.parse_invoice(arguments[2], "path", "3", True)
+    invoice_data = mindee_client.parse_invoice(arguments[2], "path", "2", True)
     print(invoice_data.invoice)
 elif (arguments[1] == "finance"):
-    finance_data = mindee_client.parse_financial_document(arguments[2], "path", "3", True)
+    finance_data = mindee_client.parse_financial_document(arguments[2], "path", True)
     print(finance_data.financial_document)
 elif (arguments[1] == "passport"):
-    passport_data = mindee_client.parse_passport(arguments[2], "path", "3", True)
+    passport_data = mindee_client.parse_passport(arguments[2], "path", "1", True)
     print(passport_data.passport)
+elif (arguments[1] == "license_plate"):
+    license_data = mindee_client.parse_license_plate(arguments[2], "path", "1", True)
+    print(license_data.license_plate)

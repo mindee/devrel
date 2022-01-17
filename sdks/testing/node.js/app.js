@@ -105,9 +105,6 @@ async function main() {
   else if (arguments.length > 4 && arguments[3] === "true") {
     help("Looping through the directory, but you provided a file to use: please choose one or another");
   }
-  else if (arguments.length < 5) {
-    help("Missing arguments");
-  }
   else if (!documentTypes.includes(arguments[0])) {
     help("Please add use 'invoice', 'receipt' or 'finance' as the type of document you want to use");
   }
@@ -120,7 +117,7 @@ async function main() {
   else if (!boolTypes.includes(arguments[3])) {
     help("Please use 'true' or 'false' for the loop argument");
   }
-  else if (arguments[4] !=- null && !fs.existsSync(arguments[4])) {
+  else if (arguments[4] != null && !fs.existsSync(arguments[4])) {
     help("The file doesn't exist or the path you provided isn't the right one");
   }
   else {

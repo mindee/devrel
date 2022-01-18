@@ -6,6 +6,7 @@ Some resources to help Developer Relations do their job
 - [Developer Relations Salaries](#developer-relations-salaries)
 - [Pictures & Images](#pictures--images)
 - [Technical Information](#technical-information)
+- [Open Source Licensing](#open-source-licensing)
 
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
@@ -25,3 +26,6 @@ Some resources to help Developer Relations do their job
 
 ## Technical Information
 - [endoflife.date](https://endoflife.date):a community-maintained project to document end-of-life dates, and support lifecycles of various products
+
+## Open Source Licensing
+[Choose an open source license](https://choosealicense.com/licenses/): a good OSS licenses summary, maintained by GitHub

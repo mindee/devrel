@@ -6,4 +6,5 @@ sdks/testing/node.js/PDFs/
 sdks/testing/node.js/*.pdf
 sdks/testing/python/PDFs/
 sdks/testing/python/*.pdf
+sdks/testing/node.js/testpdflib.js
 

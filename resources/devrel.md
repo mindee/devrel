@@ -3,6 +3,7 @@
 Some resources to help Developer Relations do their job
 
 - [Career Ladders Examples](#career-ladders-examples)
+- [Datasets](#datasets)
 - [Developer Relations Salaries](#developer-relations-salaries)
 - [Pictures & Images](#pictures--images)
 - [Technical Information](#technical-information)
@@ -10,6 +11,12 @@ Some resources to help Developer Relations do their job
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
 - [Technical Writers](https://career-ladders.dev/docs/)
+
+## Datasets
+[Europe License Plates](https://www.kaggle.com/andrewmvd/car-plate-detection)
+[Receipts - different languages](https://www.kaggle.com/jenswalter/receipts)
+[Tough Invoices](https://www.kaggle.com/dibyajyotimohanta/tough-invoices)
+[US License Plates](https://www.kaggle.com/tolgadincer/us-license-plates)
 
 ## Developer Relations Salaries
 - The [Developer Relations Collective](https://devrelcollective.fun/) 2021 survey [results](https://dev.to/bffjossy/2021-devrel-salary-survey-results-table-of-contents-43fe)

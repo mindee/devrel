@@ -35,6 +35,7 @@ Some resources to help Developer Relations do their job
 ## Pictures & Images
 - [Better Images of AI](https://betterimagesofai.org/images): better images than the unrealistic expectations and misstate capabilities of AI
 - [Pexels](https://www.pexels.com): royalty free images & videos
+- [PNG Repo](https://www.pngrepo.com): 300.000+ PNG Icons and Graphics
 - [Unsplash](https://unsplash.com): free high-resolution photos
 - [WordPress Photo Directory](https://wordpress.org/photos/): [CC0 licensed](https://creativecommons.org/share-your-work/public-domain/cc0/) photos.
 

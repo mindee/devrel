@@ -14,10 +14,11 @@ Some resources to help Developer Relations do their job
 - [Technical Writers](https://career-ladders.dev/docs/)
 
 ## Datasets
-[Europe License Plates](https://www.kaggle.com/andrewmvd/car-plate-detection)
+[Invoices - Tough ones](https://www.kaggle.com/dibyajyotimohanta/tough-invoices)
+[License Plates - Europe](https://www.kaggle.com/andrewmvd/car-plate-detection)
+[License Plates - Europe (Romania)](https://github.com/RobertLucian/license-plate-dataset)
+[License Plates - US](https://www.kaggle.com/tolgadincer/us-license-plates)
 [Receipts - different languages](https://www.kaggle.com/jenswalter/receipts)
-[Tough Invoices](https://www.kaggle.com/dibyajyotimohanta/tough-invoices)
-[US License Plates](https://www.kaggle.com/tolgadincer/us-license-plates)
 
 ## Developer Relations Salaries
 - The [Developer Relations Collective](https://devrelcollective.fun/) 2021 survey [results](https://dev.to/bffjossy/2021-devrel-salary-survey-results-table-of-contents-43fe)

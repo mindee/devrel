@@ -6,6 +6,7 @@ Some resources to help Developer Relations do their job
 - [Developer Relations Salaries](#developer-relations-salaries)
 - [Pictures & Images](#pictures--images)
 - [Technical Information](#technical-information)
+- [Vectors](#vectors)
 
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
@@ -19,9 +20,13 @@ Some resources to help Developer Relations do their job
 
 ## Pictures & Images
 - [Better Images of AI](https://betterimagesofai.org/images): better images than the unrealistic expectations and misstate capabilities of AI
-- [Pexels](https://www.pexels.com/): royalty free images & videos
+- [Pexels](https://www.pexels.com): royalty free images & videos
 - [Unsplash](https://unsplash.com): free high-resolution photos
 - [WordPress Photo Directory](https://wordpress.org/photos/): [CC0 licensed](https://creativecommons.org/share-your-work/public-domain/cc0/) photos.
+
+## Vectors
+[Font Awesome](https://fontawesome.com): vector icons and social logos as Font (free & paid version available)
+[SVG Repo](https://www.svgrepo.com): 300.000+ SVG vectors and icons available for commercial use
 
 ## Technical Information
 - [endoflife.date](https://endoflife.date):a community-maintained project to document end-of-life dates, and support lifecycles of various products

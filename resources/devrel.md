@@ -3,6 +3,7 @@
 Some resources to help Developer Relations do their job
 
 - [Career Ladders Examples](#career-ladders-examples)
+- [Communities](#communities)
 - [Developer Relations Salaries](#developer-relations-salaries)
 - [Pictures & Images](#pictures--images)
 - [Technical Information](#technical-information)
@@ -10,6 +11,20 @@ Some resources to help Developer Relations do their job
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
 - [Technical Writers](https://career-ladders.dev/docs/)
+
+## Communities
+
+### Developer Relations
+- [Devrel Collective](https://devrelcollective.fun): for advocates, evangelists and community managers
+
+### Developers
+- [CNCF](https://slack.cncf.io): Cloud Native Computing Foundation Slack community
+
+### Product Centric
+- [Mindee](https://slack.mindee.com)
+
+### Others
+- [Write the Docs](https://www.writethedocs.org/slack/): for technical writers or anyone who cares about documentation
 
 ## Developer Relations Salaries
 - The [Developer Relations Collective](https://devrelcollective.fun/) 2021 survey [results](https://dev.to/bffjossy/2021-devrel-salary-survey-results-table-of-contents-43fe)

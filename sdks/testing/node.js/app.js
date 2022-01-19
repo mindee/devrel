@@ -3,10 +3,7 @@ const fs = require("fs");
 var appRoot = require('app-root-path');
 
 const path = appRoot.path;
-const mindeeClient = new Client({
-    receipt_token: "INSERT_YOUR_API_KEY_HERE",
-    invoice_token: "INSERT_YOUR_API_KEY_HERE"
-});
+const mindeeClient = new Client();
 const documentTypes = ["invoice", "receipt", "finance"];
 const inputTypes = ["file", "stream", "base64"];
 const boolTypes = ["true", "false"];
@@ -108,9 +105,6 @@ async function main() {
   else if (arguments.length > 4 && arguments[3] === "true") {
     help("Looping through the directory, but you provided a file to use: please choose one or another");
   }
-  else if (arguments.length < 5) {
-    help("Missing arguments");
-  }
   else if (!documentTypes.includes(arguments[0])) {
     help("Please add use 'invoice', 'receipt' or 'finance' as the type of document you want to use");
   }
@@ -123,7 +117,7 @@ async function main() {
   else if (!boolTypes.includes(arguments[3])) {
     help("Please use 'true' or 'false' for the loop argument");
   }
-  else if (arguments[4] !=- null && !fs.existsSync(arguments[4])) {
+  else if (arguments[4] != null && !fs.existsSync(arguments[4])) {
     help("The file doesn't exist or the path you provided isn't the right one");
   }
   else {
@@ -140,8 +134,10 @@ async function main() {
           let file;
 
           while ((file = directoryPDFs.readSync()) !== null) {
-            readFileAsStream(documentType, `${path}/PDFs/${file.name}`, cutPDF);
-            await sleep(1000);
+            if (file.name.toLowerCase().endsWith(".pdf")) {
+              readFileAsStream(documentType, `${path}/PDFs/${file.name}`, cutPDF);
+              await sleep(1000);
+            }
           }
           directoryPDFs.closeSync()
         }
@@ -155,8 +151,10 @@ async function main() {
           let file;
 
           while ((file = directoryPDFs.readSync()) !== null) {
-            readFileAsBase64(documentType, `${path}/PDFs/${file.name}`, cutPDF);
-            await sleep(1000);
+            if (file.name.toLowerCase().endsWith(".pdf")) {
+              readFileAsBase64(documentType, `${path}/PDFs/${file.name}`, cutPDF);
+              await sleep(1000);
+            }
           }
           directoryPDFs.closeSync()
         }
@@ -171,8 +169,10 @@ async function main() {
           let file;
 
           while ((file = directoryPDFs.readSync()) !== null) {
-            readFileAsFile(documentType, `${path}/PDFs/${file.name}`, cutPDF);
-            await sleep(1000);
+            if (file.name.toLowerCase().endsWith(".pdf")) {
+              readFileAsFile(documentType, `${path}/PDFs/${file.name}`, cutPDF);
+              await sleep(1000);
+            }
           }
           directoryPDFs.closeSync()
         }

@@ -5,6 +5,7 @@ Some resources to help Developer Relations do their job
 - [Career Ladders Examples](#career-ladders-examples)
 - [Datasets](#datasets)
 - [Developer Relations Salaries](#developer-relations-salaries)
+- [Fonts](#fonts)
 - [Open Source Licensing](#open-source-licensing)
 - [Pictures & Images](#pictures--images)
 - [Technical Information](#technical-information)
@@ -26,6 +27,10 @@ Some resources to help Developer Relations do their job
 
 ## Developer Relations Surveys
 - [State of Developer Relations](https://www.stateofdeveloperrelations.com/) by Hoopy (DevRelCon)
+
+## Fonts
+[Font Repo](https://www.fontrepo.com): free `.TFF` fonts
+[Font Squirrel](https://www.fontsquirrel.com): free for commercial use
 
 ## Pictures & Images
 - [Better Images of AI](https://betterimagesofai.org/images): better images than the unrealistic expectations and misstate capabilities of AI

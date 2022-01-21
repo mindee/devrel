@@ -68,4 +68,5 @@ Some resources to help Developer Relations do their job
 
 ## Vectors
 - [Font Awesome](https://fontawesome.com): vector icons and social logos as Font (free & paid version available)
+- [Iconmonstr](https://iconmonstr.com/): 4512+ free icons in 316 collections
 - [SVG Repo](https://www.svgrepo.com): 300.000+ SVG vectors and icons available for commercial use

@@ -4,7 +4,11 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
-### 2020-01-05  
+### 2022-01-19  
+**ITPro Today**
+[2022 AI, Machine Learning and Data Trends to Watch](https://www.itprotoday.com/data-analytics-and-data-management/2022-ai-machine-learning-and-data-trends-watch)
+
+### 2022-01-05  
 **DATAVERSITY**
 [Leading Disruption in 2022: AI, Data Privacy Concerns, and Developer Relations](https://www.dataversity.net/leading-disruption-in-2022-ai-data-privacy-concerns-and-developer-relations/)
 

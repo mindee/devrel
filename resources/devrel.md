@@ -53,6 +53,7 @@ Some resources to help Developer Relations do their job
 
 ## Pictures & Images
 - [Better Images of AI](https://betterimagesofai.org/images): better images than the unrealistic expectations and misstate capabilities of AI
+- [Noun Project](https://thenounproject.com): icons & photos for everything.
 - [Pexels](https://www.pexels.com): royalty free images & videos
 - [PNG Repo](https://www.pngrepo.com): 300.000+ PNG Icons and Graphics
 - [Unsplash](https://unsplash.com): free high-resolution photos
@@ -69,5 +70,6 @@ Some resources to help Developer Relations do their job
 ## Vectors
 - [Font Awesome](https://fontawesome.com): vector icons and social logos as Font (free & paid version available)
 - [Iconmonstr](https://iconmonstr.com/): 4512+ free icons in 316 collections
+- [Noun Project](https://thenounproject.com): icons & photos for everything.
 - [Seek Logo](https://seeklogo.com): 400.000+ vector brand logos and logo templates
 - [SVG Repo](https://www.svgrepo.com): 300.000+ SVG vectors and icons available for commercial use

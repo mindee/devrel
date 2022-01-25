@@ -3,6 +3,7 @@
 Some resources to help Developer Relations do their job
 
 - [Career Ladders Examples](#career-ladders-examples)
+- [CFPs](#cfps)
 - [Communities](#communities)
 - [Datasets](#datasets)
 - [Developer Relations Salaries](#developer-relations-salaries)
@@ -16,6 +17,12 @@ Some resources to help Developer Relations do their job
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
 - [Technical Writers](https://career-ladders.dev/docs/)
+
+# CFPs
+- [CFP Land](https://www.cfpland.com)
+- [Confs.tech](https://confs.tech/cfp)
+- [SeeCFP](https://seecfp.com)
+- [Tech Daily CFP](http://techdailycfp.com)
 
 ## Communities
 

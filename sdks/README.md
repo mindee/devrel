@@ -14,7 +14,7 @@ We also have Computer Vision SDKs, but they aren't maintained by the devrel team
 
 To effectively test the SDKs, we created small applications for the Mindee SDKs. Please note that these are intended to be use by Mindee employees, and are not bulletproof.
 
-- [Python](testing/python/app.py) - not as complete yet than the Node.js one
+- Python: use the `mindee-cli.sh` file in the Python SDK [repository](https://github.com/mindee/mindee-api-python/)
 - [Node.js](testing/node.js/app.js)
 
 # Additional Informations

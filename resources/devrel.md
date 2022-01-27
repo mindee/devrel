@@ -52,6 +52,7 @@ Some resources to help Developer Relations do their job
 - [State of Developer Relations](https://www.stateofdeveloperrelations.com/) by Hoopy (DevRelCon)
 
 ## Fonts
+- [CDN | Fonts](https://www.cdnfonts.com): a CDN for fonts
 - [Font Repo](https://www.fontrepo.com): free `.TFF` fonts
 - [Font Squirrel](https://www.fontsquirrel.com): free for commercial use
 

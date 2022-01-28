@@ -86,6 +86,9 @@ will both render
 
 The second way is more easy to manage when you have to reorder your list, but to ensure a better readability of the Markdown files when not rendered, we use the correct numbers for our list items.
 
+### Unordered
+[Markdown standard](https://daringfireball.net/projects/markdown/) let you write unordered list using `*`, `+` and `-`: always use hyphens.
+
 
 ## Text Formatting
 

@@ -79,15 +79,15 @@ There are four different types of callouts we use: `success`, `info`, `warning`,
 > 
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
-> 📘 info
+> 📘 Info
 > 
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
-> 🚧 warning
+> 🚧 Warning
 > 
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
-> ❗️info
+> ❗️ Error
 > 
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 

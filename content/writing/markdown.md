@@ -13,7 +13,7 @@ Here is an example of how you can write a callout:
 >
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 ```
-### Callout Types
+### Types
 There are four different types of callouts we use: `success`, `info`, `warning`, `error`.
 
 > 👍 **Success**
@@ -33,7 +33,7 @@ There are four different types of callouts we use: `success`, `info`, `warning`,
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
 
-## Code
+## Code Block
 When displaying code examples, if you don't want to show the full code or the full output, you can add ellipses as shown below.
 
 ![](../../img/code-top.png)

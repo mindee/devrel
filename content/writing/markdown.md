@@ -68,7 +68,7 @@ Callouts are a great method to attract additional attention to specific ideas or
 Here is an example of how you to write a callout:
 
 ```
-> 📘 info
+> 📘 Info
 > 
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 ```
@@ -90,6 +90,3 @@ There are four different types of callouts we use: `success`, `info`, `warning`,
 > ❗️ Error
 > 
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
-
-
-

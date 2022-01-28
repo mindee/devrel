@@ -87,6 +87,6 @@ There are four different types of callouts we use: `success`, `info`, `warning`,
 > 
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
-> ❗**Error**
+> ❗ **Error**
 > 
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.

@@ -7,6 +7,36 @@ Here a list of guidelines for any type of content created with markdown.
 
 `**my bold text**`
 
+## Callouts
+Callouts are a great method to attract additional attention to specific ideas or to make it obvious that some information is optional or only important in certain situations.
+
+Here is an example of how you can write a callout:
+
+```
+> 📘 **Info**
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+```
+### Callout Types
+There are four different types of callouts we use: `success`, `info`, `warning`, `error`.
+
+> 👍 **Success**
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+
+> 📘 **Info**
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+
+> 🚧 **Warning**
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+
+> ❗ **Error**
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+
+
 ## Code
 When displaying code examples, if you don't want to show the full code or the full output, you can add ellipses as shown below.
 
@@ -61,32 +91,3 @@ will both render
 3. item 3
 
 The second way is more easy to manage when you have to reorder your list, but to ensure a better readability of the Markdown files when not rendered, we use the correct numbers for our list items.
-
-## Callouts
-Callouts are a great method to attract additional attention to specific ideas or to make it obvious that some information is optional or only important in certain situations.
-
-Here is an example of how you can write a callout:
-
-```
-> 📘 **Info**
-> 
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
-```
-### Callout Types
-There are four different types of callouts we use: `success`, `info`, `warning`, `error`.
-
-> 👍 **Success**
-> 
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
-
-> 📘 **Info**
-> 
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
-
-> 🚧 **Warning**
-> 
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
-
-> ❗ **Error**
-> 
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.

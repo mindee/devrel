@@ -90,6 +90,8 @@ The second way is more easy to manage when you have to reorder your list, but to
 ### Unordered
 [Markdown standard](https://daringfireball.net/projects/markdown/) let you write unordered list using `*`, `+` and `-`: always use hyphens.
 
+## Table of Content
+Some Markdown parser will gebnerate a table of content (toc) automatically for you (i.e GitHub), but you should always write them manually. There is no guarantee that your content will be viewed with a tool that will do the same.
 
 ## Text Formatting
 

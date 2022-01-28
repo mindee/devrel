@@ -14,26 +14,26 @@ Here is an example of how you can write a callout:
 
 ```
 > 📘 **Info**
-> 
+>
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 ```
 ### Callout Types
 There are four different types of callouts we use: `success`, `info`, `warning`, `error`.
 
 > 👍 **Success**
-> 
+>
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
 > 📘 **Info**
-> 
+>
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
 > 🚧 **Warning**
-> 
+>
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
 > ❗ **Error**
-> 
+>
 > Vitae reprehenderit at aliquid error voluptates eum dignissimos.
 
 

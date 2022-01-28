@@ -60,8 +60,9 @@ Be as descriptive as you can: ask yourself how you would like someone to describ
 ### Quality
 Always use the highest possible quality for images, no matter if the file size is huge. They will be optimized using [Shortpixel](https://shortpixel.com/online-image-compression) and a glossy compression level to minimize the file size, but keep a high quality.
 
+## Lists
 
-## Ordered list
+### Ordered
 [Markdown standard](https://daringfireball.net/projects/markdown/) let you write ordered list by either numbering them correctly or just making them all items 1
 
 ```

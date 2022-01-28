@@ -1,5 +1,8 @@
 # Documentation
 
+## Markdown Code Block Syntax Highlight
+Since are using README.io for now, we can only use the [languages supported by them](https://rdmd.readme.io/docs/code-blocks#language-support).
+
 ## Template for integration documentation
 
 Below is a guide for creating an integration documentation

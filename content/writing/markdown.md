@@ -2,6 +2,19 @@
 
 Here a list of guidelines for any type of content created with markdown.
 
+- [Callouts](#callouts)
+	- [Types](#Types)
+- [Code Block](#code-block)
+- [Headers](#headers)
+- [Images](#images)
+	- [ALT Description & Caption](#alt-description--caption)
+	- [Quality](#quality)
+- [Lists](#lists)
+	- [Ordered](#ordered)
+	- [Unordered](#unordered)
+- [Text Formatting](#text-formatting)
+	- [Bold](#bold)
+	- [Italic](#italic)
 
 ## Callouts
 Callouts are a great method to attract additional attention to specific ideas or to make it obvious that some information is optional or only important in certain situations.

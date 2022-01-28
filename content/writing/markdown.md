@@ -61,3 +61,35 @@ will both render
 3. item 3
 
 The second way is more easy to manage when you have to reorder your list, but to ensure a better readability of the Markdown files when not rendered, we use the correct numbers for our list items.
+
+## Callout
+Callouts are a great method to attract additional attention to specific ideas or to make it obvious that some information is optional or only important in certain situations.
+
+Here is an example of how you to write a callout:
+
+```
+> 📘 info
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+```
+### Callout Types
+There are four different types of callouts we use: `success`, `info`, `warning`, `error`.
+
+> 👍 Success
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+
+> 📘 info
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+
+> 🚧 warning
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+
+> ❗️info
+> 
+> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+
+
+

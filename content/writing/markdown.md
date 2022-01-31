@@ -8,6 +8,7 @@ Here a list of guidelines for any type of content created with markdown.
 - [Headers](#headers)
 - [Images](#images)
 	- [ALT Description & Caption](#alt-description--caption)
+	- [Copyrights](#copyrights)
 	- [Quality](#quality)
 - [Lists](#lists)
 	- [Ordered](#ordered)
@@ -69,6 +70,11 @@ Be as descriptive as you can: ask yourself how you would like someone to describ
 ![](../../img/pexels-alexandr-podvalny-321552.jpg)
 - **Bad**: picture of a monkey
 - **Good**: a monkey eating a banana
+
+### Copyrights
+When using images from external parties, always be sure that we have the commercial right to use them. If it's not specified, do not use them. If you aren't sure, ask @fharper.
+
+Always add the credit of images that aren't ours under the image itself. You can either simply put the link to the image page where the copyright information is listed, or write down the author or company owning the image.
 
 ### Quality
 Always use the highest possible quality for images, no matter if the file size is huge. They will be optimized using [Shortpixel](https://shortpixel.com/online-image-compression) and a glossy compression level to minimize the file size, but keep a high quality.

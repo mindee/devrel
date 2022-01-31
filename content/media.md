@@ -4,20 +4,24 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
-### 2022-01-28  
-**Transforming Data With Intelligence**
+### 2022-01-31
+**DEVOPSdigest**  
+[Why the Developer Community Will Rule 2022](https://www.devopsdigest.com/why-the-developer-community-will-rule-2022)
+
+### 2022-01-28
+**Transforming Data With Intelligence**  
 [From Privacy to AI Implementations, What to Expect This Year](https://tdwi.org/articles/2022/01/28/adv-all-from-privacy-to-ai-implementations-what-to-expect-this-year.aspx)
 
-### 2022-01-19  
-**ITPro Today**
+### 2022-01-19
+**ITPro Today**  
 [2022 AI, Machine Learning and Data Trends to Watch](https://www.itprotoday.com/data-analytics-and-data-management/2022-ai-machine-learning-and-data-trends-watch)
 
-### 2022-01-05  
-**DATAVERSITY**
+### 2022-01-05
+**DATAVERSITY**  
 [Leading Disruption in 2022: AI, Data Privacy Concerns, and Developer Relations](https://www.dataversity.net/leading-disruption-in-2022-ai-data-privacy-concerns-and-developer-relations/)
 
-### 2022-01-03  
-**StarCIO**
+### 2022-01-03
+**StarCIO**  
 [14 Expert Predictions on Winning in 2022: CX, Hybrid Work, Hyperautomation, Ecosystems, and AI](https://blogs.starcio.com/2022/01/2022-predictions-cx-hyperautomation-ai.html)
 
 ### 2021-12-15

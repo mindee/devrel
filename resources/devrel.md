@@ -10,9 +10,11 @@ Some resources to help Developer Relations do their job
 - [Fonts](#fonts)
 - [Open Source Licensing](#open-source-licensing)
 - [Pictures & Images](#pictures--images)
+- [Alt In Images](#alt-in-images)
 - [Slack Tools](#slack-tools)
 - [Technical Information](#technical-information)
 - [Vectors](#vectors)
+
 
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
@@ -66,6 +68,10 @@ Some resources to help Developer Relations do their job
 - [PNG Repo](https://www.pngrepo.com): 300.000+ PNG Icons and Graphics
 - [Unsplash](https://unsplash.com): free high-resolution photos
 - [WordPress Photo Directory](https://wordpress.org/photos/): [CC0 licensed](https://creativecommons.org/share-your-work/public-domain/cc0/) photos.
+
+## Alt In Images
+- [W3C: Images Concepts](https://www.w3.org/WAI/tutorials/images/)
+- [W3C: An Alt decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
 
 ## Slack Tools
 - [Community Inviter](https://communityinviter.com): Slack invitation management tool & landing page (free & paid plans available)

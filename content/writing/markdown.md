@@ -69,7 +69,7 @@ Always add a text for the ALT description and a caption to all of the images.
 Write in such a way that someone could totally understand without needing images. Consider the image as an addition for visual people, but not as a primary item that needs to be there, so people can understand what you want them to do or understand. In other words, you can remove the images completely and understand the tutorial or documentation. Doing this ensure that there is no difference in terms of information that visual capable people have vs the others. 
 
 #### Tips In Writing ALT Description
-1. Be as descriptive as you can but moderate: ask yourself how you would like someone to describe them to you if you were blind. Try to find a good balance between adding enough information vs having something way too long, since people using screen reader already have a lot of “reading” happening on the page, but add enough context so people understand. Avoid adding words like pictures or photos. For example:
+1. Be as descriptive as you can but moderate: ask yourself how you would like someone to describe them to you if you were visually impaired. Try to find a good balance between adding enough information vs having something way too long, since people using screen reader already have a lot of “reading” happening on the page, but add enough context so people understand. Avoid adding words like pictures or photos. For example:
 
 ![](../../img/pexels-alexandr-podvalny-321552.jpg)
 - **Bad**: picture of a monkey

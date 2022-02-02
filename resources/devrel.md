@@ -71,7 +71,7 @@ Some resources to help Developer Relations do their job
 
 ## Alt In Images
 - [W3C: Images Concepts](https://www.w3.org/WAI/tutorials/images/)
-- [W3C: An Alt decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+- [W3C: An Alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
 
 ## Slack Tools
 - [Community Inviter](https://communityinviter.com): Slack invitation management tool & landing page (free & paid plans available)

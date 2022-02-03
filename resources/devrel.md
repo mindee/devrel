@@ -2,6 +2,7 @@
 
 Some resources to help Developer Relations do their job
 
+- [Accessibility](#accessbility)
 - [Career Ladders Examples](#career-ladders-examples)
 - [CFPs](#cfps)
 - [Communities](#communities)
@@ -14,11 +15,17 @@ Some resources to help Developer Relations do their job
 - [Technical Information](#technical-information)
 - [Vectors](#vectors)
 
+## Accessibility
+
+### Images
+- [W3C: Images Concepts](https://www.w3.org/WAI/tutorials/images/)
+- [W3C: An Alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+
 ## Career Ladders Examples
 - [Developers / Engineers](https://career-ladders.dev/engineering/)
 - [Technical Writers](https://career-ladders.dev/docs/)
 
-# CFPs
+## CFPs
 - [CFP Land](https://www.cfpland.com)
 - [Confs.tech](https://confs.tech/cfp)
 - [SeeCFP](https://seecfp.com)

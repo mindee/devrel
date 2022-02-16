@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-02-01
+**Acceleration Economy**  
+[How Data Science Accelerates With Low-Code Tools](https://accelerationeconomy.com/low-code-no-code/how-data-science-accelerates-with-low-code-tools/)
+
 ### 2022-01-31
 **DEVOPSdigest**  
 [Why the Developer Community Will Rule 2022](https://www.devopsdigest.com/why-the-developer-community-will-rule-2022)

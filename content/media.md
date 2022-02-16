@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-02-16
+**VentureBeat**  
+[Nanonets lands $10 million to expedite document processing with AI](https://venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/)
+
 ### 2022-02-01
 **Acceleration Economy**  
 [How Data Science Accelerates With Low-Code Tools](https://accelerationeconomy.com/low-code-no-code/how-data-science-accelerates-with-low-code-tools/)

@@ -1,5 +1,8 @@
 # Documentation
 
+## Headers
+We can't use H1 header in the markdown as it's reserved for the page title.
+
 ## Markdown Code Block Syntax Highlight
 Since are using README.io for now, we can only use the [languages supported by them](https://rdmd.readme.io/docs/code-blocks#language-support).
 

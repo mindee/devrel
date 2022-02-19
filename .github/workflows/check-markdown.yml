@@ -1,0 +1,23 @@
+name: Markdown Check
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  markdown-check:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Setting up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Installing markdownlint-cli2
+        run: npm i -g markdownlint-cli2
+
+      - name: Check the Markdown
+        run: markdownlint-cli2 integration/python-sdk/python-receipt-ocr.md
+        with:
+          config-file: '.markdownlint.json'

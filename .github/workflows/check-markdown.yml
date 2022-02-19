@@ -1,8 +1,5 @@
 name: Markdown Check
-on:
-  push:
-    branches:
-      - main
+on: push
 
 jobs:
   markdown-check:
@@ -18,6 +15,4 @@ jobs:
         run: npm i -g markdownlint-cli2
 
       - name: Check the Markdown
-        run: markdownlint-cli2 integration/python-sdk/python-receipt-ocr.md
-        with:
-          config-file: '.markdownlint.json'
+        run: markdownlint-cli2-config /github/workspace/.markdownlint.json "**/*.md"

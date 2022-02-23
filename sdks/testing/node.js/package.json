@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "app-root-path": "^3.0.0",
-    "global-agent": "^3.0.0"
-  }
-}

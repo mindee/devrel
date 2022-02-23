@@ -1,5 +1,11 @@
 # Documentation
 
+Here are some guidelines for writing the Mindee documentation. For anything Markdown specific, please follow the [Markdown guidelines](markdown.md).
+
+- [Headers](#headers)
+- [Markdown Code Block Syntax Highlight](#markdown-code-block-syntax-highlight)
+- [Template for integration documentation](#template-for-integration-documentation)
+
 ## Headers
 We can't use H1 header in the markdown as it's reserved for the page title.
 

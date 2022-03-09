@@ -1,6 +1,5 @@
 ## List of Company Registration Number Extracted by Mindee API
 
-
 - [ABN](https://abr.business.gov.au/Help/AbnFormat)
 - [BTW](https://en.wikipedia.org/wiki/European_Union_value_added_tax)
 - [CF](https://en.wikipedia.org/wiki/Italian_fiscal_code)

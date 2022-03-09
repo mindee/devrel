@@ -48,6 +48,17 @@ Some resources to help on different levels
 
 ## Vectors
 
+### Files
+- [Algolia Logo](svgs/algolia.svg)
+- [Beer Mug](svgs/beer-mug.svg)
+- [DigitalOcean Logo](svgs/digitalocean.svg)
+- [Heart - Full](svgs/heart.svg)
+- [Node.js Logo](svgs/node-js.svg)
+- [PyPi Logo](svgs/pypi.svg)
+- [Python Logo](svgs/python.svg)
+- [Snowflake](svgs/snowflake.svg)
+- [Twilio Logo](svgs/twilio.svg)
+
 ### Sites
 - [Font Awesome](https://fontawesome.com): vector icons and social logos as Font (free & paid version available)
 - [Iconmonstr](https://iconmonstr.com/): 4512+ free icons in 316 collections

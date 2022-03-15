@@ -1,27 +1,29 @@
 {
-    "ignorePatterns":
-    [
-	    {
-		    "pattern": "^https://www.linkedin.com.*"
-	    },
-	    {
-		    "pattern": ".*\\]$"
-	    },
-	    {
-		    "pattern": "https://www.enterprisetimes.co.uk*"
-	    },
-	    {
-		    "pattern": "https://www.pexels.com*"
-	    },
-	    {
-		    "pattern": "https://github.com/mindee/content*"
-	    },
-	    {
-		    "pattern": "https://www.pngrepo.com"
-	    },
-        {
-            "pattern": "https://tdwi.org*"
-        }
-    ],
-    "timeout": "20s"
+	"ignorePatterns": [
+		{
+			"pattern": "^https://www.linkedin.com.*"
+		},
+		{
+			"pattern": ".*\\]$"
+		},
+		{
+			"pattern": "https://www.enterprisetimes.co.uk*"
+		},
+		{
+			"pattern": "https://www.pexels.com*"
+		},
+		{
+			"pattern": "https://github.com/mindee/content*"
+		},
+		{
+			"pattern": "https://www.pngrepo.com"
+		},
+		{
+			"pattern": "https://tdwi.org*"
+		},
+		{
+			"pattern": "https://fakepersongenerator.com*"
+		}
+	],
+  "timeout": "20s"
 }

@@ -2,25 +2,29 @@
 
 Here are some guidelines for writing the Mindee documentation. For anything Markdown specific, please follow the [Markdown guidelines](markdown.md).
 
-- [How to Modify the Documentation](how-to-modify-the-documentation)
 - [Headers](#headers)
+- [How to Modify the Documentation](how-to-modify-the-documentation)
 - [Markdown Code Block Syntax Highlight](#markdown-code-block-syntax-highlight)
 - [Template for integration documentation](#template-for-integration-documentation)
 
+## Headers
+We can't use H1 header in the markdown as it's reserved for the page title.
+
 ## How to Modify the Documentation
 If you have ideas, suggestions, issues or new things to add to the documentation, please:
-- Create an issue in the [documentation repository](https://github.com/mindee/documentation/issues) 
+
+- Create an issue in the [documentation repository](https://github.com/mindee/documentation/issues)
 
 Alternatively, if you want to do it yourself
+
 - Create a PR in the [documentation repository](https://github.com/mindee/documentation)
+- Once the PR is approved and merged, it will be automatically updated on README.io within a couple of minutes.
+
+It's that simple!
 
 > 🚧 **Warning**
 >
-> Do not modify the documentation from README.io anymore, the only exceptions are for special README blocks like **code with tabs** or **uploading images on their server**. 
-
-
-## Headers
-We can't use H1 header in the markdown as it's reserved for the page title.
+> Do not modify the documentation from README.io directly, the only exceptions are for special README blocks like **code with tabs** or **uploading images on their server**.
 
 ## Markdown Code Block Syntax Highlight
 Since are using README.io for now, we can only use the [languages supported by them](https://rdmd.readme.io/docs/code-blocks#language-support).

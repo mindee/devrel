@@ -7,7 +7,7 @@ Here a list of scripts we are using to make our life easier.
 ## [addBlankPages.sh](addBlankPages.sh)
 Add 10 blank pages to all PDF in the specific folder
 
-## [convert-heic.sh ](convert-heic.sh)
+## [convert-heic.sh](convert-heic.sh)
 Convert `.heic` (Apple propriatery version of the **H**igh-**E**fficiency **I**mage **F**ile format) to `.jpg` in batch
 
 ## [create-all-doc-issues.sh](create-all-doc-issues.sh)
@@ -21,6 +21,19 @@ Delete the boucing emails from our Newsletter contact list on SendGrid.
 
 ## [detectProtectedPDF.sh](detectProtectedPDF.sh)
 Detect password protected PDFs from the desired folder.
+
+## [fake-data.rb](fake-data.rb)
+A small Ruby app that generate some fake data:
+
+- France Bank Informations
+    - Account Number
+    - IBAN
+    - Routing Number
+    - Swift Number
+- US
+    - Company Registration Number (EIN)
+
+Need to install [faker](https://github.com/faker-ruby/faker) by doing `gem install faker`.
 
 ## [getPDFsPages.sh](getPDFsPages.sh)
 Get the number of pages for each PDFs from the desired folder.

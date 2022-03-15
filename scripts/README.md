@@ -35,5 +35,8 @@ A small Ruby app that generate some fake data:
 
 Need to install [faker](https://github.com/faker-ruby/faker) by doing `gem install faker`.
 
+## [getPDFsPages.sh](getPDFsPages.sh)
+Get the number of pages for each PDFs from the desired folder.
+
 ## [github-stars](github-stars.sh)
 Get the latest number of stars on our public repositories.

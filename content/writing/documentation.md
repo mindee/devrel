@@ -4,7 +4,7 @@ Here are some guidelines for writing the Mindee documentation and using README.i
 
 - [Categories](#categories)
 - [Headers](#headers)
-- [How to Modify the Documentation](how-to-modify-the-documentation)
+- [How to Modify the Documentation](#how-to-modify-the-documentation)
 - [Markdown Code Block Syntax Highlight](#markdown-code-block-syntax-highlight)
 - [Template for integration documentation](#template-for-integration-documentation)
 

@@ -4,6 +4,7 @@ Some resources to help on different levels
 
 - [Accessibility](#accessibility)
 - [Datasets](#datasets)
+- [Fake Data Generators](#fake-data-generators)
 - [Fonts](#fonts)
 - [Open Source Licensing](#open-source-licensing)
 - [Pictures & Images](#pictures--images)
@@ -27,6 +28,21 @@ Some resources to help on different levels
 - [License Plates - US](https://www.kaggle.com/tolgadincer/us-license-plates)
 - [Receipts - different languages](https://www.kaggle.com/jenswalter/receipts)
 
+## Fake Data Generators
+
+- [Python Faker](https://github.com/joke2k/faker) with [CLI](https://github.com/joke2k/faker#command-line-usage)
+- [Ruby Faker](https://github.com/faker-ruby/faker) & [Faker CLI](https://github.com/faker-ruby/faker-bot)
+
+### France
+- [SIRET (France)—Système d'identification du répertoire des établissements](https://github.com/vsambor/Random-Siret-Generator)
+
+### United States
+- [US Street Address](https://www.fakepersongenerator.com/random-address)
+
+### Worldwide
+- [IBAN—International Bank Account Number](http://randomiban.com)
+- [SWIFT—Society for Worldwide Interbank Financial Telecommunications](https://www.mobilefish.com/services/bic_swift/bic_swift.php)
+
 ## Fonts
 - [CDN | Fonts](https://www.cdnfonts.com): a CDN for fonts
 - [Font Repo](https://www.fontrepo.com): free `.TFF` fonts
@@ -47,6 +63,17 @@ Some resources to help on different levels
 - [endoflife.date](https://endoflife.date):a community-maintained project to document end-of-life dates, and support lifecycles of various products
 
 ## Vectors
+
+### Files
+- [Algolia Logo](svgs/algolia.svg)
+- [Beer Mug](svgs/beer-mug.svg)
+- [DigitalOcean Logo](svgs/digitalocean.svg)
+- [Heart - Full](svgs/heart.svg)
+- [Node.js Logo](svgs/node-js.svg)
+- [PyPi Logo](svgs/pypi.svg)
+- [Python Logo](svgs/python.svg)
+- [Snowflake](svgs/snowflake.svg)
+- [Twilio Logo](svgs/twilio.svg)
 
 ### Sites
 - [Font Awesome](https://fontawesome.com): vector icons and social logos as Font (free & paid version available)

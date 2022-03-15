@@ -1,11 +1,15 @@
 # Documentation
 
-Here are some guidelines for writing the Mindee documentation. For anything Markdown specific, please follow the [Markdown guidelines](markdown.md).
+Here are some guidelines for writing the Mindee documentation and using README.io. For anything Markdown specific, please follow the [Markdown guidelines](markdown.md).
 
+- [Categories](#categories)
 - [Headers](#headers)
 - [How to Modify the Documentation](how-to-modify-the-documentation)
 - [Markdown Code Block Syntax Highlight](#markdown-code-block-syntax-highlight)
 - [Template for integration documentation](#template-for-integration-documentation)
+
+## Categories
+README.io has a bug where it's impossible to reorder a category outside of the current viewport, which makes it difficult for us since we have sections, like the one with the use cases that have a lot of pages. I was able to do it with Safari on macOS only.
 
 ## Headers
 We can't use H1 header in the markdown as it's reserved for the page title.

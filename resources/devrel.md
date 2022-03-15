@@ -6,6 +6,7 @@ Some resources to help Developer Relations do their job
 - [CFPs](#cfps)
 - [Communities](#communities)
 - [Developer Relations Salaries](#developer-relations-salaries)
+- [Learning](#learning)
 - [Slack Tools](#slack-tools)
 
 ## Career Ladders Examples
@@ -37,6 +38,9 @@ Some resources to help Developer Relations do their job
 
 ## Developer Relations Surveys
 - [State of Developer Relations](https://www.stateofdeveloperrelations.com/) by Hoopy (DevRelCon)
+
+## Learning
+- [Slack vs Discord vs Discourse: The best tool for your community](https://orbit.love/blog/slack-vs-discord-vs-discourse)
 
 ## Slack Tools
 - [Community Inviter](https://communityinviter.com): Slack invitation management tool & landing page (free & paid plans available)

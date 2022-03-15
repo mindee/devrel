@@ -22,7 +22,7 @@
 			"pattern": "https://tdwi.org*"
 		},
 		{
-			"pattern": "https://fakepersongenerator.com*"
+			"pattern": "https://www.fakepersongenerator.com*"
 		}
 	],
   "timeout": "20s"

@@ -22,5 +22,8 @@ Delete the boucing emails from our Newsletter contact list on SendGrid.
 ## [detectProtectedPDF.sh](detectProtectedPDF.sh)
 Detect password protected PDFs from the desired folder.
 
+## [getPDFsPages.sh](getPDFsPages.sh)
+Get the number of pages for each PDFs from the desired folder.
+
 ## [github-stars](github-stars.sh)
 Get the latest number of stars on our public repositories.

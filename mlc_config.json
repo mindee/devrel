@@ -24,5 +24,6 @@
 		{
 			"pattern": "https://fakepersongenerator.com*"
 		}
-	]
+	],
+  "timeout": "20s"
 }

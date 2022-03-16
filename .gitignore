@@ -7,4 +7,5 @@ sdks/testing/node.js/*.pdf
 sdks/testing/python/PDFs/
 sdks/testing/python/*.pdf
 sdks/testing/node.js/testpdflib.js
+dictionary.dic
 

@@ -12,6 +12,7 @@ There is a lot to do, but let's start with a 30-60-90 days plan.
 The first month is all about getting to know your colleagues, our product and the tools we use. Everything is explained in the onboarding process that all employees had to go through.
 
 In addition, you will start to slowly work on some urgent or quick projects:
+
 - [Updating the documentation for the new Models page](https://github.com/mindee/devrel/issues/104)
 - [Writing the November newsletter](https://github.com/mindee/devrel/issues/110)
 - [Adding the text field handwritten feature information in the documentation](https://github.com/mindee/devrel/issues/34)
@@ -19,6 +20,7 @@ In addition, you will start to slowly work on some urgent or quick projects:
 ## 60 days—Contributing
 
 Now that you are more familiar with Mindee, your coworkers and have a pretty good idea of the scope of your role, it's time to contribute more. In the beginning, it will mostly be about reviewing what was done before you joined:
+
 - [Reviewing the whole documentation](https://github.com/mindee/devrel/issues/9)
 - [Reviewing React SDK documentation](https://github.com/mindee/devrel/issues/24)
 - [Reviewing DocTR documentation](https://github.com/mindee/devrel/issues/26)
@@ -29,7 +31,8 @@ Once it's done, you'll be able to start creating your own content! It will also 
 
 ## 90 days—Leading
 
-At that point, you should not drink from the firehose anymore. We still start to work on ownership of different aspects related to your role. It is also the moment when we will establish some processes on how things are done at Mindee when it comes to text-based mediums:
+At that point, you should not drink from the fire hose anymore. We still start to work on ownership of different aspects related to your role. It is also the moment when we will establish some processes on how things are done at Mindee when it comes to text-based mediums:
+
 - [Defining the newsletter format, tone and process](https://github.com/mindee/devrel/issues/52)
 - [Defining the blog tone and voice](https://github.com/mindee/devrel/issues/111)
 - [Defining the technical writer text review requests process](https://github.com/mindee/devrel/issues/112)
@@ -39,4 +42,4 @@ And anything else we will have discussed during your first two months.
 
 Looking forward to seeing all the great things you will achieve!
 
-* *this 30-60-90 plan does not contain any goals with specific metrics on purpose*
+*this 30-60-90 plan does not contain any goals with specific metrics on purpose*

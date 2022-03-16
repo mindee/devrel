@@ -8,14 +8,14 @@ Before you start your first day, @fharper should have created all the accounts a
 
 - [GitHub](https://github.com/mindee) within the [devrel team](https://github.com/orgs/mindee/teams/devrel);
 - [Orbit](https://app.orbit.love/) account;
-- [Readme](https://readme.com/) account;
+- [Readme.io](https://readme.com/) account;
 - [WordPress](https://mindee.com/blog) account.
 
 P.S.: if you are missing access to some of these services or from the common ones, please let @fharper know
 
 ## Get to know your manager
 
-During your time at Mindee, Fred's job is to remove road blocks, and help you being successful, so **never hesitate** to ask him any questions or share concerns with him. You can read more about [working with him as a person](https://fred.dev/workingwithme/), and as a manager (TDB, need to publish my manager README).
+During your time at Mindee, Fred's job is to remove road blocks, and help you being successful, so **never hesitate** to ask him any questions or share concerns with him. You can read more about [working with him as a person](https://fred.dev/workingwithme/), and as a manager (TBD, need to publish my manager README).
 
 ## Meet your colleagues
 

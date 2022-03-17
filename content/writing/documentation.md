@@ -22,7 +22,8 @@ If you have ideas, suggestions, issues or new things to add to the documentation
 Alternatively, if you want to do it yourself
 
 - Create a PR in the [documentation repository](https://github.com/mindee/documentation)
-- Once the PR is approved and merged, it will be automatically updated on README.io within a couple of minutes.
+- Once the PR is approved and merged, it will be automatically updated on README.io within a couple of minutes (time for GitHub to fire the Action + time to synchronize).
+- If you don't see your update in the documentation, please check the [Synchronize README.io documentation with GitHub Action](https://github.com/mindee/documentation/actions/workflows/readme-sync.yml) to see if anything is wrong.
 
 It's that simple!
 

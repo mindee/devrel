@@ -59,7 +59,7 @@ To be able to maximize our visibility, we are more than happy to closely mentor 
 
 ## SDKs
 
-Starting from now, the devrel team owns all the Mindee SDKs, which include the [Node.js](https://github.com/mindee/mindee-api-nodejs) and [Python](https://github.com/mindee/mindee-api-python) ones. In a near future, we will add programming languages or frameworks to the list of SDKs.
+The devrel team is responsible for the code and repository quality of all the Mindee SDKs, which include the [Node.js](https://github.com/mindee/mindee-api-nodejs) and [Python](https://github.com/mindee/mindee-api-python) ones. In a near future, we will add programming languages or frameworks to the list of available SDKs.
 
 ## Slack Community
 

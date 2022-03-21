@@ -1,6 +1,7 @@
 # Technical Writer Mindee Career Ladder
 
 ## Technical Writer I
+
 - Have a strong and deep knowledge of the product to ensure quality content creation or updates.
 - Works closely with the Product Management & Engineering teams to incorporate new releases into our existing documentation.
 - Has an ability to achieve clarity with conciseness and accessibility.

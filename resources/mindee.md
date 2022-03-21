@@ -10,13 +10,16 @@ Here a list of resources about Mindee
 ## Assets
 
 ### Ads
+
 - Image: 1920x1080 ([PNG](mindee/ad-1920x1080.png))
 - Video: 1920x1080 ([MP4](mindee/ad-1920x1080.mp4))
 
 ### Logos (images)
+
 - [275x160 PNG](mindee/Logo-275x160.png)
 
 ### Logos (vectors)
+
 - [Logo black](mindee/logo.svg)
 - [Icon only](mindee/logo-icon.svg)
 

@@ -1,12 +1,28 @@
+#########
+#   A   #
+#########
+
 Algolia
 API
 API Builder
 APIs
+
+#########
+#   B   #
+#########
+
+#########
+#   C   #
+#########
 CDN
 CLI
 CNCF
 Conf
 CTO
+
+#########
+#   D   #
+#########
 Deckset
 DEVOPSdigest
 devrel
@@ -15,47 +31,159 @@ DevRelCon
 DigitalOcean
 docTR
 DocTR
+dr
+
+#########
+#   E   #
+#########
 EIN
+Emmanuelle
+
+#########
+#   F   #
+#########
 fakela
 fharper
 Frédéric
+FrienNDA
+
+#########
+#   G   #
+#########
+
+Grandperrin
+
+#########
+#   H   #
+#########
+hackathon
+hackathons
+
+#########
+#   I   #
+#########
 IBAN
 Interbank
+
+#########
+#   J   #
+#########
+JavaScript
+js
+JSON
+
+#########
+#   K   #
+#########
+Kumar
+
+#########
+#   L   #
+#########
 LinkedIn
+livestream
+livestreams
+
+#########
+#   M   #
+#########
 MacBook
 macOS
+mentorship
 Mindee
 Mindee's
+
+#########
+#   N   #
+#########
 Node.js
+NodeBots
 npm
+
+#########
+#   O   #
+#########
 OKR
 OKRs
 onboarding
+OpenJDK
+
+#########
+#   P   #
+#########
 PDF
 PDFs
 PR
 PRs
-PyPi
+PyPI
 Python
+
+#########
+#   Q   #
+#########
+
+#########
+#   R   #
+#########
 README
 Readme.io
+roadmap
+
+#########
+#   S   #
+#########
 SDK
 SDKs
 SeeCFP
 SendGrid
+ShareAlike
 ShortPixel
 SIRET
 StarCIO
+Stumptown
 SVG
+Swagger
+
+#########
+#   T   #
+#########
 TBD
 TechCrunch
 TestPyPI
+tl
 Twilio
+
+#########
+#   U   #
+#########
+Ubuntu
 UI
 UX
-VentureBeat
-VIN
-VMblog
-Zapier
 
-special . -*-
+#########
+#   V   #
+#########
+VentureBeat
+vidcasts
+VIN
+VM
+VMblog
+Vue
+
+#########
+#   W   #
+#########
+
+#########
+#   X   #
+#########
+
+#########
+#   Y   #
+#########
+
+#########
+#   Z   #
+#########
+Zapier
+ZIP

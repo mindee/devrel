@@ -1,6 +1,6 @@
-## Python SDK New Release Process
+# Python SDK New Release Process
 
-### GitHub
+## GitHub
 
 We follow the [semantic versioning standard](https://semver.org).
 
@@ -8,7 +8,7 @@ We follow the [semantic versioning standard](https://semver.org).
 2. Update `CHANGELOG.md` by adding details about the new version
 3. Commit those changes with the message `chg: 🔖 prepare vX.X.X`
 
-#### Draft a new release
+### Draft a new release
 
 1. Create a new tag with the new version number `vX.X.X`
 2. Set the release title to the same name
@@ -17,7 +17,7 @@ We follow the [semantic versioning standard](https://semver.org).
 
 Next step is to deploy the package on PyPI.
 
-### PyPI
+## PyPI
 
 ### First time setup
 

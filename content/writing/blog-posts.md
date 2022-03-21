@@ -2,6 +2,7 @@
 
 ## Identify a topic
 To get started with writing on the blog post, first, you need to identify a suitable topic, the topic can be pretty general for a start and could range from general topics relating to technologies in Mindee,  Mindee specific topics, problem-solving topics etc.  For example
+
 - How to automatically add Payslips to Google Sheets using Mindee.
 - How to Convert Paper Documents into Database Records (with Examples).
 
@@ -12,6 +13,7 @@ Write an intro (and make it captivating). Describe the goal of your article and 
 
 ## Organization
 Organize your content in an outline by creating a table of content and breaking your ideas into sections. Also, add a concluding paragraph at the end of your article. For example
+
 - Introduction
 - What is Mindee
 - Who uses Mindee
@@ -34,7 +36,7 @@ Once ready, please add [@fharper](https://github.com/fharper) and [@fakela](http
 
 If you have any questions, or need help, feel free to create a PR as a draft, and add questions or comments in the PR discussion while tagging the relevant person. Another solution is to add comments in your markdown file at the relevant places. Use the following format
 
-```
+```markdown
 [REVIEW QUESTION]: <> (Maybe this introduction is too long?)
 [HELP WANTED]: <> (How could we make it shorter without losing in understanding?)
 ```

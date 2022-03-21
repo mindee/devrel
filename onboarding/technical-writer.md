@@ -42,4 +42,6 @@ And anything else we will have discussed during your first two months.
 
 Looking forward to seeing all the great things you will achieve!
 
-*this 30-60-90 plan does not contain any goals with specific metrics on purpose*
+> 📘 **Info**
+>
+> this 30-60-90 plan does not contain any goals with specific metrics on purpose

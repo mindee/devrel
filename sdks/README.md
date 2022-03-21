@@ -19,7 +19,7 @@ To effectively test the SDKs, we created small applications for the Mindee SDKs.
 
 # Additional Informations
 
-We have additional informations for the SDKs like a new version deployment process
+We have additional information for the SDKs like a new version deployment process
 
 - [Python](Python.md)
 - [Node.js](Node.js.md)

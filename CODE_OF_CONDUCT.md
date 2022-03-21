@@ -8,8 +8,8 @@ Towards this end, certain behaviors and practices will not be tolerated.
 * Be respectful
 * No solicitation
 * We're here to help:
-  - Frédéric Harper @fred
-  - Jonathan Grandperrin @jonathan
+  - Frédéric Harper @Fred
+  - Jonathan Grandperrin @Jonathan
 
 * Abusive behavior is never tolerated
 * Data published to Mindee Community is hosted at the discretion of the administrators, and may be removed

@@ -11,13 +11,14 @@
 - Communicates internally and externally in a respectful manner.
 
 ## Technical Writer II
+
 - Strong understanding of the product space and capabilities to inform high levels of accuracy in documentation.
 - Accurately captures all relevant content and resources, establishing visibility for users.
 - Understands our writing style guide and adds to/refines it.
 - Performs PR reviews for their peers that considers flow and the audience, as well as the goals of the product.
-- Listens to the priorities and concerns of others, and acknowledges differents perspectives. Anticipates others’ reactions.
-- Thinks through and files issues for how to refine the docs site and UI.
-- Reflects on user feedback and either categorizes it as won’t fix, or turns it into something actionable.
+- Listens to the priorities and concerns of others, and acknowledges different perspectives. Anticipates others’ reactions.
+- Thinks through and file issues for how to refine the documentation site and UI.
+- Reflects on user feedback and either categorizes it as "won’t fix”, or turns it into something actionable.
 - Actively participates in meetings, and creates cross-team collaboration where necessary to address business goals.
 
 ## Senior Technical Writer
@@ -27,9 +28,9 @@ At this point, a person is mastering how effective they can be as an individual 
 - Considers overall information architecture both in writing and while reviewing. Thinks through what the user needs exactly at the point of learning to reduce cognitive overhead.
 - Understands with depth what our department and company OKRs are, and performs audits on their content to make sure we are achieving our goals.
 - Has an understanding of the wider ecosystem of tools and technologies so that they know what context users may or may not be coming from.
-- Ensures that there’s a clear path for a first-time user and understands how and when to weave in advanced material such as caveats and warnings.
+- Ensures that there’s a clear path for a first-time user and understands how and when to weave in advance material such as caveats and warnings.
 - Helps support the work of their peers both on the team and in the community at large, by engaging pairing sessions, reviewing, and providing mentoring.
-- Gathers customer impressions of products and services and integrates this feedback into decision making.
+- Gathers customer impressions of products and services and integrates this feedback into decision-making.
 - Adjusts well to shifting priorities when necessary.
 - Demonstrates openness to others’ ideas. Adapts their communication style to most effectively communicate with the target audience. - Effectively and accurately shares credit for ideas and collaborative efforts.
 
@@ -44,7 +45,7 @@ At this point, the majority of one's time is spent scaling their own skills to h
 - Notices recurring friction/confusion that impedes team success/efficiency and creates resources that clarify or solve these issues. Also ensures the resources are easy to locate.
 
 ## Principal Technical Writer
-At this point, one is helping others be the best that they can be, removing themselves and meeting others where they are.
+At this point, one is helping others be the best that they can be, removing themselves and meeting other where they are.
 
 - Develops proven systems and approaches to technical writing. Replicates those systems and approaches across the team so that others may learn from and improve on them.
 - Mentors and actively drives the technical skills of the immediate or extended team.
@@ -53,4 +54,4 @@ At this point, one is helping others be the best that they can be, removing them
 - Works to refine team processes to ensure everyone can be as productive as possible and build cohesion within the team.
 - Considers team morale one of their initiatives- actively strives to support others, make sure their voices are heard, and illuminate others’ work.
 
-*Heavely inspired by the [Open Sources Carreer Ladder](https://career-ladders.dev/docs/)*
+*Heavily inspired by the [Open-Source Career Ladder](https://career-ladders.dev/docs/)*

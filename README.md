@@ -1,6 +1,6 @@
-![mindee-transparent](https://user-images.githubusercontent.com/1170989/130641500-0f72dab7-3b19-4e0c-a267-6bcec9a3ff6e.png)
-
 # Developer Relations at Mindee
+
+![mindee-transparent](https://user-images.githubusercontent.com/1170989/130641500-0f72dab7-3b19-4e0c-a267-6bcec9a3ff6e.png)
 
 This repository serves as a second brain for the Developer Relations (devrel) team at Mindee.
 
@@ -11,8 +11,8 @@ As always, we value constructive feedback. Welcome home!
 ## Our Mission
 We help developers be successful by nurturing a healthy and welcoming community around the Mindee ecosystem. This means listening to, inspiring, educating, and supporting our community however we can.
 
-
 ## Table of content
+
 - [3rd party educational content](content/educational.md)
 - [Communities](communities/README.md)
 - [Developer Relations Resources](resources/devrel.md)

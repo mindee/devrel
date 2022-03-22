@@ -1,3 +1,4 @@
+<!-- markdownlint-disable -->
 theme: Work, 1
 background-color: #FFFFFF
 text: #000000, alignment(left)

@@ -9,6 +9,7 @@ Some resources to help on different levels
 - [Open Source Licensing](#open-source-licensing)
 - [Pictures & Images](#pictures--images)
 - [Social Media](#social-media)
+- [Status Pages](#status-pages)
 - [Technical Information](#technical-information)
 - [Vectors](#vectors)
 
@@ -76,6 +77,10 @@ Some resources to help on different levels
 - [LinkedIn Image Sizes](https://sproutsocial.com/insights/social-media-image-sizes-guide/#linkedin)
 - [Twitter Image Sizes](https://sproutsocial.com/insights/social-media-image-sizes-guide/#twitter)
 - [YouTube Image Sizes](https://sproutsocial.com/insights/social-media-image-sizes-guide/#youtube)
+
+## Status Pages
+
+- [GitHub](https://www.githubstatus.com)
 
 ## Technical Information
 

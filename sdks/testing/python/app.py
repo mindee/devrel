@@ -7,7 +7,7 @@ print(receipt_data.receipt) """
 
 
 mindee_client = Client().config_invoice()
-invoice_data = mindee_client.doc_from_path("/Users/fharper/Documents/code/mindee/datasets/invoices/995b49c5-acc4-4272-a01a-2e44e99ff704.pdf").parse("invoice")
+invoice_data = mindee_client.doc_from_path("/Users/fharper/Documents/code/mindee/documentation/fake-data/invoice.pdf").parse("invoice")
 
 # Company Registration Numbers
 print("\nCompany Registration Numbers")
@@ -34,7 +34,18 @@ print(invoice_data.invoice.customer_address.value)
 
 # Customer Company Registration
 print("\nCustomer Company Registration")
-print(invoice_data.invoice.customer_company_registration.value)
+customer_company_registrations = invoice_data.invoice.customer_company_registration
+
+for customer_company_registration in customer_company_registrations:
+    # To get the type of number
+    customer_company_registration_number_type = customer_company_registration.type
+    print ("\nCustomer Company Registration Type")
+    print (customer_company_registration_number_type)
+
+    # To get the company number
+    customer_company_registration_number_value = customer_company_registration.value
+    print ("\nCustomer Company Registration Number")
+    print (customer_company_registration_number_value)
 
 # Invoice Date
 print("\nDate")

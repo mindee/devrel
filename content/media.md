@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-03-24
+**IT Business Edge**  
+[Citizen Developers: How to Get the Best Results](https://www.itbusinessedge.com/development/citizen-developers/)
+
 ### 2022-02-16
 **VentureBeat**  
 [Nanonets lands $10 million to expedite document processing with AI](https://venturebeat.com/2022/02/16/nanonets-lands-10-million-to-expedite-document-processing-with-ai/)

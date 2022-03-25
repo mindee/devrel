@@ -55,4 +55,4 @@ At this point, one is helping others be the best that they can be, removing them
 - Works to refine team processes to ensure everyone can be as productive as possible and build cohesion within the team.
 - Considers team morale one of their initiatives- actively strives to support others, make sure their voices are heard, and illuminate others’ work.
 
-*Heavily inspired by the [Open-Source Career Ladder](https://career-ladders.dev/docs/)*
+_Heavily inspired by the [Open-Source Career Ladder](https://career-ladders.dev/docs/)_

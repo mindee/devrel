@@ -48,7 +48,7 @@ username = __token__
 password = <TOKEN>
 ```
 
-\* *note that `__token__` in `username` need to stay exactly the same, and not modified with token ID.*
+_note that `__token__` in `username` need to stay exactly the same, and not modified with token ID._
 
 ### Steps
 

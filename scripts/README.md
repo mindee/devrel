@@ -37,6 +37,9 @@ A small Ruby app that generate some fake data:
 
 Need to install [faker](https://github.com/faker-ruby/faker) by doing `gem install faker`.
 
+## [generate-invoice.sh](generate-invoice.sh)
+Generate a fake invoice in PDF format using the information in the [invoice.json](invoice.json) file.
+
 ## [getPDFsPages.sh](getPDFsPages.sh)
 Get the number of pages for each PDFs from the desired folder.
 

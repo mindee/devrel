@@ -1,0 +1,29 @@
+{
+	"date": "Mar 14, 2022",
+	"due_date": "Apr 13, 2022",
+    "from": "Mindee\n14 rue Charles V\n75004 Paris, France",
+    "to": "Dunder Mifflin Paper Company, Inc\nEIN: 73-6952710\n\nAtt.: Michael Scott\n\n1725 Slough Avenue\nScranton, 18505 PA\nUnited States",
+    "logo": "https://github.com/mindee/devrel/raw/main/resources/mindee/Logo-275x160.png",
+    "number": 42,
+    "items": [
+        {
+            "name": "Pay as you go: free pages",
+            "quantity": 250,
+            "unit_cost": 0
+        },
+		{
+            "name": "Pay as you go: additional pages",
+            "quantity": 1345,
+            "unit_cost": 0.1
+        }
+    ],
+    "notes": "SIRET: 38523982797968",
+	"payment_terms": "30",
+	"purchase_order": "314159",
+	"tax_title": "Tax",
+	"fields": {
+		"tax": "%"
+	},
+	"tax": 19.6,
+	"terms": "Payment can be done by bank transfer:\nIBAN: FR1417569000701731596677V96\nSWIFT: BNPAFRPP\nACCOUNT: 1731596677V\nROUTING: 026007689"
+}

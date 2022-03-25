@@ -4,6 +4,7 @@ Some resources to help on different levels
 
 - [Accessibility](#accessibility)
 - [Datasets](#datasets)
+- [Emojis](#emojis)
 - [Fake Data Generators](#fake-data-generators)
 - [Fonts](#fonts)
 - [Open Source Licensing](#open-source-licensing)
@@ -32,6 +33,11 @@ Some resources to help on different levels
 - [License Plates - Europe (Romania)](https://github.com/RobertLucian/license-plate-dataset)
 - [License Plates - US](https://www.kaggle.com/tolgadincer/us-license-plates)
 - [Receipts - different languages](https://www.kaggle.com/jenswalter/receipts)
+
+## Emojis
+
+- [Cult of the Party Parrot](https://cultofthepartyparrot.com)
+- [Slackmojis](https://slackmojis.com)
 
 ## Fake Data Generators
 

@@ -31,7 +31,7 @@ Once it's done, the Developer Relations team will receive a notification, and wi
 
 ### Review
 
-All `Suggest Edits` are reviewed by [Favour](https://github.com/fakela) & [Fred](https://github.com/fharper) before being merged into the live documentation. In the case that [Favour](https://github.com/fakela) make a `Suggest Edits`, [Fred](https://github.com/fharper) will be the reviewer: the other way around if [Fred](https://github.com/fharper) make a `Suggest Edits`.
+All `Suggest Edits` are reviewed by [Favour](https://github.com/fakela) & [Fred](https://github.com/fharper) before being merged into the live documentation. In the case that [Favour](https://github.com/fakela) make a `Suggest Edits`, [Fred](https://github.com/fharper) will be the reviewer: the other way around if [Fred](https://github.com/fharper) make a `Suggest Edits`. For content addition on a new feature or complex feature, [Emmanuelle](https://github.com/emmanuellethomas) or [Jonathan](https://github.com/jonathanMindee) will also review the final `Suggest Edits`.
 
 For smaller modifications during the review process, like formatting or typos, we will go ahead and do them. Anything else will be validated with the person who `Suggest Edits`.
 

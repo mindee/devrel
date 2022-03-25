@@ -2,7 +2,7 @@
 
 List of previous monthly newsletter for developers. Subscribe [here](https://newsletter.mindee.com).
 
-*Please note that those are export from SendGrid: it is not the quality of HTML code we would write...*
+_Please note that those are export from SendGrid: it is not the quality of HTML code we would write..._
 
 - Mindee.04 (2021-12-21) - [Happy Holidays from the Mindee Team: Wrapping up 2021](Newsletter-04.html)
 - Mindee.03 (2021-11-29) - [Series A, Invoice V2, API Builder, and more](Newsletter-03.html)

@@ -47,7 +47,7 @@ At a minimum, you should try the [Expense Receipts](https://platform.mindee.com/
 
 ## Try docTR
 
-*If you are on an M1 MacBook, you may not be able to make docTR works for now: [we are working on the setup process](https://github.com/mindee/devrel/issues/76)*
+_If you are on an M1 MacBook, you may not be able to make docTR works for now: [we are working on the setup process](https://github.com/mindee/devrel/issues/76)_
 
 [DocTR](https://github.com/mindee/doctr/) (Document Text Recognition) is our open source OCR. It is the engine running under Mindee (soon). We don't make money directly from open sourcing it, but it's a way to give back to our community, and let's be honest, a Trojan horse. Since we are the principal maintainer of this project, it's nice that you know a little about it, even if it may not be a focus of yours.
 

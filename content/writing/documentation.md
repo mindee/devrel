@@ -55,6 +55,9 @@ Please refrain for making `Suggest Edits` that contains too many suggestions. If
 
 ![Screenshot of the exchange between README.io founder & Fred](../../img/readmeio-small-changes.png)
 
+### Page History
+Not sure how and why, but sometimes the `Page History` will display the wrong names next to a modification. Please verify with the person listed there to ensure it is right.
+
 ### Redirection
 README.io doesn't provide automatic redirection when page `slug` changes. If you do, you need to manually add a redirection rule in the [Error Page](https://dash.readme.com/project/mindee/v1.0/errors).
 

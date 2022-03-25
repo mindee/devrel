@@ -23,6 +23,9 @@
 		},
 		{
 			"pattern": "https://www.fakepersongenerator.com*"
+		},
+		{
+			"pattern": "https://dash.readme.com*"
 		}
 	],
   "timeout": "20s"

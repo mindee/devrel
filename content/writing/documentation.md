@@ -61,6 +61,9 @@ README.io doesn't provide automatic redirection when page `slug` changes. If you
 ### Suggest Additionnal Edits
 In the case of a back and forth between the person who suggested some documentation edit, and one of the reviewer, please limit these interactions to once or twice. If there are too many back and forth, README.io just stop working and prevent us from merging the changes. README.io isn't built for that: see previous tweet image.
 
+### Unpublished Pages
+Keep in mind that unpublishing a page from README.io only means that the page won't be displayed on the left sidebar table of content. Anyone with the URL will still be able to view it. You need to delete the page if you don't want anyone to access it.
+
 ## Syntax
 
 ### Code Block Syntax Highlight

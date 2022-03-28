@@ -87,6 +87,7 @@ Some resources to help on different levels
 ## Status Pages
 
 - [GitHub](https://www.githubstatus.com)
+- [README.io](https://www.readmestatus.com)
 
 ## Technical Information
 

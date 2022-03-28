@@ -1,4 +1,4 @@
-name: Markdown Check
+name: Markdown Syntax Validation
 on: push
 
 jobs:

@@ -1,4 +1,4 @@
-name: Check Markdown links
+name: Markdown Links Validation
 
 on: push
 

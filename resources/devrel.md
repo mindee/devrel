@@ -16,7 +16,7 @@ Some resources to help Developer Relations do their job
 
 ## CFPs
 
-- [CFP Land](https://www.cfpland.com)
+- [CFP Land](https://cfpland.com)
 - [Confs.tech](https://confs.tech/cfp)
 - [SeeCFP](https://seecfp.com)
 - [Tech Daily CFP](http://techdailycfp.com)

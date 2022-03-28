@@ -69,7 +69,14 @@ Keep in mind that unpublishing a page from README.io only means that the page wo
 
 ## Syntax
 
-### Code Block Syntax Highlight
+### Code Block
+
+#### Display part of the code
+If you don't want to display the full code or, as an example, the JSON response, add `..` where the missing code should be.
+
+You can see some visual explanation of this guideline [here](markdown.md#code-block). For README.IO platform **only**, it is two dots and not three: if you put three dots, README.io won't highlight the code correctly!
+
+#### Syntax Highlight
 We can only use the [languages supported by them](https://rdmd.readme.io/docs/code-blocks#language-support).
 
 ### Headers

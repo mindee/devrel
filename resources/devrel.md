@@ -7,6 +7,7 @@ Some resources to help Developer Relations do their job
 - [Communities](#communities)
 - [Developer Relations Salaries](#developer-relations-salaries)
 - [Learning](#learning)
+- [Open Source Documentation](#open-source-documentation)
 - [Slack Tools](#slack-tools)
 
 ## Career Ladders Examples
@@ -50,6 +51,38 @@ Some resources to help Developer Relations do their job
 ## Learning
 
 - [Slack vs Discord vs Discourse: The best tool for your community](https://orbit.love/blog/slack-vs-discord-vs-discourse)
+
+## Open Source Documentation
+Here is a non-exhaustive list of closed sources product or company not known for being open which have open source documentation. This could be helpful to show your company the benefits of having the public documentation on GitHub, and that **it's a common practice**.
+
+- [Aiven](https://github.com/aiven/devportal)
+- Algolia [DocSearch](https://github.com/algolia/docsearch/tree/next/packages/website/docs)
+- [Amazon Web Services](https://github.com/awsdocs) (AWS)
+- Amazon Web Services (AWS) [OpenSearch](https://github.com/opensearch-project/documentation-website)
+- [Basis Theory](https://github.com/Basis-Theory/docs)
+- [Camunda](https://github.com/camunda-cloud/camunda-cloud-documentation)
+- [CircleCI](https://github.com/circleci/circleci-docs)
+- [DataDog](https://github.com/datadog/documentation)
+- [ElasticSearch](https://github.com/elastic/docs)
+- [GitHub](https://github.com/github/docs) (Microsoft)
+- Google [TensorFlow](https://github.com/tensorflow/docs)
+- [Kong](https://github.com/Kong/docs.konghq.com)
+- [LiveChat](https://github.com/livechat/livechat-public-docs/)
+- [Mender](https://github.com/mendersoftware/mender-docs)
+- Microsoft [Azure](https://github.com/MicrosoftDocs/azure-docs)
+- Microsoft [Visual Studio Code](https://github.com/microsoft/vscode-docs)
+- [MinIO](https://github.com/minio/docs)
+- [New Relic](https://github.com/newrelic/docs-website)
+- [Pantheon SaaS Platform](https://github.com/pantheon-systems/documentation)
+- [PlanetScale](https://github.com/planetscale/docs)
+- [Platform.sh](https://github.com/platformsh/platformsh-docs)
+- [PlatformOS](https://github.com/mdyd-dev/platformos-documentation)
+- [Postman](https://github.com/postmanlabs/postman-docs/)
+- Sitecore [OrderCloud](https://github.com/ordercloud-api/oc-documentation)
+- Twilio [Segment](https://github.com/segmentio/segment-docs)
+- Vonage [Nexmo](https://github.com/Nexmo/nexmo-developer)
+
+There are also lot [Open Source projects](https://github.com/saintmalik/awesome-oss-docs) having their documentation open.
 
 ## Slack Tools
 

@@ -3,6 +3,7 @@
 Some resources to help on different levels
 
 - [Accessibility](#accessibility)
+- [Browser Extensions](#browser-extensions)
 - [Datasets](#datasets)
 - [Emojis](#emojis)
 - [Fake Data Generators](#fake-data-generators)
@@ -20,6 +21,12 @@ Some resources to help on different levels
 
 - [W3C: Images Concepts](https://www.w3.org/WAI/tutorials/images/)
 - [W3C: An Alt Decision Tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+
+## Browser Extensions
+
+### Chrome & Brave
+
+- [Page Sizer](https://workspace.google.com/marketplace/app/page_sizer/595382898724): easily set custom page sizes in Google Docs
 
 ## Career Ladders Examples
 

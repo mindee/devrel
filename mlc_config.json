@@ -26,6 +26,9 @@
 		},
 		{
 			"pattern": "https://dash.readme.com*"
+		},
+		{
+			"pattern": "https://cfpland.com*"
 		}
 	],
   "timeout": "20s"

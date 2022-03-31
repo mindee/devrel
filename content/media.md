@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-03-31
+**Built In**  
+[All Dev Teams Write Documentation. But Do Users Read It?](https://builtin.com/software-engineering-perspectives/software-documentation)
+
 ### 2022-03-24
 **IT Business Edge**  
 [Citizen Developers: How to Get the Best Results](https://www.itbusinessedge.com/development/citizen-developers/)

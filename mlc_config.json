@@ -31,5 +31,8 @@
 			"pattern": "https://cfpland.com*"
 		}
 	],
-  "timeout": "20s"
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 2,
+  "fallbackRetryDelay": "30s"
 }

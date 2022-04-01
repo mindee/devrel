@@ -21,12 +21,14 @@ Some resources to help Developer Relations do their job
 - [Confs.tech](https://confs.tech/cfp)
 - [SeeCFP](https://seecfp.com)
 - [Tech Daily CFP](http://techdailycfp.com)
+- [PaperCall](https://www.papercall.io/events)
 
 ## Communities
 
 ### Developer Relations
 
 - [Devrel Collective](https://devrelcollective.fun): for advocates, evangelists and community managers
+- [Flyless Dev](https://discord.com/invite/FWauQ9Vj): weekly meetup, presentations and community. DevRel without the airmiles.
 
 ### Developers
 

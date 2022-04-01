@@ -8,4 +8,5 @@ sdks/testing/python/PDFs/
 sdks/testing/python/*.pdf
 sdks/testing/node.js/testpdflib.js
 dictionary.dic
+scripts/invoice.pdf
 

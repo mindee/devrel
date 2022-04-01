@@ -8,11 +8,9 @@ Some resources to help on different levels
 - [Emojis](#emojis)
 - [Fake Data Generators](#fake-data-generators)
 - [Fonts](#fonts)
-- [Open Source Licensing](#open-source-licensing)
 - [Pictures & Images](#pictures--images)
 - [Social Media](#social-media)
 - [Status Pages](#status-pages)
-- [Technical Information](#technical-information)
 - [Vectors](#vectors)
 
 ## Accessibility
@@ -70,10 +68,6 @@ Some resources to help on different levels
 - [Font Repo](https://www.fontrepo.com): free `.TFF` fonts
 - [Font Squirrel](https://www.fontsquirrel.com): free for commercial use
 
-## Open Source Licensing
-
-- [Choose an open source license](https://choosealicense.com/licenses/): a good OSS licenses summary, maintained by GitHub
-
 ## Pictures & Images
 
 - [Better Images of AI](https://betterimagesofai.org/images): better images than the unrealistic expectations and misstate capabilities of AI
@@ -95,10 +89,6 @@ Some resources to help on different levels
 
 - [GitHub](https://www.githubstatus.com)
 - [README.io](https://www.readmestatus.com)
-
-## Technical Information
-
-- [endoflife.date](https://endoflife.date):a community-maintained project to document end-of-life dates, and support lifecycles of various products
 
 ## Vectors
 

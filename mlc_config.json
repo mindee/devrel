@@ -35,5 +35,5 @@
   "retryOn429": true,
   "retryCount": 2,
   "fallbackRetryDelay": "1m",
-  "aliveStatusCodes": [429]
+  "aliveStatusCodes": [200, 429]
 }

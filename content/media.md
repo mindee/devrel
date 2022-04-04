@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-04-01
+**Database Trends and Applications**  
+[The Next Wave of ‘Ops’ Advances on the Data Center](https://www.dbta.com/BigDataQuarterly/Articles/The-Next-Wave-of-%E2%80%98Ops-Advances%C2%A0on-the-Data-Center-152204.aspx)
+
 ### 2022-03-31
 **Built In**  
 [All Dev Teams Write Documentation. But Do Users Read It?](https://builtin.com/software-engineering-perspectives/software-documentation)

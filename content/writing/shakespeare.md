@@ -4,6 +4,12 @@ Based on the below goals per team, Mindee will create a total of 7 pieces of con
 
 ## Team goals
 
+Each team need to create one piece of content per each 5+1 people on a team, starting at 3 people. As examples, it means that:
+
+- 2 people's team won't have to create any content
+- 3-5 people's team will have to create one piece of content per month
+- 6-10 people's team will have to create two pieces of content per month
+
 ### Data Science
 
 **2 piece of content per month** based on 6 people on the team

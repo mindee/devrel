@@ -6,3 +6,4 @@ With the goal of generating content with the same quality level every time, we d
 - [Blog Posts](blog-posts.md)
 - [Documentation](documentation.md)
 - [Newsletter](newsletter.md)
+- [From Python to Shakespeare program](shakespeare.md)

@@ -51,7 +51,11 @@ README.io only support images. If you need to add another type of file into the 
 README.io add a UUID (Universally Unique IDentifier) to all images uploaded to their platform. It means that a file named `classification.png` will be automatically renamed `XXXXXXX-classification.png` like `c7c2d02-classification.png`. If it is something you need to avoir, please refer yourself to the [File Types](#file-types) section.
 
 ### Large Suggest Edits
-Please refrain for making `Suggest Edits` that contains too many suggestions. If you do, there are chances that README.io will stop working, and prevent us to merge the changes or even to see them in some cases. README.io isn't built for that, as mentioned by the founder on Twitter. They are working on a solution that we think, should be closer to the GitHub PR Review experience.
+Please refrain for making `Suggest Edits` that contains too many suggestions. If you do, there are chances that README.io will stop working, and prevent us to merge the changes or even to see them in some cases.
+
+![Screenshot of the "Cannot be merged" error message](../../img/cannot-be-merged.png)
+
+README.io isn't built for that, as mentioned by the founder on Twitter. They are working on a solution that we think, should be closer to the GitHub PR Review experience.
 
 ![Screenshot of the exchange between README.io founder & Fred](../../img/readmeio-small-changes.png)
 
@@ -62,7 +66,9 @@ Not sure how and why, but sometimes the `Page History` will display the wrong na
 README.io doesn't provide automatic redirection when page `slug` changes. If you do, you need to manually add a redirection rule in the [Error Page](https://dash.readme.com/project/mindee/v1.0/errors).
 
 ### Suggest Additionnal Edits
-In the case of a back and forth between the person who suggested some documentation edit, and one of the reviewer, please limit these interactions to once or twice. If there are too many back and forth, README.io just stop working and prevent us from merging the changes. README.io isn't built for that: see previous tweet image.
+In the case of a back and forth between the person who suggested some documentation edit, and one of the reviewer, please limit these interactions to once or twice. If there are too many back and forth, README.io just stop working and prevent us from merging the changes. README.io isn't built for that: see [Large Suggest Edits section](#large-suggest-edits) for more details.
+
+![Screenshot of the "Cannot be merged" error message](../../img/cannot-be-merged.png)
 
 ### Unpublished Pages
 Keep in mind that unpublishing a page from README.io only means that the page won't be displayed on the left sidebar table of content. Anyone with the URL will still be able to view it. You need to delete the page if you don't want anyone to access it.

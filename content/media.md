@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-04-05
+**Eden AI**  
+[Eden AI raises €1.5 million to build the future of AI-as-a-Service](https://www.edenai.co/post/eden-ai-raises-1-5-million-to-build-the-future-of-ai-as-a-service)
+
 ### 2022-04-01
 **Database Trends and Applications**  
 [The Next Wave of ‘Ops’ Advances on the Data Center](https://www.dbta.com/BigDataQuarterly/Articles/The-Next-Wave-of-%E2%80%98Ops-Advances%C2%A0on-the-Data-Center-152204.aspx)

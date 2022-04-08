@@ -13,6 +13,16 @@ print(chalk.green("\n-------"))
 print(chalk.green("INVOICE"))
 print(chalk.green("-------\n"))
 
+print(chalk.green("\nDocument Level Prediction"))
+print(invoice_data.invoice)
+
+print(chalk.green("\nPage Level Prediction"))
+for receipt in invoice_data.invoices:
+    print(receipt)
+
+print(chalk.green("\nRaw HTTP Response"))
+print(json.dumps(invoice_data.http_response, indent=4))
+
 # Company Registration Numbers
 print(chalk.green("\nCompany Registration Numbers"))
 company_registration_numbers = invoice_data.invoice.company_number
@@ -40,6 +50,7 @@ print(invoice_data.invoice.customer_address.value)
 print(chalk.green("\nCustomer Company Registration"))
 customer_company_registrations = invoice_data.invoice.customer_company_registration
 
+print (invoice_data.invoice.customer_company_registration.value)
 for customer_company_registration in customer_company_registrations:
     # To get the type of number
     customer_company_registration_number_type = customer_company_registration.type

@@ -7,6 +7,7 @@ Some resources to help Developer Relations do their job
 - [Communities](#communities)
 - [Developer Relations Salaries](#developer-relations-salaries)
 - [Learning](#learning)
+- [Mascots](#mascots)
 - [Open Source Documentation](#open-source-documentation)
 - [Slack Tools](#slack-tools)
 
@@ -53,6 +54,20 @@ Some resources to help Developer Relations do their job
 ## Learning
 
 - [Slack vs Discord vs Discourse: The best tool for your community](https://orbit.love/blog/slack-vs-discord-vs-discourse)
+
+## Mascots
+
+Never underestimate the power of having a cute company or product related mascot for your developer relations work. Here's a list to get inspired if you ever bring that topic to your next meeting with the leadership's team.
+
+- Amazon Web Services (AWS): [Sam](https://twitter.com/awscloud/status/857670730464370688) the squirrel
+- DigitalOcean: [Sammy](https://www.digitalocean.com/blog/sammy-the-shark-gets-a-birthday-makeover-from-simon-oxley) the shark
+- Go: [Gopher](https://go.dev/blog/gopher)
+- HootSuite: [Owly](http://www.refinariadesign.com.br/manuais/HOOTSUITE/brandbook-manual-de-identidade-hootsuite-2014.pdf) the owl
+- Mozilla: [a dinosaur](https://en.wikipedia.org/wiki/Mozilla_(mascot))
+- mParticle: [Higgs](https://www.mparticle.com/blog/meet-higgs) the capybara
+- npm: [Wombat](https://www.redbubble.com/shop/npm+wombat)
+- README.io: [Owlbert](https://owlbert.io) the owl
+- Rust: [Ferris](https://rustacean.net) the crab
 
 ## Open Source Documentation
 Here is a non-exhaustive list of closed sources product or company not known for being open which have open source documentation. This could be helpful to show your company the benefits of having the public documentation on GitHub, and that **it's a common practice**.

@@ -100,11 +100,11 @@ for payment_detail in payment_details:
     print(chalk.green("\nAccount Number"))
     print(payment_detail.account_number)
 
-# Customer Name
+# Supplier Name
 print(chalk.green("\nSupplier Name"))
 print(invoice_data.invoice.supplier.value)
 
-# Customer Address
+# Supplier Address
 print(chalk.green("\nSupplier Address"))
 print(invoice_data.invoice.supplier_address.value)
 

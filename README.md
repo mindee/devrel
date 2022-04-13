@@ -1,6 +1,6 @@
 # Developer Relations at Mindee
 
-![mindee-transparent](https://user-images.githubusercontent.com/1170989/130641500-0f72dab7-3b19-4e0c-a267-6bcec9a3ff6e.png)
+![Mindee Logo](resources/mindee/logo.svg#gh-light-mode-only)![Mindee Logo](resources/mindee/logo-white.svg#gh-dark-mode-only)
 
 [![Markdown Validation](https://github.com/mindee/devrel/actions/workflows/check-markdown.yml/badge.svg)](https://github.com/mindee/devrel/actions/workflows/check-markdown.yml) [![Markdown Links Validation](https://github.com/mindee/devrel/actions/workflows/check-links.yml/badge.svg)](https://github.com/mindee/devrel/actions/workflows/check-links.yml) [![Spelling Validation](https://github.com/mindee/devrel/actions/workflows/spellcheck.yml/badge.svg)](https://github.com/mindee/devrel/actions/workflows/spellcheck.yml)
 

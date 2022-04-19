@@ -1,8 +1,6 @@
 const { Client } = require("mindee");
 const fs = require("fs");
-var appRoot = require('app-root-path');
 
-const path = appRoot.path;
 const mindeeClient = new Client();
 const documentTypes = ["invoice", "receipt", "finance"];
 const inputTypes = ["file", "stream", "base64"];

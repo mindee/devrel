@@ -1,4 +1,4 @@
-# Developer Relations at Mindee
+# Mindee's Developer Relations
 
 ![Mindee Logo](resources/mindee/logo.svg#gh-light-mode-only)![Mindee Logo](resources/mindee/logo-white.svg#gh-dark-mode-only)
 
@@ -10,13 +10,12 @@ We will slowly add our processes, ideas, [tasks](https://github.com/mindee/devre
 
 As always, we value constructive feedback. Welcome home!
 
-## Our Mission
-We help developers be successful by nurturing a healthy and welcoming community around the Mindee ecosystem. This means listening to, inspiring, educating, and supporting our community however we can.
-
 ## Table of content
 
 - [3rd party educational content](content/educational.md)
 - [Communities](communities/README.md)
+- [Developer Relations 3Cs](#the-3cs)
+- [Developer Relations Mission](#our-mission)
 - [Developer Relations Resources](resources/devrel.md)
 - [Events](events/README.md)
 - [Goals](goals/README.md)
@@ -31,3 +30,16 @@ We help developers be successful by nurturing a healthy and welcoming community 
 - [SDKs](sdks/README.md)
 - [Talks](content/talks.md)
 - [Writing Guidelines](content/writing/README.md)
+
+## Developer Relations at Mindee
+
+### Our Mission
+We help developers be successful by nurturing a healthy and welcoming community around the Mindee ecosystem. This means listening to, inspiring, educating, and supporting our community however we can.
+
+### The 3Cs
+
+![The foundation of devrel explained in the next paragraph](img/devrel-3Cs.svg)
+
+The three pillars of Developer Relations are **C**ommunity, **C**ontent, and **C**ode, also known as the 3Cs*. The main focus of our team is the community: just read our mission to understand that everything we do is for our developer community. To help us achieve our mission, we use two main activities: content and code. The former is any type of content on any useful medium; some examples are talks at conferences, the developer documentation, or video tutorials. The latter, code, is part of the foundation of who we are: we are developers. It translates into code examples for the documentation, code demos for our conference presentations, technical support, demo applications, or even being responsible for specific APIs or contributing to open source to give back to the community and be a good web citizen. All together, they form the foundation of developer relations at Mindee.
+
+\* *adapted from [SendGrid 2014 article](https://sendgrid.com/blog/3-cs-developer-relations/)*

@@ -4,6 +4,14 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-04-20
+**Eden AI**  
+[Mindee OCR engine is available on Eden AI](https://www.edenai.co/post/mindee-ocr-engine-is-available-on-eden-ai)
+
+### 2020-04-14
+**VentureBeats DataDecisionMakers**  
+[Bad data: A $3T-per-year problem with a solution](https://venturebeat.com/2022/04/14/bad-data-a-3t-per-year-problem-with-a-solution/)
+
 ### 2022-04-05
 **Eden AI**  
 [Eden AI raises €1.5 million to build the future of AI-as-a-Service](https://www.edenai.co/post/eden-ai-raises-1-5-million-to-build-the-future-of-ai-as-a-service)
@@ -110,6 +118,14 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 **yahoo!finance**  
 [Mindee Comes Out of Stealth Mode Raising $14M with its Developer Tool for Document Parsing that Eliminates Manual Data Entry in Software Applications and Automates Document Processing](https://finance.yahoo.com/news/mindee-comes-stealth-mode-raising-130000168.html)
+
+### 2020-12-11
+**n8n**  
+[Building an expense tracking app in 10 minutes](https://n8n.io/blog/building-an-expense-tracking-app-in-10-minutes/)
+
+### 2020-09-30
+**Twilio**  
+[Automatically Adding Expense Receipts to Google Sheets with Telegram, Mindee, Twilio, and n8n](https://www.twilio.com/blog/automatically-adding-expenses-to-google-sheets-with-telegram-mindee-twilio-n8n)
 
 ## French
 

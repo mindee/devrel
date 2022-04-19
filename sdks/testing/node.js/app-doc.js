@@ -1,10 +1,10 @@
 const chalk = require('chalk');
-
+const fs = require("fs");
 const { Client } = require("mindee");
 const mindeeClient = new Client();
 
 mindeeClient.invoice.parse ({
-    input : "/Users/fharper/Documents/code/mindee/datasets/invoices/120756ca-e4fa-4a28-9dbb-cb767b25345c.pdf",
+    input : "/Users/fharper/Documents/code/mindee/datasets/invoices/a167899f-5e27-4f0f-bab4-aeac83243f9c.pdf",
 	//input : "/Users/fharper/Downloads/a74eaa5-c8e283b-sample_invoice.jpeg",
     inputType : 'path',
     filename : undefined,
@@ -23,9 +23,9 @@ mindeeClient.invoice.parse ({
   	console.log(res.invoices);
 
 	//Full HTTP Response
-	//console.log("\n\n");
-	//console.log(chalk.green("Full HTTP Response"));
-  	//console.log(res.httpResponse);
+	console.log("\n\n");
+	console.log(chalk.green("Full HTTP Response"));
+  	console.log(res.httpResponse);
 
 	//Dates
 	console.log("\n\n");

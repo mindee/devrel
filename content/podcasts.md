@@ -15,6 +15,10 @@ Mindee CEO, Jonathan Grandperrin and Nathan Latka discuss the API-first document
 
 ## French
 
+### 2022-04-05
+**SaaS Connection**  
+[Victor Briançon, COO de Mindee. Devenir la solution de référence pour l'extraction de data](https://saas-connection.com/episode/47-victor-briancon-coo-de-mindee-devenir-la-solution-de-reference-pour-lextraction-de-data)
+
 ### 2019-06-19
 **Lucca**  
 [Comment Lucca et Mindee repensent l’expérience utilisateur avec l’intelligence artificielle](https://www.lucca.fr/blog/podcast-lucca-mindee/)

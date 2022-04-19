@@ -50,7 +50,6 @@ print(invoice_data.invoice.customer_address.value)
 print(chalk.green("\nCustomer Company Registration"))
 customer_company_registrations = invoice_data.invoice.customer_company_registration
 
-print (invoice_data.invoice.customer_company_registration.value)
 for customer_company_registration in customer_company_registrations:
     # To get the type of number
     customer_company_registration_number_type = customer_company_registration.type

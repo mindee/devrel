@@ -113,7 +113,9 @@ There are also lot [Open Source projects](https://github.com/saintmalik/awesome-
 
 ## Swag
 
-Note that this list doesn't mean any endorsement, nor we are responsible for the quality of the products: it's proposed as a list of resources you'll need to validate yourself. If you have a terrible experience with one of these vendors, please let us know with some details, we'll removed them.
+Please note that this list is not an endorsement, and we are not responsible for the products' quality: it is offered as a reference list for you to validate yourself.
+
+If you have had a bad experience with one of these vendors, please let us know about it and provide some details about your experience, and we will remove them from our list.
 
 ### Misc
 

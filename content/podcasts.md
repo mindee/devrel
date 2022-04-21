@@ -17,7 +17,8 @@ Mindee CEO, Jonathan Grandperrin and Nathan Latka discuss the API-first document
 
 ### 2022-04-05
 **SaaS Connection**  
-[Victor Briançon, COO de Mindee. Devenir la solution de référence pour l'extraction de data](https://saas-connection.com/episode/47-victor-briancon-coo-de-mindee-devenir-la-solution-de-reference-pour-lextraction-de-data)
+[Victor Briançon, COO de Mindee. Devenir la solution de référence pour l'extraction de data](https://saas-connection.com/episode/47-victor-briancon-coo-de-mindee-devenir-la-solution-de-reference-pour-lextraction-de-data)  
+In this interview Victor Briançon, Co-Founder and COO of Mindee discusses his journey with the company, his early career in VC funds at Elaia, and how he met his co-founders and was introduced to the idea of Mindee. Finally, Victor dives into Mindee’s move to Y Combinator and internationalization.
 
 ### 2019-06-19
 **Lucca**  

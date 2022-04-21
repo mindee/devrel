@@ -8,6 +8,7 @@ Some resources to help on different levels
 - [Emojis](#emojis)
 - [Fake Data Generators](#fake-data-generators)
 - [Fonts](#fonts)
+- [People Management](#people-management)
 - [Pictures & Images](#pictures--images)
 - [Social Media](#social-media)
 - [Status Pages](#status-pages)
@@ -68,6 +69,10 @@ Some resources to help on different levels
 - [CDN | Fonts](https://www.cdnfonts.com): a CDN for fonts
 - [Font Repo](https://www.fontrepo.com): free `.TFF` fonts
 - [Font Squirrel](https://www.fontsquirrel.com): free for commercial use
+
+## People Management
+
+- [Awesome List of resources on leading people and being a manager](https://github.com/LappleApple/awesome-leading-and-managing)
 
 ## Pictures & Images
 

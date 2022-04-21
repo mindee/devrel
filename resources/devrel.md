@@ -10,6 +10,7 @@ Some resources to help Developer Relations do their job
 - [Mascots](#mascots)
 - [Open Source Documentation](#open-source-documentation)
 - [Slack Tools](#slack-tools)
+- [Swag](#swag)
 
 ## Career Ladders Examples
 
@@ -109,3 +110,17 @@ There are also lot [Open Source projects](https://github.com/saintmalik/awesome-
 - [Community Inviter](https://communityinviter.com): Slack invitation management tool & landing page (free & paid plans available)
 - [Slack Invite Automation](https://github.com/outsideris/slack-invite-automation): a tiny web application to invite a user into your slack team
 - [Slackin](https://github.com/rauchg/slackin): public Slack organizations made easy
+
+## Swag
+
+Note that this list doesn't mean any endorsement, nor we are responsible for the quality of the products: it's proposed as a list of resources you'll need to validate yourself. If you have a terrible experience with one of these vendors, please let us know with some details, we'll removed them.
+
+### Misc
+
+- [Kymono](https://kymono.co)
+- [Pinnacle Branding](https://www.pinnaclebranding.com)
+- [Printfection](https://www.printfection.com)
+
+### Stickers
+
+- [Sticker Mule](https://www.stickermule.com)

@@ -15,6 +15,9 @@ Convert `.heic` (Apple propriatery version of the **H**igh-**E**fficiency **I**m
 ## [create-all-doc-issues.sh](create-all-doc-issues.sh)
 Create an issue for all documentation pages. Not useful anymore, but worth keeping for the code example we may need in the future.
 
+## [create-jira-issues.zsh](create-jira-issues.zsh)
+Create an issue in Jira. Right now it's not bulletproof and was created to add a very specific type of issue. Worth updating in the future.
+
 ## [deleteBadPDF.sh](deleteBadPDF.sh)
 Delete PDFs with wrong MIME type in the specified folder.
 

@@ -3,15 +3,58 @@ const fs = require("fs");
 const { Client } = require("mindee");
 const mindeeClient = new Client();
 
+const invoiceFile = "/Users/fharper/Downloads/file20220411162555000000QhTrL.pdf";
+
 mindeeClient.invoice.parse ({
-    input : "/Users/fharper/Documents/code/mindee/datasets/invoices/a167899f-5e27-4f0f-bab4-aeac83243f9c.pdf",
-	//input : "/Users/fharper/Downloads/a74eaa5-c8e283b-sample_invoice.jpeg",
+    input : invoiceFile,
     inputType : 'path',
     filename : undefined,
     cutPdf : true,
     includeWords : false
 })
 .then((res) => {
+	console.log("\n");
+	console.log(chalk.green("Invoice as a File"));
+	displayInvoice(res);
+})
+.catch((err) => {
+  console.error(err);
+}); 
+
+mindeeClient.invoice.parse ({
+    input : fs.createReadStream(invoiceFile),
+    inputType : 'stream',
+    filename : 'bleh.pdf',
+    cutPdf : true,
+    includeWords : false
+})
+.then((res) => {
+	console.log("\n");
+	console.log(chalk.green("Invoice as a Stream"));
+	displayInvoice(res);
+})
+.catch((err) => {
+  console.error(err);
+});
+
+mindeeClient.invoice.parse ({
+    input : fs.readFileSync(invoiceFile, {encoding: 'base64'}),
+    inputType : 'base64',
+    filename : undefined,
+    cutPdf : true,
+    includeWords : false
+})
+.then((res) => {
+	console.log("\n");
+	console.log(chalk.green("Invoice as a Stream"));
+	displayInvoice(res);
+})
+.catch((err) => {
+  console.error(err);
+});
+
+function displayInvoice(res) {
+
 	// Document prediction level
 	console.log("\n");
 	console.log(chalk.green("Document prediction level"));
@@ -163,3 +206,4 @@ mindeeClient.invoice.parse ({
 	console.log("\n");
 	console.log(chalk.green("Supplier Address"));
     console.log(res.invoice.supplierAddress.value);
+}

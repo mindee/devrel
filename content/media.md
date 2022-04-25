@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-04-25
+**Social, Agile, and Transformation**  
+[3 Problems with Just-in-Time Planning and Solving Them with Agile Planning](https://blogs.starcio.com/2022/04/just-in-time-agile-planning.html)
+
 ### 2022-04-20
 **Eden AI**  
 [Mindee OCR engine is available on Eden AI](https://www.edenai.co/post/mindee-ocr-engine-is-available-on-eden-ai)

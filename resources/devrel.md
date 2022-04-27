@@ -107,6 +107,12 @@ There are also lot [Open Source projects](https://github.com/saintmalik/awesome-
 
 ## Slack Tools
 
+### Apps
+
+- [Channel Tools](https://www.channeltools.io): bulk invite all members of a Slack team or a channel to another channel &  quickly export all members from a channel
+
+### Others
+
 - [Community Inviter](https://communityinviter.com): Slack invitation management tool & landing page (free & paid plans available)
 - [Slack Invite Automation](https://github.com/outsideris/slack-invite-automation): a tiny web application to invite a user into your slack team
 - [Slackin](https://github.com/rauchg/slackin): public Slack organizations made easy

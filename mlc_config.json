@@ -29,6 +29,9 @@
 		},
 		{
 			"pattern": "https://cfpland.com*"
+		},
+		{
+			"pattern": "https://developers.mindee.com*"
 		}
 	],
   "timeout": "30s",

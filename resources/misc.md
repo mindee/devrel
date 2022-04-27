@@ -116,6 +116,7 @@ Some resources to help on different levels
 - [Iconmonstr](https://iconmonstr.com/): 4512+ free icons in 316 collections
 - [Noun Project](https://thenounproject.com): icons & photos for everything.
 - [Seek Logo](https://seeklogo.com): 400.000+ vector brand logos and logo templates
+- [SVP Porn](https://svgporn.com): a huge collection of SVG logos
 - [SVG Repo](https://www.svgrepo.com): 300.000+ SVG vectors and icons available for commercial use
 
 ## Writing Collaborative Tools

@@ -1,9 +1,10 @@
-#! /bin/bash
+#!/bin/zsh
 
 #
 # Script to get stars from our repositories for our KPI Dashboard
 #
-# You can get your token at https://github.com/settings/tokens
+# You can get your token at https://github.com/settings/tokens with scopes "repo > public_replo" only if you are getting the stars only for public repositories. Give full "repo" scope for public & private ones.
+#
 # Configure a global variable named GITHUB_USERNAME with your GitHub username
 # Configure a global variable named GITHUB_STARS_TOKEN with the token you just created
 #

@@ -43,13 +43,18 @@ echo "| Repositories Stars |"
 printf "%s\n" "----------------------"
 
 # looping the repos
+total_stars=0
 for repo in "${repos[@]}"
 do
     stars=$(curl --silent -u $GITHUB_USERNAME:$GITHUB_STARS_TOKEN  "$api_url$org/$repo"  | jq '.stargazers_count')
     printf "%s\n" "${bold}$repo:${normal} $stars"
 
     excel="$excel$stars,"
+
+    total_stars=$(($total_stars+$stars))
 done
+
+printf "\n\n%s\n" $total_stars
 
 printf "\n\n%s\n" "-------------"
 echo "| Excel CSV |"

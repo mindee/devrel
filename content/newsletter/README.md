@@ -21,10 +21,10 @@ _Please note that those are export from SendGrid: it is not the quality of HTML 
 
 List of Open Source repositories we shared or would like to share in our monthly newsletter.
 
-- [ ] [Ajv](https://github.com/ajv-validator/ajv): The fastest JSON schema Validator
+- [X] [Ajv](https://github.com/ajv-validator/ajv): The fastest JSON schema Validator
 - [ ] [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing): Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone
 - [X] [cool-retro-term](https://github.com/Swordfish90/cool-retro-term): a good looking terminal emulator which mimics the old cathode display
-- [ ] [direnv](https://github.com/direnv/direnv): unclutter your .profile file
+- [X] [direnv](https://github.com/direnv/direnv): unclutter your .profile file
 - [X] [endoflife.date](https://github.com/endoflife-date/endoflife.date): informative site with EoL dates of everything
 - [ ] [httpie](https://github.com/httpie/httpie): an user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [ ] [Hukum](https://github.com/abskmj/hukum): displays Github Action progress in the terminal

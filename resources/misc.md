@@ -100,15 +100,34 @@ Some resources to help on different levels
 
 ### Files
 
-- [Algolia Logo](svgs/algolia.svg)
+#### Logos
+
+- [Algolia](svgs/algolia.svg)
+- [DigitalOcean](svgs/digitalocean.svg)
+- [GitHub](svgs/github.svg) & [icon only](svgs/github-icon.svg)
+- [LinkedIn](svgs/linkedin.svg) & [icon only](svgs/linkedin-icon.svg)
+- [Node.js](svgs/node-js.svg) & [icon only](svgs/node-js-icon.svg)
+- [Orbit](svgs/orbit.svg) & [icon only](svgs/orbit-icon.svg)
+- [PyPi](svgs/pypi.svg)
+- [Python](svgs/python.svg) & [icon only](svgs/python-icon.svg)
+- [README.io](svgs/readme-io.svg) & [icon only](svgs/readme-io-icon.svg)
+- [SendGrid](svgs/sendgrid.svg) & [icon only](svgs/sendgrid-icon.svg)
+- [Slack](svgs/slack.svg) & [icon only](svgs/slack-icon.svg)
+- [Twilio](svgs/twilio.svg) & [icon only](svgs/twilio-icon.svg)
+- [Twitter](svgs/twitter.svg)
+- [WordPress](svgs/wordpress.svg) & [icon only](svgs/wordpress-icon.svg)
+- [YouTube](svgs/youtube.svg) & [icon only](svgs/youtube-icon.svg)
+- [Zapier](svgs/zapier.svg) & [icon only](svgs/zapier-icon.svg)
+
+#### Objects
+
 - [Beer Mug](svgs/beer-mug.svg)
-- [DigitalOcean Logo](svgs/digitalocean.svg)
+- [Clock](svgs/clock.svg)
+- [Eye](svgs/eye.svg)
 - [Heart - Full](svgs/heart.svg)
-- [Node.js Logo](svgs/node-js.svg)
-- [PyPi Logo](svgs/pypi.svg)
-- [Python Logo](svgs/python.svg)
+- [Mouse Pointer](svgs/mouse-pointer.svg)
 - [Snowflake](svgs/snowflake.svg)
-- [Twilio Logo](svgs/twilio.svg)
+- [TV](svgs/tv.svg)
 
 ### Sites
 

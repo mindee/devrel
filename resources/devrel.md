@@ -131,4 +131,5 @@ If you have had a bad experience with one of these vendors, please let us know a
 
 ### Stickers
 
-- [Sticker Mule](https://www.stickermule.com)
+- [Sticker App](https://stickerapp.com): they can do stickers with back paper print
+- [Sticker Mule](https://www.stickermule.com): [@fharper](https://github.com/fharper)'s go to for stickers

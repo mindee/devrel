@@ -5,6 +5,7 @@ Some resources to help Developer Relations do their job
 - [Career Ladders Examples](#career-ladders-examples)
 - [CFPs](#cfps)
 - [Communities](#communities)
+- [Content Tone & Voice](#content-tone--voice)
 - [Developer Relations Salaries](#developer-relations-salaries)
 - [Learning](#learning)
 - [Mascots](#mascots)
@@ -43,6 +44,17 @@ Some resources to help Developer Relations do their job
 ### Others
 
 - [Write the Docs](https://www.writethedocs.org/slack/): for technical writers or anyone who cares about documentation
+
+## Content Tone & Voice
+
+Here are some examples of blog/documentation tone & voice/style document/guide:
+
+- [Google](https://developers.google.com/style/tone)
+- [Microsoft](https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human)
+- [Python](https://devguide.python.org/documenting/)
+- [Shopify](https://polaris.shopify.com/content/voice-and-tone)
+- [Splunk](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)
+- [Timescale](https://docs.timescale.com/timescaledb/latest/contribute-to-docs/)
 
 ## Developer Relations Salaries
 

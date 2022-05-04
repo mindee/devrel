@@ -54,6 +54,7 @@ Here are some examples of blog/documentation tone & voice/style document/guide:
 - [Python](https://devguide.python.org/documenting/)
 - [Shopify](https://polaris.shopify.com/content/voice-and-tone)
 - [Splunk](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)
+- [Timescale](https://docs.timescale.com/timescaledb/latest/contribute-to-docs/)
 
 ## Developer Relations Salaries
 

@@ -27,9 +27,10 @@ List of Open Source repositories we shared or would like to share in our monthly
 - [X] [direnv](https://github.com/direnv/direnv): unclutter your .profile file
 - [X] [endoflife.date](https://github.com/endoflife-date/endoflife.date): informative site with EoL dates of everything
 - [ ] [Gradio](https://github.com/gradio-app/gradio): quickly create UIs for your machine learning model in Python
-- [ ] [httpie](https://github.com/httpie/httpie): an user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [ ] [httpie](https://github.com/httpie/httpie): an user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more
 - [ ] [Hukum](https://github.com/abskmj/hukum): displays Github Action progress in the terminal
 - [ ] [go-jira](https://github.com/go-jira/jira): simple jira command line client in Go
 - [ ] [JSON Schema Store](https://github.com/SchemaStore/schemastore): a collection of JSON schema files including full API
 - [X] [Multipass](https://github.com/canonical/multipass): multipass orchestrates virtual Ubuntu instances
 - [X] [Penpot](https://github.com/penpot/penpot): the Open-Source design & prototyping platform
+- [ ] [PyScript](https://github.com/pyscript/pyscript): a framework that allows users to create rich Python applications in the browser using HTML

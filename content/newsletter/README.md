@@ -34,3 +34,4 @@ List of Open Source repositories we shared or would like to share in our monthly
 - [X] [Multipass](https://github.com/canonical/multipass): multipass orchestrates virtual Ubuntu instances
 - [X] [Penpot](https://github.com/penpot/penpot): the Open-Source design & prototyping platform
 - [ ] [PyScript](https://github.com/pyscript/pyscript): a framework that allows users to create rich Python applications in the browser using HTML
+- [ ] [Topgrade](https://github.com/r-darwish/topgrade): Upgrade everything at once (Homebrew, pip/node packages, macOS applications & way more)

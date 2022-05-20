@@ -9,6 +9,7 @@ List of previous monthly newsletter for developers. Subscribe [here](https://new
 
 _Please note that those are export from SendGrid: it is not the quality of HTML code we would write..._
 
+- Mindee.08 (2022-04-27) - [Connect with us, updated SDKs, and more](Newsletter-08.html)
 - Mindee.07 (2022-03-23) - [Get more extracted fields using the SDK, and more](Newsletter-07.html)
 - Mindee.06 (2022-02-28) - [Cropper Feature, Invoice V3, and other new updates in Mindee](Newsletter-06.html)
 - Mindee.05 (2022-01-27) - [New Year, New Product Updates, And More](Newsletter-05.html)

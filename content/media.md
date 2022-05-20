@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-05-10
+**Business Wire**  
+[Mindee Continues Momentum with Strong Global Growth and Significant Product Advances for 2022](https://www.businesswire.com/news/home/20220510005175/en/Mindee-Continues-Momentum-with-Strong-Global-Growth-and-Significant-Product-Advances-for-2022)
+
 ### 2022-04-25
 **Social, Agile, and Transformation**  
 [3 Problems with Just-in-Time Planning and Solving Them with Agile Planning](https://blogs.starcio.com/2022/04/just-in-time-agile-planning.html)

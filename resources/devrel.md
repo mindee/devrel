@@ -49,8 +49,10 @@ Some resources to help Developer Relations do their job
 
 Here are some examples of blog/documentation tone & voice/style document/guide:
 
+- [Atlassian](https://atlassian.design/content/voice-and-tone-principles)
 - [Google](https://developers.google.com/style/tone)
 - [Microsoft](https://docs.microsoft.com/en-us/style-guide/brand-voice-above-all-simple-human)
+- [Monzo](https://monzo.com/tone-of-voice)
 - [Python](https://devguide.python.org/documenting/)
 - [Shopify](https://polaris.shopify.com/content/voice-and-tone)
 - [Splunk](https://docs.splunk.com/Documentation/StyleGuide/current/StyleGuide/Howtouse)

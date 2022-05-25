@@ -1,8 +1,3 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
-
 # PDF-OCRIZATION in 2 STEPS
 
 
@@ -230,7 +225,7 @@ pdfgrep -r -P "\b201[0-9]\b"
 We now hereby demonstrated how easy it's to leverage the ocrized pdf search power on a folder using few line of commands .
 
 ## Why ocrmypdf!
-OCRmyPDF is an application and library that adds text “layers” to images in PDFs, making scanned image PDFs searchable. It includes an image-oriented PDF optimizer which by default runs with safe settings with the goal of improving **compression** at no loss of quality. Optimizations only occur after OCR and only if OCR succeeded. [Optimization](https://ocrmypdf.readthedocs.io/en/latest/optimizer.html) ranges from ==-00== through ==-03==, where 0 disables optimization and 3 implements all options. Along with it, it comes with tons of other options such as *rotation correction*, *batch processing*, *selective ocrization* and so on!
+OCRmyPDF is an application and library that adds text “layers” to images in PDFs, making scanned image PDFs searchable. It includes an image-oriented PDF optimizer which by default runs with safe settings with the goal of improving **compression** at no loss of quality. Optimizations only occur after OCR and only if OCR succeeded. [Optimization](https://ocrmypdf.readthedocs.io/en/latest/optimizer.html) ranges from -00 through -03, where 0 disables optimization and 3 implements all options. Along with it, it comes with tons of other options such as *rotation correction*, *batch processing*, *selective ocrization* and so on!
 This article helps overcome the major limitation of OCRmyPDF which is that it is limited by the Tesseract OCR engine. Therefore with Tesseract, it is not as accurate as state of the art OCR solutions. Poor quality scans could produce poor quality OCR. That is the reason we went with docTR as a replacement to the default ocr engine of OCRmypdf.
 
 ###### tags: `OCR` `docTR` `OCRmypdf`

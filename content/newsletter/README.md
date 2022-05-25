@@ -27,9 +27,9 @@ List of Open Source repositories we shared or would like to share in our monthly
 - [X] [cool-retro-term](https://github.com/Swordfish90/cool-retro-term): a good looking terminal emulator which mimics the old cathode display
 - [X] [direnv](https://github.com/direnv/direnv): unclutter your .profile file
 - [X] [endoflife.date](https://github.com/endoflife-date/endoflife.date): informative site with EoL dates of everything
-- [ ] [Gradio](https://github.com/gradio-app/gradio): quickly create UIs for your machine learning model in Python
+- [X] [Gradio](https://github.com/gradio-app/gradio): quickly create UIs for your machine learning model in Python
 - [ ] [httpie](https://github.com/httpie/httpie): an user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more
-- [ ] [Hukum](https://github.com/abskmj/hukum): displays Github Action progress in the terminal
+- [X] [Hukum](https://github.com/abskmj/hukum): displays Github Action progress in the terminal
 - [ ] [go-jira](https://github.com/go-jira/jira): simple jira command line client in Go
 - [ ] [JSON Schema Store](https://github.com/SchemaStore/schemastore): a collection of JSON schema files including full API
 - [X] [Multipass](https://github.com/canonical/multipass): multipass orchestrates virtual Ubuntu instances

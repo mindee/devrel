@@ -2,9 +2,14 @@ import json
 from mindee import Client
 from simple_chalk import chalk
 
-INVOICE_FILE = "/Users/fharper/Documents/code/mindee/documentation/fake-data/invoice.pdf"
+INVOICE_FILE = "/Users/fharper/Documents/code/mindee/datasets/invoices/a167899f-5e27-4f0f-bab4-aeac83243f9c.pdf"
 PASSPORT_FILE = "/Users/fharper/Documents/code/mindee/datasets/passports/b8cbe647_958e45e9_carole-arnault-11513195971239.jpg"
-RECEIPT_FILE = "/Users/fharper/Downloads/6882f91-receipt23.png"
+RECEIPT_FILE = "/Users/fharper/Documents/code/mindee/datasets/receipts/America/20ee4a00-f96b-4e42-a44a-e2b8ebc00ebf.jpg"
+
+"""
+###########
+# Invoice #
+###########
 
 mindee_client = Client().config_invoice()
 invoice_data = mindee_client.doc_from_path(INVOICE_FILE).parse("invoice")
@@ -134,11 +139,9 @@ print(invoice_data.invoice.total_excl.value)
 print(chalk.green("\nTotal taxes"))
 print(invoice_data.invoice.total_tax.value)
 
-"""
-mindee_client = Client().config_passport()
-passport_data = mindee_client.doc_from_path(PASSPORT_FILE).parse("passport"))
-print(passport_data.passport)
-"""
+###########
+# Receipt #
+###########
 
 print(chalk.green("\n-------"))
 print(chalk.green("RECEIPT"))
@@ -207,3 +210,64 @@ print(receipt_data.receipt.total_excl.value)
 
 print(chalk.green("\nTotal Taxes"))
 print(receipt_data.receipt.total_tax.value)
+"""
+############
+# Passport #
+############
+
+mindee_client = Client().config_passport()
+passport_data = mindee_client.doc_from_path(PASSPORT_FILE).parse("passport")
+
+print(chalk.green("\n--------"))
+print(chalk.green("PASSPORT"))
+print(chalk.green("--------\n"))
+
+print(chalk.green("\nDocument Level Prediction"))
+print(passport_data.passport)
+
+print(chalk.green("\nPage Level Prediction"))
+for passport in passport_data.passports:
+    print(passport)
+
+print(chalk.green("\nHTTP Response"))
+print(json.dumps(passport_data.http_response, indent=4, sort_keys=True))
+
+print(chalk.green("\nDate of birth"))
+print(passport_data.passport.birth_date.value)
+
+print(chalk.green("\nPlace of birth"))
+print(passport_data.passport.birth_place.value)
+
+print(chalk.green("\nCountry"))
+print(passport_data.passport.country.value)
+
+print(chalk.green("\nExpiration Date"))
+print(passport_data.passport.expiry_date.value)
+
+print(chalk.green("\nGender"))
+print(passport_data.passport.gender.value)
+
+print(chalk.green("\nGiven Names"))
+given_names = passport_data.passport.given_names
+print("Given names: ")
+for given_name in given_names:
+   name = given_name.value
+print(name)
+
+print(chalk.green("\nPassport ID"))
+print(passport_data.passport.id_number.value)
+
+print(chalk.green("\nIssuance Date"))
+print(passport_data.passport.issuance_date.value)
+
+print(chalk.green("\nMachine Readable Zone - First line"))
+print(passport_data.passport.mrz1.value)
+
+print(chalk.green("\nMachine Readable Zone - Second line"))
+print(passport_data.passport.mrz2.value)
+
+print(chalk.green("\nMachine Readable Zone - Reconstructed"))
+print(passport_data.passport.mrz.value)
+
+print(chalk.green("\nSurname"))
+print(passport_data.passport.surname.value)

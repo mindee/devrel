@@ -58,7 +58,7 @@ function displayInvoice(res) {
 	// Document prediction level
 	console.log("\n");
 	console.log(chalk.green("Document prediction level"));
-	console.log(res.invoices);
+	console.log(res.invoice);
 
 	//Page prediction level
 	console.log("\n");

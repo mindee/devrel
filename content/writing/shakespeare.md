@@ -35,4 +35,4 @@ Each team need to create one piece of content per each 5+1 people on a team, sta
 
 ### Sales
 
-**3 pieces of content per month** based on 13 people on the team (we don't the 2 count Account Executive)
+**3 pieces of content per month** based on 13 people on the team (we don't count the 2 Account Executives)

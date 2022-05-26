@@ -12,7 +12,7 @@ Each team need to create one piece of content per each 5+1 people on a team, sta
 
 ### Data Science
 
-**2 piece of content per month** based on 6 people on the team
+**2 piece of content per month** based on 10 people on the team
 
 ### Developer Relations
 
@@ -31,8 +31,8 @@ Each team need to create one piece of content per each 5+1 people on a team, sta
 
 ### Product
 
-**0 piece of content per month** based on 2 people on the team ([Jonathan](https://github.com/jonathanMindee) is part of this team for now when it comes to this program)
+**0 piece of content per month** based on 1 people on the team
 
 ### Sales
 
-**2 pieces of content per month** based on 9 people on the team (we don't count Account Executive)
+**3 pieces of content per month** based on 13 people on the team (we don't the 2 count Account Executive)

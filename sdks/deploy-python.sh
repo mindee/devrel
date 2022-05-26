@@ -3,7 +3,7 @@
 # To use by Fred
 
 echo "Changing to the Python SDK folder"
-z sdk-python
+cd /Users/fharper/Documents/code/mindee/sdk-python
 echo "Checkout main branch"
 git checkout main
 echo "Pull last updates"

@@ -3,7 +3,7 @@ const fs = require("fs");
 const { Client } = require("mindee");
 const mindeeClient = new Client();
 
-const invoiceFile = "/Users/fharper/Downloads/file20220411162555000000QhTrL.pdf";
+const invoiceFile = "/Users/fharper/Documents/code/mindee/datasets/invoices/a167899f-5e27-4f0f-bab4-aeac83243f9c.pdf";
 
 mindeeClient.invoice.parse ({
     input : invoiceFile,

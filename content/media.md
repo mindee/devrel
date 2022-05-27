@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-05-19
+**Digital CxO**  
+[How No Data and Bad Data Cost Businesses Millions](https://digitalcxo.com/article/how-no-data-and-bad-data-cost-businesses-millions/)
+
 ### 2022-05-10
 **Business Wire**  
 [Mindee Continues Momentum with Strong Global Growth and Significant Product Advances for 2022](https://www.businesswire.com/news/home/20220510005175/en/Mindee-Continues-Momentum-with-Strong-Global-Growth-and-Significant-Product-Advances-for-2022)

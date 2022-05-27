@@ -2,6 +2,7 @@
 
 - [Archive](#archive)
 - [Open Source Repositories](#open-source-repositories)
+- [Videos](#videos)
 - [Writing](../writing/newsletter.md)
 
 ## Archive
@@ -36,3 +37,17 @@ List of Open Source repositories we shared or would like to share in our monthly
 - [X] [Penpot](https://github.com/penpot/penpot): the Open-Source design & prototyping platform
 - [ ] [PyScript](https://github.com/pyscript/pyscript): a framework that allows users to create rich Python applications in the browser using HTML
 - [ ] [Topgrade](https://github.com/r-darwish/topgrade): Upgrade everything at once (Homebrew, pip/node packages, macOS applications & way more)
+
+## Videos
+
+List of videos we shared or would like to share in our monthly newsletter.
+
+- [X] [API Builder](https://www.youtube.com/watch?v=VvOOOYn38ws)
+- [ ] [Discover Mindee with Emmanuelle Thomas, Director of Product](https://www.youtube.com/watch?v=Gd1QvKBnlF4)
+- [ ] [Discover Mindee with Frédéric Harper, Director of Developer Relations](https://www.youtube.com/watch?v=Jn8XOlPWF-4)
+- [X] [Discover Mindee with Jérémy Lixandre, Devops Architect](https://www.youtube.com/watch?v=TWt5E9fXj1M)
+- [ ] [Discover Mindee with Jonathan Grandperrin, CEO](https://www.youtube.com/watch?v=PDCATS_XLxY)
+- [ ] [Discover Mindee with Mehdi Boubnan, Data Scientist](https://www.youtube.com/watch?v=cZl2Vyf6qxo)
+- [ ] [Don't .gitignore mental health at DEVOXX UK, by Frédéric Harper, Director of Developer Relations at Mindee](https://www.youtube.com/watch?v=6aiLh4tTSzE)
+- [X] [GGV Capital - The Future of Software with Jonathan Grandperrin, CEO of Mindee](https://www.youtube.com/watch?v=ucuNK2UcHIQ)
+- [X] [Mindee docTR - Probably the Best Open-Source OCR by Andrej Baranovskij](https://www.youtube.com/watch?v=3nYPIDCToes)

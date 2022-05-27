@@ -32,6 +32,9 @@
 		},
 		{
 			"pattern": "https://developers.mindee.com*"
+		},
+		{
+			"pattern": "https://n8n.io*"
 		}
 	],
   "timeout": "30s",

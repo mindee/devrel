@@ -2,7 +2,7 @@
 
 ![Mindee Logo](resources/mindee/logo.svg#gh-light-mode-only)![Mindee Logo](resources/mindee/logo-white.svg#gh-dark-mode-only)
 
-[![Markdown Validation](https://github.com/mindee/devrel/actions/workflows/check-markdown.yml/badge.svg)](https://github.com/mindee/devrel/actions/workflows/check-markdown.yml) [![Markdown Links Validation](https://github.com/mindee/devrel/actions/workflows/check-links.yml/badge.svg)](https://github.com/mindee/devrel/actions/workflows/check-links.yml) [![Spelling Validation](https://github.com/mindee/devrel/actions/workflows/spellcheck.yml/badge.svg)](https://github.com/mindee/devrel/actions/workflows/spellcheck.yml)
+[![Slack Icon](https://img.shields.io/badge/-Join%20our%20community-yellow?logo=slack)](https://slack.mindee.com) [![Markdown Validation](https://github.com/mindee/devrel/actions/workflows/check-markdown.yml/badge.svg)](https://github.com/mindee/devrel/actions/workflows/check-markdown.yml) [![Markdown Links Validation](https://github.com/mindee/devrel/actions/workflows/check-links.yml/badge.svg)](https://github.com/mindee/devrel/actions/workflows/check-links.yml)
 
 This repository serves as a second brain for the Developer Relations (devrel) team at Mindee.
 

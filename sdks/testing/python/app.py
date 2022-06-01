@@ -5,6 +5,7 @@ from simple_chalk import chalk
 INVOICE_FILE = "/Users/fharper/Documents/code/mindee/datasets/invoices/a167899f-5e27-4f0f-bab4-aeac83243f9c.pdf"
 PASSPORT_FILE = "/Users/fharper/Documents/code/mindee/datasets/passports/b8cbe647_958e45e9_carole-arnault-11513195971239.jpg"
 RECEIPT_FILE = "/Users/fharper/Documents/code/mindee/datasets/receipts/America/20ee4a00-f96b-4e42-a44a-e2b8ebc00ebf.jpg"
+CUSTOM_API_FILE = "/Users/fharper/Documents/code/mindee/datasets/w9s/VICTOR_KRUM.pdf"
 
 """
 ###########
@@ -210,7 +211,7 @@ print(receipt_data.receipt.total_excl.value)
 
 print(chalk.green("\nTotal Taxes"))
 print(receipt_data.receipt.total_tax.value)
-"""
+
 ############
 # Passport #
 ############
@@ -271,3 +272,69 @@ print(passport_data.passport.mrz.value)
 
 print(chalk.green("\nSurname"))
 print(passport_data.passport.surname.value)
+"""
+
+##########################################
+# API BUILDER: CUSTOM API - W9 documents #
+##########################################
+
+#
+# If you want to use this testing app, you either need to create your own W9s
+# custom API using the API Builder and the same data model.
+#
+# If you want to adapt this to your own custom API, you need to change the
+# config_custom_doc call with your own parameters: check
+# https://developers.mindee.com/docs/python-api-builder for more details.
+#
+# You will also have to change every field name from the place where I print
+# the city, and put your own properties extracted in the document based on your data model.
+#
+
+print(chalk.green("\n-------"))
+print(chalk.green("API BUILDER: CUSTOM API"))
+print(chalk.green("-------\n"))
+
+mindee_client = Client().config_custom_doc(
+    document_type="wsnine", #It's the API Name, we will fix that in a future version of the SDK
+    singular_name="w9",
+    plural_name="w9s",
+    account_name="fharper",
+    version="1"
+)
+
+loaded_doc = mindee_client.doc_from_path(CUSTOM_API_FILE)
+w9_data = loaded_doc.parse("wsnine")
+
+print(chalk.green("\nDocument Level Prediction"))
+print(w9_data.w9)
+
+print(chalk.green("\nPage Level Prediction"))
+for w9 in w9_data.w9s:
+    print(w9)
+
+print(chalk.green("\nHTTP Response"))
+print(json.dumps(w9_data.http_response, indent=4, sort_keys=True))
+
+print(chalk.green("\nCity"))
+for city in w9_data.w9.city["values"]:
+    print(city["content"])
+
+print(chalk.green("\nName"))
+for name in w9_data.w9.name["values"]:
+    print(name["content"])
+
+print(chalk.green("\nSocial Security Number"))
+for social_security_number in w9_data.w9.social_security_number["values"]:
+    print(social_security_number["content"])
+
+print(chalk.green("\nState"))
+for state in w9_data.w9.state["values"]:
+    print(state["content"])
+
+print(chalk.green("\nStreet Address"))
+for street_address in w9_data.w9.street_address["values"]:
+    print(street_address["content"])
+
+print(chalk.green("\nZip Code"))
+for zip_code in w9_data.w9.zip_code["values"]:
+    print(zip_code["content"])

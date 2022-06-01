@@ -36,6 +36,10 @@
 		{
 			"pattern": "https://n8n.io*"
 		}
+		,
+		{
+			"pattern": "https://confs.tech*"
+		}
 	],
   "timeout": "30s",
   "retryOn429": true,

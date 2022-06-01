@@ -33,6 +33,10 @@
 		{
 			"pattern": "https://developers.mindee.com*"
 		}
+		,
+		{
+			"pattern": "https://confs.tech*"
+		}
 	],
   "timeout": "30s",
   "retryOn429": true,

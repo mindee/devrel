@@ -28,6 +28,10 @@ Some resources to help Developer Relations do their job
 
 ## Communities
 
+### Conferences Related
+
+- [Momentum Developer Conference](https://join.slack.com/t/momentumdevcon/shared_invite/enQtMzMzMzA2MDQwNDAwLTQ1YzYwZjk1NDJmMTVjMjRmZTVhMjliYmViYWMyMWJjMGJkNzMyODZkNTE0NmJjYjIwMzU2NjRlOWY4ZTcwMjE): Slack for the [Momentum Developer Conference](https://momentumdevcon.com)
+
 ### Developer Relations
 
 - [Devrel Collective](https://devrelcollective.fun): for advocates, evangelists and community managers

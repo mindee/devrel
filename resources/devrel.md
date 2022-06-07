@@ -47,7 +47,7 @@ Some resources to help Developer Relations do their job
 
 ### Product Managers
 
-- [Minde the Product](https://www.mindtheproduct.com/product-management-slack-community/)
+- [Mind the Product](https://www.mindtheproduct.com/product-management-slack-community/)
 - [Product Collective](https://productcollective.com): you need to subscribe to the newsletter to get Slack access (you can unsubscribe after)
 - [Product Manager HQ](https://productmanagerhq.com/join-the-community/): you need to pay a one-time membership fee to join the community
 - [Product School](https://productschool.com/slack-community/)

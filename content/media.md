@@ -10,7 +10,7 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ### 2022-05-10
 **Business Wire**  
-[Mindee Continues Momentum with Strong Global Growth and Significant Product Advances for 2022](https://www.businesswire.com/news/home/20220510005175/en/Mindee-Continues-Momentum-with-Strong-Global-Growth-and-Significant-Product-Advances-for-2022)
+[Mindee Continues Momentum with Strong Global Growth and Significant Product Advances for 2022](https://businesswire.com/news/home/20220510005175/en/Mindee-Continues-Momentum-with-Strong-Global-Growth-and-Significant-Product-Advances-for-2022)
 
 ### 2022-05-19
 **insideBIGDATA**  
@@ -86,7 +86,7 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ### 2021-12-07
 **Business Wire**  
-[Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://www.businesswire.com/news/home/20211207005248/en/Mindee-Introduces-Advanced-Open-Source-Optical-Character-Recognition-with-docTR)
+[Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://businesswire.com/news/home/20211207005248/en/Mindee-Introduces-Advanced-Open-Source-Optical-Character-Recognition-with-docTR)
 
 **Yahoo!**  
 [Mindee Introduces Advanced Open-Source Optical Character Recognition with docTR](https://www.yahoo.com/now/mindee-introduces-advanced-open-source-133000357.html)
@@ -121,7 +121,7 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ### 2021-10-06
 **Business Wire**  
-[Mindee Comes Out of Stealth Mode Raising $14M with its Developer Tool for Document Parsing that Eliminates Manual Data Entry in Software Applications and Automates Document Processing](https://www.businesswire.com/news/home/20211006005116/en/Mindee-Comes-Out-of-Stealth-Mode-Raising-14M-with-its-Developer-Tool-for-Document-Parsing-that-Eliminates-Manual-Data-Entry-in-Software-Applications-and-Automates-Document-Processing)
+[Mindee Comes Out of Stealth Mode Raising $14M with its Developer Tool for Document Parsing that Eliminates Manual Data Entry in Software Applications and Automates Document Processing](https://businesswire.com/news/home/20211006005116/en/Mindee-Comes-Out-of-Stealth-Mode-Raising-14M-with-its-Developer-Tool-for-Document-Parsing-that-Eliminates-Manual-Data-Entry-in-Software-Applications-and-Automates-Document-Processing)
 
 **Struic Startup Savant**  
 [Mindee Announces $14 Million for Automated Developer Software to Speed Up Data Entry](https://startupsavant.com/news/mindee)

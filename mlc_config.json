@@ -35,10 +35,12 @@
 		},
 		{
 			"pattern": "https://n8n.io*"
-		}
-		,
+		},
 		{
 			"pattern": "https://confs.tech*"
+		},
+		{
+			"pattern": "https://businesswire.com*"
 		}
 	],
   "timeout": "30s",

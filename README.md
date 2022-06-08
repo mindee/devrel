@@ -34,7 +34,7 @@ As always, we value constructive feedback. Welcome home!
 ## Developer Relations at Mindee
 
 ### Our Mission
-We help developers be successful by nurturing a healthy and welcoming community around the Mindee ecosystem. This means listening to, inspiring, educating, and supporting our community however we can.
+We help developers be successful by nurturing a healthy and welcoming community around the Mindee ecosystem. This means listening to, advocating for, inspiring, educating, and supporting our community however we can.
 
 ### The 3Cs
 

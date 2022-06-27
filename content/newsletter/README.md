@@ -43,8 +43,8 @@ List of Open Source repositories we shared or would like to share in our monthly
 List of videos we shared or would like to share in our monthly newsletter.
 
 - [X] [API Builder](https://www.youtube.com/watch?v=VvOOOYn38ws)
-- [ ] [Discover Mindee with Emmanuelle Thomas, Director of Product](https://www.youtube.com/watch?v=Gd1QvKBnlF4)
-- [ ] [Discover Mindee with Frédéric Harper, Director of Developer Relations](https://www.youtube.com/watch?v=Jn8XOlPWF-4)
+- [X] [Discover Mindee with Emmanuelle Thomas, Director of Product](https://www.youtube.com/watch?v=Gd1QvKBnlF4)
+- [X] [Discover Mindee with Frédéric Harper, Director of Developer Relations](https://www.youtube.com/watch?v=Jn8XOlPWF-4)
 - [X] [Discover Mindee with Jérémy Lixandre, Devops Architect](https://www.youtube.com/watch?v=TWt5E9fXj1M)
 - [ ] [Discover Mindee with Jonathan Grandperrin, CEO](https://www.youtube.com/watch?v=PDCATS_XLxY)
 - [ ] [Discover Mindee with Mehdi Boubnan, Data Scientist](https://www.youtube.com/watch?v=cZl2Vyf6qxo)

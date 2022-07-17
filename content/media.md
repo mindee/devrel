@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-07-14
+**NVIDIA**  
+[Insilico Medicine Identifies Therapeutic Targets for ALS With AI](https://developer.nvidia.com/blog/insilico-medicine-identifies-therapeutic-targets-for-als-with-ai/)
+
 ### 2022-07-07
 **Spice works**  
 [How APIs Help Leaders Navigate the Labor Shortage](https://www.spiceworks.com/tech/innovation/guest-article/how-apis-help-leaders-navigate-the-labor-shortage/)

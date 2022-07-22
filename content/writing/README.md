@@ -4,7 +4,7 @@ With the goal of generating content with the same quality level every time, we d
 
 - [Anything Markdown](markdown.md)
 - [Blog Post](blog-post/blog-posts.md)
-- [Blog Template](blog-post/blog-post-template.md)
+- [Blog Template](blog-post/blog-template.md)
 - [Documentation](documentation.md)
 - [Newsletter](newsletter.md)
 - [From Python to Shakespeare program](shakespeare.md)

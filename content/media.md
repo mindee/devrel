@@ -4,6 +4,10 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-07-21
+**Transforming Data with Intelligence**  
+[Solving “Bad Data” -- A $3 Trillion-Per-Year Problem](https://tdwi.org/articles/2022/07/21/diq-all-solving-bad-data.aspx)
+
 ### 2022-07-14
 **NVIDIA**  
 [Insilico Medicine Identifies Therapeutic Targets for ALS With AI](https://developer.nvidia.com/blog/insilico-medicine-identifies-therapeutic-targets-for-als-with-ai/)

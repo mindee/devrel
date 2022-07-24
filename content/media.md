@@ -4,6 +4,34 @@ Here is a non-exhaustive list of Mindee mentions and participations in the media
 
 ## English
 
+### 2022-07-21
+**Transforming Data with Intelligence**  
+[Solving “Bad Data” -- A $3 Trillion-Per-Year Problem](https://tdwi.org/articles/2022/07/21/diq-all-solving-bad-data.aspx)
+
+### 2022-07-14
+**NVIDIA**  
+[Insilico Medicine Identifies Therapeutic Targets for ALS With AI](https://developer.nvidia.com/blog/insilico-medicine-identifies-therapeutic-targets-for-als-with-ai/)
+
+### 2022-07-07
+**Spiceworks**  
+[How APIs Help Leaders Navigate the Labor Shortage](https://www.spiceworks.com/tech/innovation/guest-article/how-apis-help-leaders-navigate-the-labor-shortage/)
+
+### 2022-06-27
+**Digital Insider**  
+[7 devops practices to improve application performance](https://thedigitalinsider.com/7-devops-practices-to-improve-application-performance/)
+
+### 2022-06-18
+**Tech Crunch**  
+[The rise of API-first companies, in fintech and beyond](https://techcrunch.com/2022/06/18/the-rise-of-api-first-companies-in-fintech-and-beyond/)
+
+### 2022-06-15
+**Deep Learning Weekly**  
+[Deep Learning Weekly: Issue #254](https://www.deeplearningweekly.com/p/deep-learning-weekly-issue-254)
+
+### 2022-05-30
+**Medium - Bhargav Sridha**  
+[Text extraction using docTR OCR](https://medium.com/quantrium-tech/text-extraction-using-doctr-ocr-471e417764d5)
+
 ### 2022-05-19
 **Digital CxO**  
 [How No Data and Bad Data Cost Businesses Millions](https://digitalcxo.com/article/how-no-data-and-bad-data-cost-businesses-millions/)

@@ -29,9 +29,9 @@ List of Open Source repositories we shared or would like to share in our monthly
 - [X] [direnv](https://github.com/direnv/direnv): unclutter your .profile file
 - [X] [endoflife.date](https://github.com/endoflife-date/endoflife.date): informative site with EoL dates of everything
 - [X] [Gradio](https://github.com/gradio-app/gradio): quickly create UIs for your machine learning model in Python
-- [ ] [httpie](https://github.com/httpie/httpie): an user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more
+- [X] [httpie](https://github.com/httpie/httpie): an user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more
 - [X] [Hukum](https://github.com/abskmj/hukum): displays Github Action progress in the terminal
-- [ ] [go-jira](https://github.com/go-jira/jira): simple jira command line client in Go
+- [X] [go-jira](https://github.com/go-jira/jira): simple jira command line client in Go
 - [ ] [JSON Schema Store](https://github.com/SchemaStore/schemastore): a collection of JSON schema files including full API
 - [X] [Multipass](https://github.com/canonical/multipass): multipass orchestrates virtual Ubuntu instances
 - [X] [Penpot](https://github.com/penpot/penpot): the Open-Source design & prototyping platform
@@ -43,8 +43,9 @@ List of Open Source repositories we shared or would like to share in our monthly
 List of videos we shared or would like to share in our monthly newsletter.
 
 - [X] [API Builder](https://www.youtube.com/watch?v=VvOOOYn38ws)
-- [ ] [Discover Mindee with Emmanuelle Thomas, Director of Product](https://www.youtube.com/watch?v=Gd1QvKBnlF4)
-- [ ] [Discover Mindee with Frédéric Harper, Director of Developer Relations](https://www.youtube.com/watch?v=Jn8XOlPWF-4)
+- [ ] [Developers Documentation: Your Secret Weapon](https://www.youtube.com/watch?v=SfKYuIDh8bY)
+- [X] [Discover Mindee with Emmanuelle Thomas, Director of Product](https://www.youtube.com/watch?v=Gd1QvKBnlF4)
+- [X] [Discover Mindee with Frédéric Harper, Director of Developer Relations](https://www.youtube.com/watch?v=Jn8XOlPWF-4)
 - [X] [Discover Mindee with Jérémy Lixandre, Devops Architect](https://www.youtube.com/watch?v=TWt5E9fXj1M)
 - [ ] [Discover Mindee with Jonathan Grandperrin, CEO](https://www.youtube.com/watch?v=PDCATS_XLxY)
 - [ ] [Discover Mindee with Mehdi Boubnan, Data Scientist](https://www.youtube.com/watch?v=cZl2Vyf6qxo)

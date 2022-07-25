@@ -19,7 +19,7 @@ Organize your content in an outline by creating a table of content and breaking 
 - How can Mindee improve workflow
 - Conclusion
 
-You’ll also need a feature image: the main image which represent the topic, or in cases where it's difficult, something related to embelish the article. The image will be used on the front page, and as the hero image on your blog post. The size needs to be around 2:1 (twice larger than the height) to fit our WordPress template. You need to have the right to use the image in a commercial setup. Here's [some places](../../resources/misc.md#pictures--images) where you can find free and commercialy usuable images.
+You’ll also need a feature image: the main image which represent the topic, or in cases where it's difficult, something related to embelish the article. The image will be used on the front page, and as the hero image on your blog post. The size needs to be around 2:1 (twice larger than the height) to fit our WordPress template. You need to have the right to use the image in a commercial setup. Here's [some places](../../../resources/misc.md#pictures--images) where you can find free and commercialy usuable images.
 
 ## Step 3 - Write the Introduction
 Write an intro (and make it captivating). Describe the goal of your article and how it will answer an issue that the reader may be having. This will entice the reader to keep reading by demonstrating how the content will benefit them at work and improve efficiency.

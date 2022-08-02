@@ -7,6 +7,7 @@ Some resources to help Developer Relations do their job
 - [Communities](#communities)
 - [Content Tone & Voice](#content-tone--voice)
 - [Developer Relations Salaries](#developer-relations-salaries)
+- [Google Apps Tools](#google-apps-tools)
 - [Learning](#learning)
 - [Mascots](#mascots)
 - [Open Source Documentation](#open-source-documentation)
@@ -76,6 +77,10 @@ Here are some examples of blog/documentation tone & voice/style document/guide:
 ## Developer Relations Surveys
 
 - [State of Developer Relations](https://www.stateofdeveloperrelations.com/) by Hoopy (DevRelCon)
+
+## Google Apps Tools
+
+- [Form Notifications](https://workspace.google.com/u/2/marketplace/app/form_notifications/573009629797): create and configure email notifications for response thresholds and Form respondents.
 
 ## Learning
 

@@ -3,15 +3,16 @@
 ## Article Information
 
 - Title
-- Author #1
-- Author #2
+- Authors
+- Category
 - Tags
-- URL
+- Slug
+- Excerpt
 
 ## Image Information
 
-- Source
-- Allowed commercial usage
+- Source Url
+- License
 - Credit mention, if needed
 
 **Note**: Repeat this section for all images in the article, including the featured one or screenshot of code or mathematical formula

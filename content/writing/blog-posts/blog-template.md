@@ -30,8 +30,8 @@ This is done in the spirit of improving your writing skills
 
 |     | Description |
 | ----------- | ----------- |
-| Was awesome        | General feedback on your article |
-| Could be improved  | Highlights areas that could be improved in your writing and article |
+| Was awesome | General feedback on your article |
+| Could be improved | Highlights areas that could be improved in your writing and article |
 
 ## Review Process
 

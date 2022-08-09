@@ -12,6 +12,7 @@
 
 
 ## Images
+
 This section should be repeated for all images and screenshots within your article.
 
 |     | Description |
@@ -24,6 +25,7 @@ This section should be repeated for all images and screenshots within your artic
 **Note**: Repeat this section for all images in the article, including the featured one or screenshot of code or mathematical formula.
 
 ## Fred’s feedback
+
 This is done in the spirit of improving your writing skills
 
 |     | Description |
@@ -38,4 +40,3 @@ This is done in the spirit of improving your writing skills
 - Reviewed by author(s), if needed
 - Reviewed by Fred
 - Reviewed by author(s), if needed
-

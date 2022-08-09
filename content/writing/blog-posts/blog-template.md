@@ -10,7 +10,6 @@
 | Keywords    | Keywords of your article should be seperated by a comma |
 | Slug        | This is filled by the devrel team |
 
-
 ## Images
 
 This section should be repeated for all images and screenshots within your article.

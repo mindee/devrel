@@ -2,7 +2,7 @@
 
 ## Blog Post Title
 
-|     | Description |
+|             | Description |
 | ----------- | ----------- |
 | Author(s)   | Name of the authors |
 | Summary     | 1-3 sentences that summarizes your article |
@@ -15,7 +15,7 @@
 
 This section should be repeated for all images and screenshots within your article.
 
-|     | Description |
+|             | Description |
 | ----------- | ----------- |
 | Description | Add the image description |
 | Credit      | Add the image owner's name |
@@ -28,7 +28,7 @@ This section should be repeated for all images and screenshots within your artic
 
 This is done in the spirit of improving your writing skills
 
-|     | Description |
+|             | Description |
 | ----------- | ----------- |
 | Was awesome | General feedback on your article |
 | Could be improved | Highlights areas that could be improved in your writing and article |

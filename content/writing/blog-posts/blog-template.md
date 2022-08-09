@@ -1,6 +1,6 @@
 # Blog Post Template
 
-## Blog  Post Title
+## Blog Post Title
 
 |     | Description |
 | ----------- | ----------- |
@@ -24,7 +24,7 @@ This section should be repeated for all images and screenshots within your artic
 
 **Note**: Repeat this section for all images in the article, including the featured one or screenshot of code or mathematical formula.
 
-## Fred’s feedback
+## Fred’s Feedback
 
 This is done in the spirit of improving your writing skills
 

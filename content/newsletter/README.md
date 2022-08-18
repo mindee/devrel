@@ -22,6 +22,12 @@ _Please note that those are export from SendGrid: it is not the quality of HTML 
 
 ## Content for future editions
 
+### In The Developers' World
+
+List of interesting external articles for developers or news in the tech industry.
+
+- [ ] [Redis Explained](https://architecturenotes.co/redis/): A deep technical dive into all things Redis. Covering various Redis topologies, data persistence and process forking.
+
 ### Open Source Repositories
 
 List of Open Source repositories we shared or would like to share in our monthly newsletter.

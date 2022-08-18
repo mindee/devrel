@@ -46,6 +46,7 @@ List of Open Source repositories we shared or would like to share in our monthly
 - [X] [Penpot](https://github.com/penpot/penpot): the Open-Source design & prototyping platform
 - [X] [PyScript](https://github.com/pyscript/pyscript): a framework that allows users to create rich Python applications in the browser using HTML
 - [X] [Topgrade](https://github.com/r-darwish/topgrade): Upgrade everything at once (Homebrew, pip/node packages, macOS applications & way more)
+- [ ] [xonsh](https://github.com/xonsh/xonsh): Python-powered, cross-platform, Unix-gazing shell
 
 ### Videos
 

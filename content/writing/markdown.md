@@ -3,7 +3,7 @@
 Here a list of guidelines for any type of content created with markdown.
 
 - [Callouts](#callouts)
-    - [Types](#Types)
+    - [Types](#types)
 - [Code Block](#code-block)
 - [Headers](#headers)
 - [Images](#images)

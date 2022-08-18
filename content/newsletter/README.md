@@ -1,6 +1,7 @@
 # Newsletter
 
 - [Archive](#archive)
+- [Content for future editions](#content-for-future-editions)
 - [Open Source Repositories](#open-source-repositories)
 - [Videos](#videos)
 - [Writing](../writing/newsletter.md)
@@ -19,7 +20,9 @@ _Please note that those are export from SendGrid: it is not the quality of HTML 
 - Mindee.02 (2021-09-02) - [Product Updates & a New Slack Community](Newsletter-02.html)
 - Mindee.01 (2021-01-26) - [Our new product is live 🚀](Newsletter-01.html)
 
-## Open Source Repositories
+## Content for future editions
+
+### Open Source Repositories
 
 List of Open Source repositories we shared or would like to share in our monthly newsletter.
 
@@ -38,7 +41,7 @@ List of Open Source repositories we shared or would like to share in our monthly
 - [X] [PyScript](https://github.com/pyscript/pyscript): a framework that allows users to create rich Python applications in the browser using HTML
 - [X] [Topgrade](https://github.com/r-darwish/topgrade): Upgrade everything at once (Homebrew, pip/node packages, macOS applications & way more)
 
-## Videos
+### Videos
 
 List of videos we shared or would like to share in our monthly newsletter.
 

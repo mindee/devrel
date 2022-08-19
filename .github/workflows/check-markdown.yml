@@ -6,15 +6,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repository
-        uses: actions/checkout@v2
-
-      - name: Setting up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/checkout@v3.0.2
+      
+      - name: Validate Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v7
         with:
-          node-version: '14'
-
-      - name: Installing markdownlint-cli2
-        run: npm i -g markdownlint-cli2
-
-      - name: Check the Markdown
-        run: markdownlint-cli2-config .markdownlint.json "**/*.md"  "#**/node_modules"
+            command: config
+            globs: |
+              .markdownlint.json
+              **/*.md
+              #**/node_modules

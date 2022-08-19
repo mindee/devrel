@@ -2,8 +2,6 @@
 
 - [Archive](#archive)
 - [Content for future editions](#content-for-future-editions)
-- [Open Source Repositories](#open-source-repositories)
-- [Videos](#videos)
 - [Writing](../writing/newsletter.md)
 
 ## Archive
@@ -32,34 +30,40 @@ List of interesting external articles for developers or news in the tech industr
 
 List of Open Source repositories we shared or would like to share in our monthly newsletter.
 
-- [X] [Ajv](https://github.com/ajv-validator/ajv): The fastest JSON schema Validator
-- [ ] [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing): Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone
-- [X] [cool-retro-term](https://github.com/Swordfish90/cool-retro-term): a good looking terminal emulator which mimics the old cathode display
-- [X] [direnv](https://github.com/direnv/direnv): unclutter your .profile file
-- [X] [endoflife.date](https://github.com/endoflife-date/endoflife.date): informative site with EoL dates of everything
-- [X] [Gradio](https://github.com/gradio-app/gradio): quickly create UIs for your machine learning model in Python
-- [X] [httpie](https://github.com/httpie/httpie): an user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more
-- [X] [Hukum](https://github.com/abskmj/hukum): displays Github Action progress in the terminal
-- [X] [go-jira](https://github.com/go-jira/jira): simple jira command line client in Go
-- [ ] [JSON Schema Store](https://github.com/SchemaStore/schemastore): a collection of JSON schema files including full API
-- [X] [Multipass](https://github.com/canonical/multipass): multipass orchestrates virtual Ubuntu instances
-- [X] [Penpot](https://github.com/penpot/penpot): the Open-Source design & prototyping platform
-- [ ] [Plyer](https://github.com/kivy/plyer): a platform-independent Python wrapper for platform-dependent & hardware APIs
-- [X] [PyScript](https://github.com/pyscript/pyscript): a framework that allows users to create rich Python applications in the browser using HTML
-- [X] [Topgrade](https://github.com/r-darwish/topgrade): Upgrade everything at once (Homebrew, pip/node packages, macOS applications & way more)
-- [ ] [xonsh](https://github.com/xonsh/xonsh): Python-powered, cross-platform, Unix-gazing shell
+- [Awesome Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing): Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone
+- [JSON Schema Store](https://github.com/SchemaStore/schemastore): a collection of JSON schema files including full API
+- [Plyer](https://github.com/kivy/plyer): a platform-independent Python wrapper for platform-dependent & hardware APIs
+- [xonsh](https://github.com/xonsh/xonsh): Python-powered, cross-platform, Unix-gazing shell
+
+#### Previously shared
+
+- [Ajv](https://github.com/ajv-validator/ajv): The fastest JSON schema Validator
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term): a good looking terminal emulator which mimics the old cathode display
+- [direnv](https://github.com/direnv/direnv): unclutter your .profile file
+- [endoflife.date](https://github.com/endoflife-date/endoflife.date): informative site with EoL dates of everything
+- [Gradio](https://github.com/gradio-app/gradio): quickly create UIs for your machine learning model in Python
+- [httpie](https://github.com/httpie/httpie): an user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more
+- [Hukum](https://github.com/abskmj/hukum): displays Github Action progress in the terminal
+- [go-jira](https://github.com/go-jira/jira): simple jira command line client in Go
+- [Multipass](https://github.com/canonical/multipass): multipass orchestrates virtual Ubuntu instances
+- [Penpot](https://github.com/penpot/penpot): the Open-Source design & prototyping platform
+- [PyScript](https://github.com/pyscript/pyscript): a framework that allows users to create rich Python applications in the browser using HTML
+- [Topgrade](https://github.com/r-darwish/topgrade): Upgrade everything at once (Homebrew, pip/node packages, macOS applications & way more)
 
 ### Videos
 
 List of videos we shared or would like to share in our monthly newsletter.
 
-- [X] [API Builder](https://www.youtube.com/watch?v=VvOOOYn38ws)
-- [X] [Developers Documentation: Your Secret Weapon](https://www.youtube.com/watch?v=SfKYuIDh8bY)
-- [X] [Discover Mindee with Emmanuelle Thomas, Director of Product](https://www.youtube.com/watch?v=Gd1QvKBnlF4)
-- [X] [Discover Mindee with Frédéric Harper, Director of Developer Relations](https://www.youtube.com/watch?v=Jn8XOlPWF-4)
-- [X] [Discover Mindee with Jérémy Lixandre, Devops Architect](https://www.youtube.com/watch?v=TWt5E9fXj1M)
-- [ ] [Discover Mindee with Jonathan Grandperrin, CEO](https://www.youtube.com/watch?v=PDCATS_XLxY)
-- [X] [Discover Mindee with Mehdi Boubnan, Data Scientist](https://www.youtube.com/watch?v=cZl2Vyf6qxo)
-- [ ] [Don't .gitignore mental health at DEVOXX UK, by Frédéric Harper, Director of Developer Relations at Mindee](https://www.youtube.com/watch?v=6aiLh4tTSzE)
-- [X] [GGV Capital - The Future of Software with Jonathan Grandperrin, CEO of Mindee](https://www.youtube.com/watch?v=ucuNK2UcHIQ)
-- [X] [Mindee docTR - Probably the Best Open-Source OCR by Andrej Baranovskij](https://www.youtube.com/watch?v=3nYPIDCToes)
+- [Discover Mindee with Jonathan Grandperrin, CEO](https://www.youtube.com/watch?v=PDCATS_XLxY)
+- [Don't .gitignore mental health at DEVOXX UK, by Frédéric Harper, Director of Developer Relations at Mindee](https://www.youtube.com/watch?v=6aiLh4tTSzE)
+
+#### Previously shared
+
+- [API Builder](https://www.youtube.com/watch?v=VvOOOYn38ws)
+- [Developers Documentation: Your Secret Weapon](https://www.youtube.com/watch?v=SfKYuIDh8bY)
+- [Discover Mindee with Emmanuelle Thomas, Director of Product](https://www.youtube.com/watch?v=Gd1QvKBnlF4)
+- [Discover Mindee with Frédéric Harper, Director of Developer Relations](https://www.youtube.com/watch?v=Jn8XOlPWF-4)
+- [Discover Mindee with Jérémy Lixandre, Devops Architect](https://www.youtube.com/watch?v=TWt5E9fXj1M)
+- [Discover Mindee with Mehdi Boubnan, Data Scientist](https://www.youtube.com/watch?v=cZl2Vyf6qxo)
+- [GGV Capital - The Future of Software with Jonathan Grandperrin, CEO of Mindee](https://www.youtube.com/watch?v=ucuNK2UcHIQ)
+- [Mindee docTR - Probably the Best Open-Source OCR by Andrej Baranovskij](https://www.youtube.com/watch?v=3nYPIDCToes)

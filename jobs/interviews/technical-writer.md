@@ -8,8 +8,8 @@
     - Nothing is set in stone. No voice & tone document. No detailed process. We are a startup.
     - What I'm looking for is someone eager to learn, who have a high attention to details (links in your resume, some links or spaces/break lines missing in your articles...), and can be somewhat autonomous.
 - What is your process to write about a technology you don't know yet?
-- How do you come up with the topics yourwant to write about on your blog?
+- How do you come up with the topics you want to write about on your blog?
 - Did you read our documentation? What would you improve?
-- If there's a new feature coming out soon that you don't have time to finish documenting, is it better to publish no docs or partial docs? Why?
+- Is it better to publish no docs or partial docs if a new feature is coming out soon and you don't have time to finish documenting it? Why?
 - Imagine that, by some miracle, there's nothing in the queue. No releases, no projects. What do you do?
 - What do you imagine your ideal team being?
